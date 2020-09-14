@@ -1,0 +1,11 @@
+
+
+Card JSON Description
+-------------------------
+
+{
+	metadata : {...}
+	items: [
+	
+	]
+}

@@ -1,0 +1,2472 @@
+{
+    "result": [
+        {
+            "id": "kcz7n0fk1ps4yv",
+            "prof": "Zvezdelina Stankova",
+            "course_num": "MATH 110",
+            "course_name": "Linear Algebra"
+        },
+        {
+            "id": "kdz103x5krx3jv",
+            "prof": "Douglas Koshland",
+            "course_num": "MCB 140",
+            "course_name": "General Genetics"
+        },
+        {
+            "id": "ke1qafm27ca6tv",
+            "prof": "Kieran Peleaux, Clark Nguyen, Qiutong Jin, David Au",
+            "course_num": "EE 105",
+            "course_name": "Microelectronic Devices and Circuits"
+        },
+        {
+            "id": "k9oht19rtfr5y",
+            "prof": "Jeff Edleson",
+            "course_num": "SOC WEL 114",
+            "course_name": "Practice in Social Work"
+        },
+        {
+            "id": "ke53xuwipd14xc",
+            "prof": "Mark H Butler",
+            "course_num": "DATASCI W266",
+            "course_name": "DATASCI W266: Natural Language Processing"
+        },
+        {
+            "id": "ka720nbvvip283",
+            "prof": "Sylvie Corteel",
+            "course_num": "MATH 55 - LEC 001",
+            "course_name": "Discrete Mathematics"
+        },
+        {
+            "id": "kaingcuacl23y2",
+            "prof": "Patrick Bradshaw",
+            "course_num": "PB HLTH 252",
+            "course_name": "Epidemiologic Analysis"
+        },
+        {
+            "id": "ke3dwbmk1ma6rf",
+            "prof": "Van P. Carey",
+            "course_num": "ME 40",
+            "course_name": "Thermodynamics"
+        },
+        {
+            "id": "kaucp51443h5sd",
+            "prof": "Hector P Rodriguez",
+            "course_num": "PH 224 2020",
+            "course_name": "PH 224: Organizational Behavior and Management in Health Care"
+        },
+        {
+            "id": "kbd1uxr9q4o2nc",
+            "prof": "Dr. Robak",
+            "course_num": "CHEM 3A - FALL 2020",
+            "course_name": "Chem 3A (Fall 2020)"
+        },
+        {
+            "id": "keafyt803mdg",
+            "prof": "Christopher Ryba",
+            "course_num": "MATH 113",
+            "course_name": "Math 113 - Section 1"
+        },
+        {
+            "id": "kdauunovby9yx",
+            "prof": "Hae Jeong Cho",
+            "course_num": "ECON 1",
+            "course_name": "Introduction to Economics"
+        },
+        {
+            "id": "kblbpmq9pmn2ln",
+            "prof": "Patina Mendez",
+            "course_num": "ESPM 175",
+            "course_name": "ESPM 175 [F2020]"
+        },
+        {
+            "id": "ke9i0owryzz4zo",
+            "prof": "Per-Olof Persson",
+            "course_num": "MATH 128A",
+            "course_name": "Numerical Analysis"
+        },
+        {
+            "id": "kboh8tm26ks2sm",
+            "prof": "Ken Ribet",
+            "course_num": "MATH 250A",
+            "course_name": "Abstract Algebra"
+        },
+        {
+            "id": "ke4mgu70n7z5q4",
+            "prof": "Zihao Chen, Adam Lucas",
+            "course_num": "STAT 155",
+            "course_name": "Game Theory"
+        },
+        {
+            "id": "kbsll0osl9r4cx",
+            "prof": "Christopher Kevin Ansell",
+            "course_num": "PS 181",
+            "course_name": "Public Administration & Organization"
+        },
+        {
+            "id": "kbv6d9zppn51iv",
+            "prof": "Barbara Laraia",
+            "course_num": "PH 206",
+            "course_name": "PH206 Critical Issues in Public Health Nutrition"
+        },
+        {
+            "id": "kbvasui3yvh43s",
+            "prof": "Robin Ball",
+            "course_num": "MCB 160L F20",
+            "course_name": "Neurobiology Laboratory (Fall 2020)"
+        },
+        {
+            "id": "kc556f4o88w4bw",
+            "prof": "Ian Castro",
+            "course_num": "INFO 290/CP 298",
+            "course_name": "Introduction to Data Science for Graduate Students"
+        },
+        {
+            "id": "kc5ew0472b75gw",
+            "prof": "None",
+            "course_num": "ARCH 230",
+            "course_name": "Advanced Architectural Design Theory and Criticism"
+        },
+        {
+            "id": "kc9j1mn3pnakv",
+            "prof": "Fotini Katopodes CHOW",
+            "course_num": "CIVENG 200A FALL 2020",
+            "course_name": "Environmental Fluid Mechanics I (Fall 2020)"
+        },
+        {
+            "id": "kc9wfmpkl4m1eq",
+            "prof": "Eric Paulos",
+            "course_num": "CS 160/260A",
+            "course_name": "User Interface Design"
+        },
+        {
+            "id": "kcb1wu1ndyn50v",
+            "prof": "Sarah Yang (She/Her)",
+            "course_num": "CBE 298",
+            "course_name": "How to Get a Chemical Engineering PhD"
+        },
+        {
+            "id": "kccadn8xrxf3fa",
+            "prof": "Stathis G. Yeros",
+            "course_num": "ARCH 110AC",
+            "course_name": "The Social and Cultural Basis of Design"
+        },
+        {
+            "id": "kcchr4dtwk56x",
+            "prof": "Michael Gollner",
+            "course_num": "ME 109",
+            "course_name": "Heat Transfer"
+        },
+        {
+            "id": "kcdz8i2ln5v5pc",
+            "prof": "Hannah Stuart",
+            "course_num": "MEC 102B",
+            "course_name": "MEC ENG 102B - Mechatronics Design"
+        },
+        {
+            "id": "kce0bemx3mr2de",
+            "prof": "Dr. Wendy Muse Sinek",
+            "course_num": "PS 1",
+            "course_name": "Introduction to American Politics"
+        },
+        {
+            "id": "kce0j0rolc62lo",
+            "prof": "Dr. Wendy Muse Sinek",
+            "course_num": "PS 2",
+            "course_name": "Introduction to Comparative Politics"
+        },
+        {
+            "id": "kcgfdvmf4am1fw",
+            "prof": "Amanda Dillon, Rebecca",
+            "course_num": "DATA 198_008",
+            "course_name": "Transfer Course for Data Science"
+        },
+        {
+            "id": "kcmwa5g9hl12vh",
+            "prof": "Kim Harley",
+            "course_num": "PBHLTH 210E - SEM 001",
+            "course_name": "Practicum in MCH Data Analysis I (Fall 2020)"
+        },
+        {
+            "id": "kcmwi3fnwa57di",
+            "prof": "Roger Isied, Tarek Ismail Zohdi",
+            "course_num": "ME 280A",
+            "course_name": "Introduction to the Finite Element Method"
+        },
+        {
+            "id": "kcoznf8enpq4h",
+            "prof": "Eric Schickler",
+            "course_num": "PS 290A",
+            "course_name": "Research and Writing"
+        },
+        {
+            "id": "kcpb1twje6i4ul",
+            "prof": "Mariane C Ferme",
+            "course_num": "ANTHROPOLOGY 3AC",
+            "course_name": "Introduction to Social/Cultural Anthropology (American Cultures)"
+        },
+        {
+            "id": "kcprzmnr4ty2ek",
+            "prof": "Shane Fan",
+            "course_num": "CS 198-073",
+            "course_name": "Cloud Computing and SaaS"
+        },
+        {
+            "id": "kcqdaxvl5se7ld",
+            "prof": "Julie Fornaciari, Karthik Shekhar, Francis Ledesma",
+            "course_num": "CBE 142",
+            "course_name": "Chemical Kinetics and Reaction Engineering"
+        },
+        {
+            "id": "kcqhiq3lkkj3rq",
+            "prof": "Julie Moss, Tayler Hennings",
+            "course_num": "PBHLTH 207A - LEC 001",
+            "course_name": "Public Health Aspects of Maternal and Child Nutrition (Fall 2020)"
+        },
+        {
+            "id": "kctjmwetrs52c1",
+            "prof": "Marlon Maus",
+            "course_num": "PBHLTH 101 - LEC 001",
+            "course_name": "A Sustainable World: Challenges and Opportunities (Fall 2020)"
+        },
+        {
+            "id": "kcvhh9ph3s2341",
+            "prof": "Kurt Spreyer",
+            "course_num": "ESPM 50AC",
+            "course_name": "Introduction to Culture and Natural Resource Management"
+        },
+        {
+            "id": "kcvikpfz46522q",
+            "prof": "Kurt Spreyer",
+            "course_num": "ESPM 102D",
+            "course_name": "Climate and Energy Policy"
+        },
+        {
+            "id": "kcw62cof7bh4ps",
+            "prof": "Michelle Ruiz",
+            "course_num": "150B",
+            "course_name": "PH150B: Human Health and the Environment in a Changing World"
+        },
+        {
+            "id": "kcw7guk6a4y412",
+            "prof": "Silvia Bunge",
+            "course_num": "PSYCH 125",
+            "course_name": "The Developing Brain"
+        },
+        {
+            "id": "kcw99ty7d1huz",
+            "prof": "Mariane C Ferme",
+            "course_num": "ANTHRO 3AC - LEC 001",
+            "course_name": "Introduction to Social/Cultural Anthropology (American Cultures) (Fall 2020)"
+        },
+        {
+            "id": "kcwb9c7hro71ue",
+            "prof": "Corinne",
+            "course_num": "PH 142",
+            "course_name": "PH142 Fall 2020"
+        },
+        {
+            "id": "kcxx9wevpms4iy",
+            "prof": "Julie Moss",
+            "course_num": "PBHLTH 213A - LEC 001",
+            "course_name": "Family Planning, Population Change, and Health (Fall 2020)"
+        },
+        {
+            "id": "kcy0tnit1iw3w",
+            "prof": "Jack Moehle",
+            "course_num": "CE 244",
+            "course_name": "Reinforced Concrete Structures"
+        },
+        {
+            "id": "kcy3a3u9fzsuk",
+            "prof": "Sunny Sun",
+            "course_num": "CS 198-097",
+            "course_name": "Robot Autonomous Racing Decal"
+        },
+        {
+            "id": "kcz3c81l5bg6oz",
+            "prof": "Jack Moehle",
+            "course_num": "CIVENG 244 - LEC 001",
+            "course_name": "Reinforced Concrete Structures (Fall 2020)"
+        },
+        {
+            "id": "kcz72fix73m3kp",
+            "prof": "Julie Moss, Kristine Madsen",
+            "course_num": "PBHLTH 290 - SEM 007",
+            "course_name": "Transforming Food Systems"
+        },
+        {
+            "id": "kcz7m0s8hxyab",
+            "prof": "Brittany Daws, Sabeeha Merchant, Susanna Yaeger-Weiss",
+            "course_num": "22769",
+            "course_name": "MCB102 F2020"
+        },
+        {
+            "id": "kczd3dn1srs78t",
+            "prof": "Filippou",
+            "course_num": "CIVENG 220 - LEC 001",
+            "course_name": "Structural Analysis Theory and Applications (Fall 2020)"
+        },
+        {
+            "id": "kczehymkqk65ew",
+            "prof": "Ronald Fearing",
+            "course_num": "EE C128 / ME C134",
+            "course_name": "Feedback Control Systems"
+        },
+        {
+            "id": "kd0ez6mgc3m2eu",
+            "prof": "Rushin Contractor, Boubacar Kante",
+            "course_num": "EE 118 / EE 218",
+            "course_name": "Introduction to Optical Engineering"
+        },
+        {
+            "id": "kd0m47q3e96yz",
+            "prof": "Kim Houghton, Dr. Robak",
+            "course_num": "Chem 3A - Fall 2020 GSIs",
+            "course_name": "Chem 3A - Fall 2020 GSIs"
+        },
+        {
+            "id": "kd0r8fgtduc53l",
+            "prof": "Angjoo Kanazawa",
+            "course_num": "294-173",
+            "course_name": "Learning for 3D Vision"
+        },
+        {
+            "id": "kd1qibuetya299",
+            "prof": "Robert J. FULL",
+            "course_num": "INTEGBI 148 - LEC 001",
+            "course_name": "Comparative Animal Physiology (Fall 2020)"
+        },
+        {
+            "id": "kd4s0j7so6h48a",
+            "prof": "Ryan Edwards",
+            "course_num": "DEMOG 110",
+            "course_name": "Introduction to Population Analysis"
+        },
+        {
+            "id": "kd6v56j66f65pt",
+            "prof": "Elcin Unal",
+            "course_num": "MCB 200",
+            "course_name": "MCB 200"
+        },
+        {
+            "id": "kd7nnf071ix38c",
+            "prof": "Julie Moss, Dina Dobraca",
+            "course_num": "PHW 253-PH257-OUTBREAK INVESTIGATIONS",
+            "course_name": "PHW253-PH257-Outbreak Investigations"
+        },
+        {
+            "id": "kd7qbx38zs2732",
+            "prof": "Shobhana Murali Stoyanov",
+            "course_num": "STAT 20 - LEC 002",
+            "course_name": "Introduction to Probability and Statistics (Stoyanov)"
+        },
+        {
+            "id": "kd7wh3wdfmi6wc",
+            "prof": "Daniel James Acland",
+            "course_num": "ECON 119 FALL 2020",
+            "course_name": "Psych and Econ (Fall 2020)"
+        },
+        {
+            "id": "kd804lfrrhq2n9",
+            "prof": "Christopher Paciorek",
+            "course_num": "R-BOOTCAMP-FALL- 2020",
+            "course_name": "Berkeley 2020 Virtual R Bootcamp"
+        },
+        {
+            "id": "kd90sjworkp66s",
+            "prof": "Prof. Jessica Lu",
+            "course_num": "AY 160",
+            "course_name": "Stellar Physics"
+        },
+        {
+            "id": "kd9i4ebiu8a17r",
+            "prof": "Baoxia Mi",
+            "course_num": "CE 211A",
+            "course_name": "Physical Chemical Processes"
+        },
+        {
+            "id": "kd9i6h3kze01xr",
+            "prof": "Baoxia Mi",
+            "course_num": "CE 111",
+            "course_name": "Intro to Environmental Engineering"
+        },
+        {
+            "id": "kd9ro893fis2ig",
+            "prof": "Kate Sanders, Jennifer, Jitendra Malik, Christina Baek, Anant Sahai, Mandi Zhao, Beom Jin (Brian) Lee, Alexander Tsigler, Inigo Incer, Yimeng(Kobe) Wang, Gaoyue Zhou, Drew Kaul, Chawin Sitawarin, Alexander (Sasha) Sax, Eric Leong, Josh Sanz, Vignesh Subramanian, Ana Tudor, Rahul Arya, Edward Cen, Yaodong Yu, Peter Wang, Manav Rathod, Austin Nguyen, Pravin Ravishanker, Ruihan Guan, CS 189, Michael-David Sasson",
+            "course_num": "EECS 189/289A",
+            "course_name": "Introduction to Machine Learning (CS189/289A)"
+        },
+        {
+            "id": "kdal01sr4b25zy",
+            "prof": "Julie Moss, Hannah Mack",
+            "course_num": "PBHLTH 292 - SEM 005",
+            "course_name": "Seminars for  M.P.H. Students (Fall 2020)"
+        },
+        {
+            "id": "kdaq6c7dv5z6zr",
+            "prof": "Julie Moss",
+            "course_num": "PBHLTH 210 - LEC 001",
+            "course_name": "PBHLTH 210 Foundations of Maternal and Child Health Policy, Practice and Science (Fall 2020)"
+        },
+        {
+            "id": "kdaxnbqov192b7",
+            "prof": "Gustavo Valbuena",
+            "course_num": "HMS 200A",
+            "course_name": "PBL Unit 1"
+        },
+        {
+            "id": "kdddrprp4q46mz",
+            "prof": "reb",
+            "course_num": "MATH 256A",
+            "course_name": "Algebraic geometry"
+        },
+        {
+            "id": "kddtnvr5pql6eu",
+            "prof": "Jon Steinsson",
+            "course_num": "ECON 101B",
+            "course_name": "Economic Theory--Macro"
+        },
+        {
+            "id": "kde46qlguru2hk",
+            "prof": "Emi Nakamura",
+            "course_num": "ECON 134",
+            "course_name": "Macroeconomic Policy From The Great Depression"
+        },
+        {
+            "id": "kdefv1z5gv8s1",
+            "prof": "Alessandro Chiesa",
+            "course_num": "CS 294-153",
+            "course_name": "Foundations of Probabilistic Proofs"
+        },
+        {
+            "id": "kdeq7lpf9vs68v",
+            "prof": "James Hurley",
+            "course_num": "MCB 110",
+            "course_name": "Molecular Biology: Macromolecular Synthesis and Cellular Function"
+        },
+        {
+            "id": "kdev15ud8lk6t0",
+            "prof": "Srijani Ghosh",
+            "course_num": "THEATER R1B - LEC 009",
+            "course_name": "Performance: Writing and Research (Fall 2020)"
+        },
+        {
+            "id": "kdezkl0zgwygi",
+            "prof": "Matthew Jurow, Dr. Robak",
+            "course_num": "CHEM 3AL (FALL 2020)",
+            "course_name": "Organic Chemistry Laboratory (Fall 2020)"
+        },
+        {
+            "id": "kdf8jdjgvx56qd",
+            "prof": "Michelle Ruiz",
+            "course_num": "PHW 224 2020",
+            "course_name": "PHW224 2020"
+        },
+        {
+            "id": "kdg8xt0oh7d5or",
+            "prof": "Alistair Sinclair",
+            "course_num": "CS 294-180",
+            "course_name": "Partition Functions: Algorithms & Complexity"
+        },
+        {
+            "id": "kdgbq2nfakk4en",
+            "prof": "Julie Moss, John Swartzberg",
+            "course_num": "HMEDSCI 216 - SEM 002",
+            "course_name": "Clinical Medicine (Fall 2020)"
+        },
+        {
+            "id": "kdgil11bkd66qz",
+            "prof": "Hank Ibser",
+            "course_num": "STAT 20",
+            "course_name": "Introduction to Probability and Statistics"
+        },
+        {
+            "id": "kdgqfut9t83k3",
+            "prof": "Sophia Shao",
+            "course_num": "EECS 151 / 251A",
+            "course_name": "Introduction to Digital Design and Integrated Circuits"
+        },
+        {
+            "id": "kdhjudboby95c3",
+            "prof": "Chris Pyles",
+            "course_num": "DATA 88",
+            "course_name": "Data 88: Economic Models"
+        },
+        {
+            "id": "kdhkqjlgufr1o0",
+            "prof": "Talia Saravi, Yoram Rubin, Yoram N. RUBIN, Siena Moca",
+            "course_num": "CE 93 - HW",
+            "course_name": "Engineering Data Analysis"
+        },
+        {
+            "id": "kdhm68hv2s42b1",
+            "prof": "Yoram N. RUBIN",
+            "course_num": "CE 93 - LAB",
+            "course_name": "Engineering Data Analysis"
+        },
+        {
+            "id": "kdhvjzdceb91ll",
+            "prof": "Kevin Lu, Michael Whitmeyer, Shyam Parekh, Alan, Nikita Dhawan, Austin Lei, Clark Wang, Catherine Huang, Sean Meng, Sean Huang, Aditya Sengupta",
+            "course_num": "EECS 126",
+            "course_name": "Probability and Random Processes"
+        },
+        {
+            "id": "kdhwu6jviyf2k3",
+            "prof": "Anne Baranger, Alanna Schepartz, Katie Blackford",
+            "course_num": "CHEM 12A - LEC 001",
+            "course_name": "Organic Chemistry (Fall 2020)"
+        },
+        {
+            "id": "kdhzgcpwg269u",
+            "prof": "Jaijeet Roychowdhury",
+            "course_num": "EE 120",
+            "course_name": "Signals & Systems"
+        },
+        {
+            "id": "kdi06qk5hml2rv",
+            "prof": "Michelle Ruiz",
+            "course_num": "PH256/C256/CMPBIO156",
+            "course_name": "PH256/C256/CMPBIO156"
+        },
+        {
+            "id": "kdi1h9mq1g77nt",
+            "prof": "Kathy Yelick",
+            "course_num": "CS 194-15",
+            "course_name": "Engineering Parallel Software"
+        },
+        {
+            "id": "kdi9ei0k4fg1mq",
+            "prof": "Sara Hinkley",
+            "course_num": "CP 113A",
+            "course_name": "Economic Analysis for Planning"
+        },
+        {
+            "id": "kdj9ezm0u201gi",
+            "prof": "Kurt Spreyer",
+            "course_num": "ESPM 50AC - LEC 001",
+            "course_name": "ESPM 50AC"
+        },
+        {
+            "id": "kdjqps9av9a5zu",
+            "prof": "Kenneth Worthy",
+            "course_num": "XESPM 50AC - FPF 2020",
+            "course_name": "Introduction to Culture and Natural Resource Management (Fall 2020)"
+        },
+        {
+            "id": "kdkl6c3u1fw2rx",
+            "prof": "Will Fithian",
+            "course_num": "STAT 210A",
+            "course_name": "Theoretical Statistics"
+        },
+        {
+            "id": "kdkleqonmat6wk",
+            "prof": "Larry Karp",
+            "course_num": "ECON/EEP 102",
+            "course_name": "Natural Resource Economics"
+        },
+        {
+            "id": "kdkoh0gyi657gu",
+            "prof": "Rocky Little, Benjamin Pritchard",
+            "course_num": "(19328) - MSSE Boot-camp",
+            "course_name": "Foundations of Programming & Software Engineering"
+        },
+        {
+            "id": "kdkr8pqsxry1vk",
+            "prof": "Yu-Wei Fan",
+            "course_num": "MATH H54",
+            "course_name": "Linear Algebra (Honors)"
+        },
+        {
+            "id": "kdktix3lfbx30j",
+            "prof": "Alexei Efros",
+            "course_num": "CS 194-26 / 294-26",
+            "course_name": "Intro to Computer Vision and Computational Photography"
+        },
+        {
+            "id": "kdkuvqljxy44vr",
+            "prof": "David Nadler, David Nadler, Joseph Kearns",
+            "course_num": "MATH 54 - LEC 002",
+            "course_name": "Linear Algebra and Differential Equations (Fall 2020)"
+        },
+        {
+            "id": "kdkzy44g6y436j",
+            "prof": "Jinge Wang, Weikun Wu, Kameshwar Poolla, Sebastien Nejadnik",
+            "course_num": "MEC ENG 132",
+            "course_name": "Dynamic Systems and Feedback"
+        },
+        {
+            "id": "kdl3zwm9ju13rn",
+            "prof": "None",
+            "course_num": "CYPAN 256",
+            "course_name": "Healthy Cities"
+        },
+        {
+            "id": "kdl5cn50fh652e",
+            "prof": "Ananya Krishnan",
+            "course_num": "DATA 8",
+            "course_name": "Foundations of Data Science"
+        },
+        {
+            "id": "kdm6d5vaqyi1ri",
+            "prof": "Hector P Rodriguez, Michelle Ruiz, Douglas Aaron Pollack",
+            "course_num": "PH 224",
+            "course_name": "PH 224: Organizational Behavior and Management in Health Care"
+        },
+        {
+            "id": "kdnfmpmz3gk70e",
+            "prof": "Joan Walker",
+            "course_num": "CE 262",
+            "course_name": "Analysis of Transportation Data"
+        },
+        {
+            "id": "kdo94dnotzp1e5",
+            "prof": "Mesut Xiaocheng Yang, Carl Qi, Akshit Dewan, Jonathan Yang, Yanlai Yang, Cathy Li, Nathan Lambert, Arjun Sripathy, Aneri Shah, Katherine Shu, Arvind Sridhar, Kai Pin Ryan Koh, Andrea Bajcsy, Arin Nair, Saagar Sanghavi, Jennifer Grannen, Jocelyn Chen, Angela Yan, Emma Tao, Jerry He, Albert Yu, Anca Dragan, Jeffrey Tao",
+            "course_num": "CS 188",
+            "course_name": "Introduction to Artificial Intelligence"
+        },
+        {
+            "id": "kdp23q8pib49y",
+            "prof": "Rikky Muller",
+            "course_num": "EE 140 / 240A",
+            "course_name": "Linear Integrated Circuits"
+        },
+        {
+            "id": "kdp60ldbtte2l7",
+            "prof": "Birgitta Whaley",
+            "course_num": "CHEM 120A",
+            "course_name": "Physical Chemistry - Quantum Mechanics"
+        },
+        {
+            "id": "kdp6zc4cj2s7q",
+            "prof": "Sophia Rabe-Hesketh",
+            "course_num": "ED 275G_2020",
+            "course_name": "ED275G Online discussion"
+        },
+        {
+            "id": "kdpf1hntmo362a",
+            "prof": "Michelle Ruiz",
+            "course_num": "2020 250B",
+            "course_name": "2020 250B Epidemiologic Methods II"
+        },
+        {
+            "id": "kdpi3n8xorl1h7",
+            "prof": "Srijani Ghosh",
+            "course_num": "XENGLIS R1A - LEC 004",
+            "course_name": "Reading and Composition (Fall 2020)"
+        },
+        {
+            "id": "kdpi67b8xbc2f1",
+            "prof": "Srijani Ghosh",
+            "course_num": "XENGLIS R1A - LEC 003",
+            "course_name": "Reading and Composition (Fall 2020)"
+        },
+        {
+            "id": "kdq45xx1i5k4yn",
+            "prof": "Nicholas Weaver",
+            "course_num": "CS 194-50",
+            "course_name": "CS194-50: Safety, Security, and Policy"
+        },
+        {
+            "id": "kdq47d3aqy55pf",
+            "prof": "Nicholas Weaver",
+            "course_num": "CS 161",
+            "course_name": "Computer Security"
+        },
+        {
+            "id": "kdqa8na6i8n38j",
+            "prof": "Rhonda Righter",
+            "course_num": "IEOR 263A",
+            "course_name": "Stochastic Processes I"
+        },
+        {
+            "id": "kdqaaolhxjy37r",
+            "prof": "Clare Parker",
+            "course_num": "34013",
+            "course_name": "HIST100ST"
+        },
+        {
+            "id": "kdqerujtrkp46",
+            "prof": "Sophia Rabe-Hesketh",
+            "course_num": "EDUC 275G",
+            "course_name": "Hierarchical and Longitudinal Modeling (Fall 2020)"
+        },
+        {
+            "id": "kdqmlqeresp5yx",
+            "prof": "Koji Shimizu",
+            "course_num": "MATH 104 (LEC 003)",
+            "course_name": "Math 104 (Lec 003): Introduction to Analysis"
+        },
+        {
+            "id": "kcvz9o2gwq214q",
+            "prof": "Nir Yosef",
+            "course_num": "CS 176",
+            "course_name": "Algorithms for Computational Biology"
+        },
+        {
+            "id": "kdrvwqpxnen7mi",
+            "prof": "Larry Hyman",
+            "course_num": "LINGUIS 5",
+            "course_name": "Language and Linguistics"
+        },
+        {
+            "id": "kdrwqwl7yc94ur",
+            "prof": "Elizabeth Purdom",
+            "course_num": "STAT 201B",
+            "course_name": "Introduction to Statistics at an Advanced Level"
+        },
+        {
+            "id": "kdrz0a6m7tx683",
+            "prof": "Gaston Sanchez",
+            "course_num": "STAT 154",
+            "course_name": "Modern Statistical Prediction and Machine Learning"
+        },
+        {
+            "id": "kds20ugrluc4ma",
+            "prof": "Wenjun Zhang",
+            "course_num": "CBE 170A",
+            "course_name": "Biochemical Engineering"
+        },
+        {
+            "id": "kdsa50deezh45p",
+            "prof": "Armin Askari, Somayeh Sojoudi, Laurent El Ghaoui",
+            "course_num": "EE 227BT",
+            "course_name": "Convex Optimization"
+        },
+        {
+            "id": "kdt788e81cz6af",
+            "prof": "Julie Moss",
+            "course_num": "2020-BUILD-PHW200G-HEALTH AND SOCIAL BEHAVIOR BREADTH",
+            "course_name": "2020-BUILD-PHW200G-Health and Social Behavior Breadth"
+        },
+        {
+            "id": "kdt80q68d7s1me",
+            "prof": "Daniel Pirutinsky",
+            "course_num": "IND ENG 172",
+            "course_name": "Probability and Risk Analysis for Engineers"
+        },
+        {
+            "id": "kdt839zt7c02kw",
+            "prof": "Daniel Pirutinsky",
+            "course_num": "INDENG 242",
+            "course_name": "Applications in Data Analysis"
+        },
+        {
+            "id": "kdtelgtgnv417p",
+            "prof": "Nicholas Ward, Lisa Yang, Ofer Grossman, shafi goldwasser, Rachel Zhang, Vinod Vaikuntanathan, Raluca Ada Popa",
+            "course_num": "6.875/CS 276",
+            "course_name": "Cryptography"
+        },
+        {
+            "id": "kdtkbt7efoe6qe",
+            "prof": "Courtney Dressing",
+            "course_num": "ASTRON 7A",
+            "course_name": "Introduction to Astrophysics"
+        },
+        {
+            "id": "kducz9b1i3h78i",
+            "prof": "Justin Cheng, Saurav Chhatrapati, Chris Wong, adityagp@berkeley.edu, Ethan Shang, Alvin Cheung, Jerry Song, Allen Shen, Jennifer Tsui, Amy Hung, Noah Kuo, Kaitlyn Lee, Kayli, Yifan Zhao, Dylan Tran, Mantej Panesar, Samy Cherfaoui, Aditya Ramkumar, Su Min, Shreyas Krishnaswamy, Gabe Fierro",
+            "course_num": "CS 186",
+            "course_name": "Introduction to Database Systems"
+        },
+        {
+            "id": "kdui79sf71b5m7",
+            "prof": "David Nadler",
+            "course_num": "MATH 215A",
+            "course_name": "Algebraic Topology"
+        },
+        {
+            "id": "kdujqaj0vn36tx",
+            "prof": "Marjorie Went",
+            "course_num": "CHMENG 183 - LEC 001",
+            "course_name": "Climate Solutions Technologies (Fall 2020)"
+        },
+        {
+            "id": "kdujxvqhtky2hh",
+            "prof": "Gaspard Duchene",
+            "course_num": "ASTRO 120",
+            "course_name": "Optical and IR Astronomy Lab"
+        },
+        {
+            "id": "kduk0qawyu13vs",
+            "prof": "Manon Ironside",
+            "course_num": "COGSCI-PSYCH 127",
+            "course_name": "Cognitive Neuroscience 127 (Fall 2020)"
+        },
+        {
+            "id": "kdumgpebatb73d",
+            "prof": "Zhengyan Lun, Jingyang Wang, Luis, Zinab Jadidi, Gerbrand Ceder",
+            "course_num": "MSE 201A",
+            "course_name": "THERMODYNAMICS AND PHASE TRANSFORMATIONS IN SOLIDS"
+        },
+        {
+            "id": "kduqa4b899wsa",
+            "prof": "Michelle Ruiz",
+            "course_num": "PH 252C",
+            "course_name": "2020 PH252C Intervention Trial Design"
+        },
+        {
+            "id": "kdureom7avo7lf",
+            "prof": "Jaeyun Stella Seo, Sairanjith Thalanki, Ritika Shrivastava, Tiffany Cappellari, Kyoungtae Lee, Amay Saxena, Isabella Huang, Jay Monga, DONGGUN LEE, S. Shankar Sastry, Shankar Sastry, Hung-Ju Wang, Shawn Shacterman, Josephine Koe, Son Tran",
+            "course_num": "EECS C106A/206A",
+            "course_name": "EECS C106A / BIOE C106A / EE 206A"
+        },
+        {
+            "id": "kdus0lztca15oq",
+            "prof": "Josh Hug",
+            "course_num": "CS 195",
+            "course_name": "Social Implications of Computer Technology"
+        },
+        {
+            "id": "kdute0s7i3056h",
+            "prof": "Anne Collins",
+            "course_num": "COGSCI C131 / PSYCH C123",
+            "course_name": "Computational Models of Cognition"
+        },
+        {
+            "id": "kdutvqvdaaooo",
+            "prof": "Michelle Ruiz",
+            "course_num": "PH200J",
+            "course_name": "Health Policy & Management Breadth"
+        },
+        {
+            "id": "kduuzgveuocvj",
+            "prof": "Shaofan Li",
+            "course_num": "E 7",
+            "course_name": "Introduction to Computer Programming for Scientists and Engineers"
+        },
+        {
+            "id": "kduxfmy739q6yg",
+            "prof": "David Mrdjenovich, Kristin Persson",
+            "course_num": "E 40",
+            "course_name": "Engineering Thermodynamics"
+        },
+        {
+            "id": "kdw5lcfcmk15sk",
+            "prof": "Alexander Hong",
+            "course_num": "CS 198-3",
+            "course_name": "UCBUGG: 3D Modeling and Animation"
+        },
+        {
+            "id": "kdwckjz6kkf37u",
+            "prof": "john flannery",
+            "course_num": "206 A/D",
+            "course_name": "vision science"
+        },
+        {
+            "id": "kdwirzntjc1wg",
+            "prof": "Marc Lim, Lily Shang",
+            "course_num": "BIOE 103",
+            "course_name": "Engineering Molecules 2"
+        },
+        {
+            "id": "kdxsrxzejp77mg",
+            "prof": "Wooseok Ha",
+            "course_num": "STAT 88",
+            "course_name": "Probability and Mathematical Statistics for Data Science"
+        },
+        {
+            "id": "kdxw2y0ajnb2ds",
+            "prof": "Amy deHart, Andreas Martin",
+            "course_num": "MCB 110L",
+            "course_name": "General Chemistry and Molecular Biology Laboratory"
+        },
+        {
+            "id": "kdxzfr1mmy162j",
+            "prof": "Yun S. Song",
+            "course_num": "CMPBIO 275",
+            "course_name": "Computational Biology Seminar/Journal Club (Fall 2020)"
+        },
+        {
+            "id": "kdynk4obld755p",
+            "prof": "None",
+            "course_num": "STAT 133",
+            "course_name": "STAT 133 Concepts in Computing with Data"
+        },
+        {
+            "id": "kdynl0jtawp2zc",
+            "prof": "SONG SUN",
+            "course_num": "1A 002 LEC",
+            "course_name": "Math 1A Calculus-lecture 002"
+        },
+        {
+            "id": "kdynnebzksw4b9",
+            "prof": "Gaston Sanchez",
+            "course_num": "STAT 133 LEC 1",
+            "course_name": "Concepts in Computing with Data"
+        },
+        {
+            "id": "kdynxsfb6or5hb",
+            "prof": "Todd Fitch",
+            "course_num": "FALL 2020 UGBA 101A",
+            "course_name": "Fall 2020 - UGBA 101A - Microeconomic Analysis for Business Decisions"
+        },
+        {
+            "id": "kdyp6kjk8r0506",
+            "prof": "Lihua ZHANG",
+            "course_num": "CHINESE 1A",
+            "course_name": "Elementary Chinese 1A (Fall 2020)"
+        },
+        {
+            "id": "kdypmqg2els3j2",
+            "prof": "SONG SUN",
+            "course_num": "MATH 1A 002 LEC",
+            "course_name": "MATH1A LEC 002 (SUN)"
+        },
+        {
+            "id": "kdys833j57166h",
+            "prof": "wehrheim@berkeley.edu",
+            "course_num": "MATH 375",
+            "course_name": "Teaching workshop"
+        },
+        {
+            "id": "kdyzs9ewr5v6wh",
+            "prof": "Prof. Holliday",
+            "course_num": "PHILOS 148",
+            "course_name": "Probability and Induction"
+        },
+        {
+            "id": "kdz1eiyv7o532c",
+            "prof": "Giuseppina Forte",
+            "course_num": "ARCH 130",
+            "course_name": "Introduction to Design Theory and Criticism"
+        },
+        {
+            "id": "kdz1fhwxxv77h6",
+            "prof": "Victor Miller, Ali Mesbah, Ahmad Alkadri",
+            "course_num": "CBE 162",
+            "course_name": "Dynamics and Control of Chemical Processes"
+        },
+        {
+            "id": "kdz1hzf1zg819h",
+            "prof": "Prof. Holliday",
+            "course_num": "PHILOS 143",
+            "course_name": "Modal Logic"
+        },
+        {
+            "id": "kdz3b3err754c1",
+            "prof": "Thomas Scanlon",
+            "course_num": "MATH 16A",
+            "course_name": "Analytic Geometry and Calculus"
+        },
+        {
+            "id": "kdz3iw2pa54in",
+            "prof": "Susan Muller",
+            "course_num": "CHMENG 150A - FALL 2020",
+            "course_name": "Transport Processes (Fall 2020)"
+        },
+        {
+            "id": "kdz4itbon463xr",
+            "prof": "Srijani Ghosh",
+            "course_num": "ENGLISH R1A - LEC 007",
+            "course_name": "Reading and Composition (Fall 2020)"
+        },
+        {
+            "id": "kdz4wzqnb6052o",
+            "prof": "Sherry Fan, Alex Kassil, Aaron Chen, Catherine Cang, Shayna Kothari, Griffin Prechter, Derek Wan, Rahul Arya, Amrita Palaparthi, Cesar Plascencia Zuniga, Richard Roggenkemper, Sean O'Brien, Nancy Shaw, Albert Xu, Addison Chan, Jade Singh, John DeNero, Hany Farid, CS61A Student Account, CS 61A, Ben Cuan, Minnie Chen, Daniel Shin, Arushi Somani, Han  Qi, Jennifer Huang, Cooper Bedin, Matthew Guo, Sahil Morchi, Selina Wu, Sean Sananikone, Kenny Chi, Rahul Devarapalli, Todd Yu, Jenny Mei, Steven Chen, Uma Unni, Eknoor Kaur, Melvin Aristio, George Gikas, Julie Ma, Sameer Saptarshi, Kristy Lee, Christopher Wang, Jamie Hong, Vanshaj Singhania, Christine Luo, Jessica Yu, Parth Gupta, Caitlin, Andrew Lenz, Yongming Ge, Mohsin Sarwari, Rohan D'Souza, Pranad Reddy, Chi Tsai, Ivan Penev, Alicia Wang, Animesh, Alina Herri, Brandon Choy, Abhinav Ashar, Samuel Taplin, Sophia Xiao, Owen Gong, Mathilde McKeever, Gurkaran Singh Goindi, Lucy Wan, Catherine Gee, Olivia Shiah, Amit Bhat, Melanie Cooray, Imran Khaliq-Baporia, Evelyn Liu, Kevin Yang, Kevin Zhu, Megan Zhu, Vivian Lu, John Ian So, Kaavya Shah, Jenny Wang, Richard Zhu, Tran Ngoc Linh, Crystal Wang, Laryn Qi, Grant Han, Eric Wang, Yersultan Sapar, Nikhita Anumukonda, Patricia Ouyang, Melody Sifry, Sarina, SreeVidya Ganga, Andrew Shieh, Angela Jiang, Lauren Meier, Khushi Malde, Brandon Shin, Joshua Baum, Jemmy Zhou, Constance Shi, Michael Lu, Timothy Tu, Jason Chang, Ethan Chiu, Ethan Yeh, Benny Jiang, Connie Huang, Kevin Li, Shifa Sabaat, Francis Pan, Liya Mulugeta, Marie Chorpita, Neha Haq, Daphne Yiran Pan, Lauren Zhou, Ryan Chao, Serena Zhang, Emma Yokota, Joy Chang, Kunal Dutta, Andrew McGuire, Amritansh Saraf, Omotara Oloye, Hongli Zhao, Yixuan Li, Matthew Jihoon Lee, Brandon Sanchez, jazzly anderson, Jeffrey Deng, Jenny Wu, Anikait Singh, Robert Lin, Haoxiang He",
+            "course_num": "CS 61A",
+            "course_name": "Structure and Interpretation of Computer Programs"
+        },
+        {
+            "id": "kdz50ztjhsq3jf",
+            "prof": "Shahzar, Rahul Jain, Ani Adhikari, Anna Nguyen, Ryan Roggenkemper, Huiyi Zhang, Ophelia Wang, Xinran Liang, Zihan Wen, Michael Xiao, Shichao Han, Alan Liu, Madeleine Peng, Rachel Chen, Wallace Lim, Dominic Liu, Chandana Bhimarao, Ewen Dai, Tyler VanderLey, VamberYang, Siddharth Gangrade, Zaynah Javed",
+            "course_num": "PROB 140",
+            "course_name": "Probability for Data Science"
+        },
+        {
+            "id": "kdz5pbqonm44rm",
+            "prof": "Caroline Gezon, Julie Moss",
+            "course_num": "PBHLTH W212 & MDP - WBL 001",
+            "course_name": "PHW212 & MDP- 2020 - Foundations of Global Health"
+        },
+        {
+            "id": "kdz5sei42773m2",
+            "prof": "Hany Farid",
+            "course_num": "INFO 206A",
+            "course_name": "Introduction to Programming and Computation"
+        },
+        {
+            "id": "kdz5yivl7g74vv",
+            "prof": "Hany Farid",
+            "course_num": "INFO 206B",
+            "course_name": "Introduction to Data Structures and Analytics"
+        },
+        {
+            "id": "kdz6p8xyf4e48t",
+            "prof": "Helen Bateup",
+            "course_num": "MCB 160",
+            "course_name": "Cellular and Molecular Neurobiology (Fall 2020)"
+        },
+        {
+            "id": "kdz8ewyoiki65t",
+            "prof": "Andrew Hoffman, Sergiy Vasylyev, Alex Filippenko, AJ Olvera, Shaunak Modak, Abel Yagubyan, Jackie Blaum, Michelle, Fatima, Jacob Pilawa, James Sunseri, Ruoyi Yin, Matthew Chu, Tyler Cox",
+            "course_num": "ASTRONOMY C10",
+            "course_name": "Introduction to General Astronomy"
+        },
+        {
+            "id": "kdz9yvk96jr7ch",
+            "prof": "John Kuriyan",
+            "course_num": "MCB C100A/CHEM 130",
+            "course_name": "Biophysical Chemistry"
+        },
+        {
+            "id": "kdzar53md252e",
+            "prof": "James Campbell",
+            "course_num": "ECON 100A",
+            "course_name": "Economic Analysis--Micro (Fall 2020)"
+        },
+        {
+            "id": "kdzjde4lics4h0",
+            "prof": "Daniel Fletcher",
+            "course_num": "BIOE 168L",
+            "course_name": "168L"
+        },
+        {
+            "id": "kdznn2p7a5ils",
+            "prof": "Yun S. Song",
+            "course_num": "STAT 135",
+            "course_name": "Concepts of Statistics (Fall 2020)"
+        },
+        {
+            "id": "kdzsgvyyyhm33a",
+            "prof": "Arun Sharma",
+            "course_num": "XMATH 1A",
+            "course_name": "Calculus"
+        },
+        {
+            "id": "ke06087xbga6l0",
+            "prof": "Ren Ng",
+            "course_num": "CS 294-164",
+            "course_name": "Computational Color"
+        },
+        {
+            "id": "ke07o86bqy62qi",
+            "prof": "Alexander Khazatsky, Aviral Kumar, Vitchyr Pong, Sergey Levine, Michael Janner",
+            "course_num": "CS 285",
+            "course_name": "CS 285: Deep Reinforcement Learning"
+        },
+        {
+            "id": "ke089itl2ao3q2",
+            "prof": "Tom Courtade",
+            "course_num": "EE 226A",
+            "course_name": "Random Processes in Systems"
+        },
+        {
+            "id": "ke08u7nkbmn36f",
+            "prof": "Roy Zhao, Zvezdelina Stankova, Dun Tang",
+            "course_num": "MATH 74",
+            "course_name": "Transition to Upper Division Mathematics"
+        },
+        {
+            "id": "ke0aj8891ti71l",
+            "prof": "Maggie Avery",
+            "course_num": "EPS 88",
+            "course_name": "EPS 88: PyEarth, A Python Introduction of Earth Science"
+        },
+        {
+            "id": "ke0drkrwtse580",
+            "prof": "Olivia Benowitz, Sarah Rohrschneider, William, Agnieszka Smelkowska, Alan KARRAS",
+            "course_num": "GLOBAL 45 - LEC 001",
+            "course_name": "Survey of World History (Fall 2020)"
+        },
+        {
+            "id": "ke0gczri2ft58p",
+            "prof": "Betsy Pleasants",
+            "course_num": "PBHLTH 290 - SEM 010",
+            "course_name": "Developmental Science of Adolescence"
+        },
+        {
+            "id": "ke0iommzuy82yj",
+            "prof": "Stefan Divic, Ori Ganor",
+            "course_num": "PHYSICS 89",
+            "course_name": "Introduction to Mathematical Physics"
+        },
+        {
+            "id": "ke0mwss5bxj4hs",
+            "prof": "Varun Jhunjhunwalla, umesh vazirani, Emaan Hariri, Avishay Tal, Sean Huang, Shide Li, Tristan Xiao, Avinash Jain, Shreyansh Loharuka, Varun Murthy, Noah Kingdon, Manan Khattar, Lily Li, Srishti, Andrew Reddy, Melody Ding, Neil Palleti, Michael Chen, Vaibhav Gattani, Pranshu Bansal, Frank Liu, Qinhong Chen, Arun Ganesh, Angela Liu, Raghav Singh, Max Litster, James Chen, Charles Sun, Annamira O'Toole, Dylan Alberto Chima-Sanchez, Rachel De Jaen, Julius Vering, Nagaganesh Jaladanki, Reid Johnson, Nate Young, Elicia Ye, Kevin Zhu, Adnaan Sachidanandan, Jimmy Lee, Prince Wang, Adrian Fan, Andrew Wan, Jialin Li, Kevin Lin, CS170",
+            "course_num": "CS 170",
+            "course_name": "CS 170: Efficient Algorithms and Intractable Problems"
+        },
+        {
+            "id": "ke0npdimknv43u",
+            "prof": "Michael Meighan",
+            "course_num": "BIO 1A FA20",
+            "course_name": "2020 Fall Bio 1A"
+        },
+        {
+            "id": "ke0o3i0z3qq1rg",
+            "prof": "Michael Meighan, Erol Kepkep",
+            "course_num": "BIO 1AL FA20",
+            "course_name": "2020 Fall Bio 1AL"
+        },
+        {
+            "id": "ke0qub7vkrl5tr",
+            "prof": "Prof. Zach Pardos",
+            "course_num": "INFO 254 / DATA 144",
+            "course_name": "Data Mining & Analytics"
+        },
+        {
+            "id": "ke0u6bs8dhm2mq",
+            "prof": "Aditya Guntuboyina",
+            "course_num": "STAT 157/260",
+            "course_name": "Seminar on Topics in Probability and Statistics (Bayesian Statistics)"
+        },
+        {
+            "id": "ke0w4hw4lbu6mi",
+            "prof": "Moritz Hardt",
+            "course_num": "CS 281A/STAT241A",
+            "course_name": "Statistical Learning Theory"
+        },
+        {
+            "id": "ke18oun6rcp7kh",
+            "prof": "Jaimie Swartz",
+            "course_num": "EE 221A",
+            "course_name": "Linear System Theory"
+        },
+        {
+            "id": "ke1hfmx75mk4sv",
+            "prof": "James Duncan, Bin Yu",
+            "course_num": "STAT 215A",
+            "course_name": "Statistical Models: Theory and Application"
+        },
+        {
+            "id": "ke1q4m3c4px73j",
+            "prof": "Jelani Nelson",
+            "course_num": "CS 294-165",
+            "course_name": "Sketching Algorithms"
+        },
+        {
+            "id": "ke1uvynav3q5fx",
+            "prof": "Barna Saha",
+            "course_num": "IND ENG 290",
+            "course_name": "IEOR 290: Algorithms for Data Science"
+        },
+        {
+            "id": "ke1v5sqf3n42po",
+            "prof": "Kelli Talaska",
+            "course_num": "MATH 10A",
+            "course_name": "Math 10A"
+        },
+        {
+            "id": "ke1w34c24jls8",
+            "prof": "Ian Wang",
+            "course_num": "ESPM 137",
+            "course_name": "Landscape Ecology (Fall 2020)"
+        },
+        {
+            "id": "kd0ifacummd56a",
+            "prof": "Stephan Kaminsky",
+            "course_num": "CS 61C",
+            "course_name": "Great Ideas in Computer Architecture (Machine Structures)"
+        },
+        {
+            "id": "ke1zalsa3q816q",
+            "prof": "Thibault Fally",
+            "course_num": "ECON AND EEP C181",
+            "course_name": "International Trade"
+        },
+        {
+            "id": "ke21mc4qjwu3i8",
+            "prof": "Gloria Brar, Abby Dernburg",
+            "course_num": "MCB 133L SP20",
+            "course_name": "Physiology and Cell Biology Laboratory (Spring 2020)"
+        },
+        {
+            "id": "ke247r4hkkc6cr",
+            "prof": "Jared Fisher",
+            "course_num": "STAT 153",
+            "course_name": "Introduction to Time Series"
+        },
+        {
+            "id": "ke27r8v91h06j3",
+            "prof": "Ray Hawkins",
+            "course_num": "ECON 100B - LEC 001",
+            "course_name": "Economic Analysis--Macro (Fall 2020)"
+        },
+        {
+            "id": "ke2al2cuk324jz",
+            "prof": "Alexis Shusterman",
+            "course_num": "CHEM 32",
+            "course_name": "CHEM 32"
+        },
+        {
+            "id": "ke2bek6eb5s700",
+            "prof": "Amanda D Perez",
+            "course_num": "PSYCH 102 - LEC 001",
+            "course_name": "Methods for Research in Psychological Sciences (Fall 2020)"
+        },
+        {
+            "id": "ke2kl8vgddz6x8",
+            "prof": "Francisco Armero",
+            "course_num": "CE 30-ME85",
+            "course_name": "CE30-ME85 - LEC 002 Introduction to Solid Mechanics (Fall 2020)"
+        },
+        {
+            "id": "ke2ynd8se6g47l",
+            "prof": "Michelle Ruiz",
+            "course_num": "PHW 290: R FOR PUBLIC HEALTH",
+            "course_name": "PHW290: R for Public Health"
+        },
+        {
+            "id": "ke30bj9vm7s6ro",
+            "prof": "Joel Moore",
+            "course_num": "PHYS 137A LEC 002",
+            "course_name": "PHYSICS 137A LEC 002 (Moore)"
+        },
+        {
+            "id": "ke30g81qvyd5w9",
+            "prof": "Gloria Brar, Sam Smith",
+            "course_num": "MCELLBI 133L - LEC 001",
+            "course_name": "Physiology and Cell Biology Laboratory (Fall 2020)"
+        },
+        {
+            "id": "ke326x68q8s3vx",
+            "prof": "P Robert Beatty, Katie Deets, Russell Vance, Laurent Coscoy",
+            "course_num": "MCELLBI 55 - LEC 001",
+            "course_name": "Plagues and Pandemics (Fall 2020)"
+        },
+        {
+            "id": "ke34vj0hwih1kn",
+            "prof": "Adam Uliana, Rui Wang",
+            "course_num": "CHM ENG 141",
+            "course_name": "Chemical Engineering Thermodynamics"
+        },
+        {
+            "id": "ke37haavnl86ul",
+            "prof": "Suraj Rampure, Fernando Perez, Ishaan Srivastava, Kunal Agarwal, Kevin Moy, Olivia Qin, Samantha Hing, Raguvir Kunani, Violet Yao, Agnibho Roy, Doris Xin, Japjot Singh, Samir Naqvi, David Yi, Julie Yu, Jennifer Shih, Sophie Phillips, Erica Kong, Andy Sheu, Parth Baokar, Rami Mostafa, Chris Pyles, Jessica Wu, Ana Tudor, Susan Hao, Isaac Schmidt, Pranav Nagarajan, Akshara Majjiga, Shaviv Hoffman-Lowitz, Albert Tang, Jay Kakkar, Luanne Yang, Kiran Raj Gobal, Ruby Aujla, Rohan Hajela, Angela Guan, Sunny Shen, Wallace Lim, Erika Mack, Kevin Yang, Marian Goldman, Tom Kim, Zachary Wu, Henry Maier, Ritvik Iyer, John Tsortos, Pranshu Bansal, Yao Liang, Aaron, Brandon Lee, Anthony D. Joseph, Data 100 Instructional Account",
+            "course_num": "DATA 100",
+            "course_name": "Principles and Techniques of Data Science"
+        },
+        {
+            "id": "ke39arld7ko5q2",
+            "prof": "Mark Hansen, Lu DAI",
+            "course_num": "CE 252",
+            "course_name": "Systems Analysis in Transportation"
+        },
+        {
+            "id": "ke39tebctj86sp",
+            "prof": "Ali Niknejad",
+            "course_num": "242B",
+            "course_name": "Advanced Integrated Circuits for Communication"
+        },
+        {
+            "id": "ke3aj8z75apb0",
+            "prof": "Amanda Jackson, Michelle Mao, Moses Won, Neelesh Ramachandran, Leyla Kabuli, Austin Patel, SASHANK KRISHNAMURTHY, Tyler Reichanadter, Lily Bhattacharjee, Meghana Bharadwaj, CHRISTOS GEORGIOS ADAMOPOULOS, Kristina Monakhova, Dixun Cui, Vijay Govindarajan, Rohan Sood, Tsegereda Esatu, Raghav Gupta, Varun Menon, Ava, Panagiotis, Sumer Kohli, Dahlia Saba, Jeff Chen, Wendy Lin, Vidish Gupta, Aster Guan, Urmita Sikder, Anika Ramachandran, Jianshu, Miyuki Weldon, Teresa Yang, Daniel Abraham, Peter Zhu, Luke Liu, Gireeja Ranade, Gloria Tumushabe, Ashwin Reddy, Wahid Rahman",
+            "course_num": "EECS 16A",
+            "course_name": "EECS 16A: Designing Information Devices and Systems I (Fall 2020)"
+        },
+        {
+            "id": "ke3dvsz5by81hd",
+            "prof": "Alan Kren",
+            "course_num": "CE 122",
+            "course_name": "Design of Steel Structures"
+        },
+        {
+            "id": "ke3e15prg5p6vj",
+            "prof": "Christopher Paciorek",
+            "course_num": "STAT 243",
+            "course_name": "Introduction to Statistical Computing"
+        },
+        {
+            "id": "ke3e63y42feec",
+            "prof": "Clare V. TALWALKER",
+            "course_num": "GLOBAL 10B",
+            "course_name": "Cultures and Capitalisms (Fall 2020)"
+        },
+        {
+            "id": "ke3g1toc8ewuk",
+            "prof": "Andres Rodriguez-Clare",
+            "course_num": "ECON 280A - LEC 001",
+            "course_name": "International Economics (Fall 2020)"
+        },
+        {
+            "id": "ke3kldxh3sw3ak",
+            "prof": "Marian Fairgrieve",
+            "course_num": "MCELLBI 150 - LEC 001",
+            "course_name": "Molecular Immunology (Fall 2020)"
+        },
+        {
+            "id": "kdz53y6yw0i1yq",
+            "prof": "Alexander Paulin",
+            "course_num": "MATH 1B",
+            "course_name": "MATH 1B"
+        },
+        {
+            "id": "ke3lu0axhr26y1",
+            "prof": "Alan Kren",
+            "course_num": "CIVENG 122 - LEC 001",
+            "course_name": "Design of Steel Structures (Fall 2020)"
+        },
+        {
+            "id": "ke3mg4waswd6r",
+            "prof": "Keith Johnson",
+            "course_num": "LINGUIS 110",
+            "course_name": "Phonetics"
+        },
+        {
+            "id": "ke3n72boekl2pq",
+            "prof": "Alex Kwon",
+            "course_num": "STAT 198",
+            "course_name": "Introduction to Quantitative Finance DeCal"
+        },
+        {
+            "id": "ke3r9yvp8h2yq",
+            "prof": "Peter Jenks",
+            "course_num": "LING 100",
+            "course_name": "Introduction to Linguistic Science"
+        },
+        {
+            "id": "ke3sjspdmnt65r",
+            "prof": "Taj Shaik (TA)",
+            "course_num": "CS 162",
+            "course_name": "Operating Systems and System Programming"
+        },
+        {
+            "id": "ke3t7usxws21i8",
+            "prof": "Simo Makiharju",
+            "course_num": "ME 103",
+            "course_name": "Measurements and Experiments Fall 2020"
+        },
+        {
+            "id": "ke3tewrxmn57lj",
+            "prof": "Paul Hilfinger",
+            "course_num": "CS 164",
+            "course_name": "Programming Languages and Compilers"
+        },
+        {
+            "id": "ke409rnjuw3458",
+            "prof": "Justin Bui",
+            "course_num": "CHMENG 250 - LEC 001",
+            "course_name": "Transport Processes (Fall 2020)"
+        },
+        {
+            "id": "ke4gfict3sy43r",
+            "prof": "None",
+            "course_num": "CS- 294-178",
+            "course_name": "Reinforcement Learning and Empirical Processes"
+        },
+        {
+            "id": "ke4gn6fhtgmhv",
+            "prof": "Ivan Danilenko",
+            "course_num": "MATH 104 (LEC 005)",
+            "course_name": "Introduction to Analysis"
+        },
+        {
+            "id": "ke4gs3dshqe5be",
+            "prof": "Ivan Danilenko",
+            "course_num": "MATH 141",
+            "course_name": "Elementary Differential Topology"
+        },
+        {
+            "id": "ke4hs8d0ase3tc",
+            "prof": "Peng Zhou",
+            "course_num": "MATH 185 LECTURE 3",
+            "course_name": "Introduction to Complex Analysis"
+        },
+        {
+            "id": "ke4icfvmvbb7gr",
+            "prof": "Neal Jackson",
+            "course_num": "EECS 149/249A",
+            "course_name": "Introduction to Embedded Systems"
+        },
+        {
+            "id": "ke4isoqriqa5q7",
+            "prof": "Emiliano Gomez",
+            "course_num": "MATH 16B",
+            "course_name": "Calculus"
+        },
+        {
+            "id": "ke4kpi5l55d8r",
+            "prof": "Ray Hawkins",
+            "course_num": "ECON 136 - LEC 001",
+            "course_name": "Financial Economics (Fall 2020)"
+        },
+        {
+            "id": "ke4lmontitx3cm",
+            "prof": "Jeremy Lovejoy",
+            "course_num": "MATH 113 - LEC 006 AND 007",
+            "course_name": "Introduction to Abstract Algebra"
+        },
+        {
+            "id": "ke4n6jn86uqs1",
+            "prof": "Semeon Artamonov",
+            "course_num": "22233",
+            "course_name": "Fall 2020, Math 113 - LEC 002: Introduction to Abstract Algebra"
+        },
+        {
+            "id": "ke4nmu8l7as7ct",
+            "prof": "Andrew Little",
+            "course_num": "PS 3",
+            "course_name": "Introduction to Empirical Analysis and Quantitative Methods"
+        },
+        {
+            "id": "ke4o4w0f49w77e",
+            "prof": "Evgeniya Duzhak",
+            "course_num": "ECON 140",
+            "course_name": "Introductory Econometrics"
+        },
+        {
+            "id": "ke4o902vzyg3g",
+            "prof": "Semeon Artamonov",
+            "course_num": "22599",
+            "course_name": "Fall 2020, Math 185 - LEC 001: Introduction to Complex Analysis"
+        },
+        {
+            "id": "ke4qd7kzkam65a",
+            "prof": "Peter Jenks",
+            "course_num": "LINGUIS 100 - LEC 001",
+            "course_name": "Introduction to Linguistic Science (Fall 2020)"
+        },
+        {
+            "id": "ke4qj4xkd98i5",
+            "prof": "Anna Rogers",
+            "course_num": "MCELLBI 149",
+            "course_name": "The Human Genome (Fall 2020)"
+        },
+        {
+            "id": "ke4rafebopu655",
+            "prof": "Robin Ball, Meredith Judy",
+            "course_num": "MCB 32L F20",
+            "course_name": "Introduction to Human Physiology Laboratory (Fall 2020)"
+        },
+        {
+            "id": "ke4ru4jfgy82yc",
+            "prof": "None",
+            "course_num": "EEP 144",
+            "course_name": "International Economics"
+        },
+        {
+            "id": "ke4s2oyrb3z6wa",
+            "prof": "Ziad Obermeyer",
+            "course_num": "PBHLTH 196",
+            "course_name": "PBHLTH 196 Artificial intelligence for medicine and health policy"
+        },
+        {
+            "id": "ke4spqiqqem4sq",
+            "prof": "Julie Moss, Lee Riley, John Swartzberg",
+            "course_num": "PHW 260-2020-INFECTIOUS DISEASES",
+            "course_name": "PHW260-2020-Infectious Diseases"
+        },
+        {
+            "id": "ke4t1f58dl6wq",
+            "prof": "Adam Smith, Ariel Munoz",
+            "course_num": "162L",
+            "course_name": "Public Health Microbiology"
+        },
+        {
+            "id": "ke4t7s8nyj92pq",
+            "prof": "None",
+            "course_num": "EEP 152",
+            "course_name": "Development Econo"
+        },
+        {
+            "id": "ke4u1sninf03h9",
+            "prof": "Alexis Shusterman",
+            "course_num": "CHEM 3BL",
+            "course_name": "CHEM 3BL"
+        },
+        {
+            "id": "ke4u6bu81i48b",
+            "prof": "Jacob Leedom",
+            "course_num": "PHYS 7B",
+            "course_name": "Physics 7B Fall 2020"
+        },
+        {
+            "id": "ke4uebz693x7ko",
+            "prof": "None",
+            "course_num": "EEP C101 / ECON C125",
+            "course_name": "Develoment Economics"
+        },
+        {
+            "id": "ke4vjz1hgfe2y0",
+            "prof": "Rocky Little",
+            "course_num": "34033",
+            "course_name": "Chem275A"
+        },
+        {
+            "id": "ke4x7tu82r62y1",
+            "prof": "Christine Gehrig-Downie",
+            "course_num": "XESPM 15",
+            "course_name": "XESPM 15 - Introduction to Environmental Science"
+        },
+        {
+            "id": "ke52edydthi5ba",
+            "prof": "Jake Calvert, Adam Lucas, ZHIYI YOU, Feicheng Qi, Sankar Srinivasan, Yuting Ye",
+            "course_num": "STAT 134",
+            "course_name": "Concepts of Probability"
+        },
+        {
+            "id": "ke5desqcfgi1il",
+            "prof": "Jaecheol Lee",
+            "course_num": "PUBPOL 275",
+            "course_name": "Spatial Data and Analysis (Fall 2020)"
+        },
+        {
+            "id": "ke5we6q2kh2ai",
+            "prof": "Shiun-Jr Yang, Teresa Head-Gordon",
+            "course_num": "CHEM 1A - LEC 001",
+            "course_name": "General Chemistry (Fall 2020)"
+        },
+        {
+            "id": "ke5wn7v7yuq3v9",
+            "prof": "Francesco Borrelli",
+            "course_num": "MEC 231A AND EEC220B",
+            "course_name": "2020-MEC231A and EEC220B"
+        },
+        {
+            "id": "ke609ylh5ap5uv",
+            "prof": "Maxwell Chen",
+            "course_num": "EECS 16B",
+            "course_name": "Designing Information Devices and Systems II"
+        },
+        {
+            "id": "ke63eti4ac33a7",
+            "prof": "DMB",
+            "course_num": "MCB 136",
+            "course_name": "MCB 136: Physiology"
+        },
+        {
+            "id": "ke65wj77ogx1at",
+            "prof": "Dara O'Rourke",
+            "course_num": "ESPM 150-003",
+            "course_name": "ESPM 150 - Sustainable Industry"
+        },
+        {
+            "id": "ke661oem5qd68d",
+            "prof": "Karenjot Bhangoo Randhawa",
+            "course_num": "GLOBAL 132 - LEC 001",
+            "course_name": "Conflict Resolution: Theory and Practice (Fall 2020)"
+        },
+        {
+            "id": "ke66d38r4n67ld",
+            "prof": "Amal",
+            "course_num": "EECS 225B",
+            "course_name": "Digital Image Processing"
+        },
+        {
+            "id": "ke6akcf4aid6v2",
+            "prof": "Robin Ball, Jennifer, Denecia Fernandes, Pirooz Fereydouni",
+            "course_num": "MCB 32 FALL 2020",
+            "course_name": "Introduction to Human Physiology (Fall 2020)"
+        },
+        {
+            "id": "ke6duxnsp7grp",
+            "prof": "wehrheim@berkeley.edu",
+            "course_num": "MATH 242",
+            "course_name": "Symplectic Geometry"
+        },
+        {
+            "id": "ke6nofted1d370",
+            "prof": "Natacha Crooks",
+            "course_num": "CS 294-171",
+            "course_name": "Privacy Preserving Systems"
+        },
+        {
+            "id": "ke6op1qjy17pb",
+            "prof": "Brett Kolesnik",
+            "course_num": "STAT 150",
+            "course_name": "Stochastic Processes"
+        },
+        {
+            "id": "ke7c2fcwr1r2hc",
+            "prof": "Jiantao Jiao",
+            "course_num": "EECS 225A",
+            "course_name": "Statistical Signal Processing"
+        },
+        {
+            "id": "ke7ga69io254dq",
+            "prof": "Panos Papadopoulos",
+            "course_num": "ME 185/287",
+            "course_name": "Introduction to Continuum Mechanics"
+        },
+        {
+            "id": "ke7nceegfzh15d",
+            "prof": "Larry Rosenthal",
+            "course_num": "PUB POL 101",
+            "course_name": "Introduction to Public Policy Analysis"
+        },
+        {
+            "id": "ke7o7uwalvo19",
+            "prof": "Venkatachalam Anantharam",
+            "course_num": "EECS 127/227AT",
+            "course_name": "Optimization Models in Engineering"
+        },
+        {
+            "id": "ke7oepququi117",
+            "prof": "Nathan John",
+            "course_num": "ED 1",
+            "course_name": "Introduction to Environmental Design (Fall 2020)"
+        },
+        {
+            "id": "ke7rlskgxtg192",
+            "prof": "Gerald Friedland",
+            "course_num": "CS 294-082",
+            "course_name": "Experimental Design for Machine Learning on Multimedia Data"
+        },
+        {
+            "id": "ke7sqczqnub19",
+            "prof": "Austin Hedeman",
+            "course_num": "PHYSICS 375",
+            "course_name": "Professional Preparation: Supervised Teaching of Physics"
+        },
+        {
+            "id": "ke7sy1ql1461c3",
+            "prof": "Geoff Penington",
+            "course_num": "C 191",
+            "course_name": "Quantum Information Science and Technology"
+        },
+        {
+            "id": "ke7xuhoruur4gu",
+            "prof": "Bryan McCloskey",
+            "course_num": "CHMENG 140",
+            "course_name": "Introduction to Chemical Process Analysis (Fall 2020)"
+        },
+        {
+            "id": "ke81oa6elvp2g2",
+            "prof": "Bethanie Edwards",
+            "course_num": "EPS 82",
+            "course_name": "Oceans"
+        },
+        {
+            "id": "ke845vklu6nlh",
+            "prof": "Di Fang",
+            "course_num": "MATH 185 - LEC 002",
+            "course_name": "Math 185 - LEC002 Complex Analysis"
+        },
+        {
+            "id": "ke84hz8rsm6t8",
+            "prof": "Di Fang",
+            "course_num": "MATH 123",
+            "course_name": "Ordinary Differential Equations"
+        },
+        {
+            "id": "ke8blj3mm0o4zz",
+            "prof": "James Campbell",
+            "course_num": "ECON 101A",
+            "course_name": "Economic Theory--Micro (Fall 2020)"
+        },
+        {
+            "id": "ke8q6y56mc534p",
+            "prof": "Julie Moss, Evan vanDommelen-Gonzalez",
+            "course_num": "PHW 200G-2020-HEALTH AND SOCIAL BEHAVIOR BREADTH",
+            "course_name": "PHW200G-2020-Health and Social Behavior Breadth"
+        },
+        {
+            "id": "ke8txzcr7r67lw",
+            "prof": "Chien-I Chiang",
+            "course_num": "PHYSICSX 3B-041",
+            "course_name": "PHYSICS-X3B-041: Physics II"
+        },
+        {
+            "id": "ke8z6eopria3p2",
+            "prof": "None",
+            "course_num": "222",
+            "course_name": "222"
+        },
+        {
+            "id": "ke91j9r72rg3wx",
+            "prof": "Scott Garner",
+            "course_num": "CHEM 221A",
+            "course_name": "Advanced Quantum Mechanics"
+        },
+        {
+            "id": "ke92wd4rafb793",
+            "prof": "Clare V. TALWALKER",
+            "course_num": "GLOBAL 121",
+            "course_name": "Globalization In India (Fall 2020)"
+        },
+        {
+            "id": "ke93a0xfvem4a",
+            "prof": "Daniel Aranki",
+            "course_num": "CYBER W233",
+            "course_name": "Privacy Engineering"
+        },
+        {
+            "id": "ke93ct48j5o2na",
+            "prof": "Juan Carlos Carrasco-Mart\u00ednez",
+            "course_num": "PHYSICS 137B",
+            "course_name": "Quantum Mechanics"
+        },
+        {
+            "id": "ke93in8x7io56t",
+            "prof": "Sooyeon Yi",
+            "course_num": "LA 12",
+            "course_name": "Environmental Design for Sustainable Development"
+        },
+        {
+            "id": "ke93ybgkefd1h0",
+            "prof": "Brian Davern Wright",
+            "course_num": "EEP 143",
+            "course_name": "Economics of Innovation and Intellectual Property Rights"
+        },
+        {
+            "id": "ke94crp1bn9ce",
+            "prof": "Isaac Merritt, Dan Garcia, Taroob Zia, Yolanda Shen, Patricia Yu, Lam Pham, Max Yao, Andrew Burke, Kellyann Ye, Bryant Bettencourt, Murtaza Ali, Kathleen Gao, Shannon Hearn, Sarah Varghese, Samhita Sen, Danielle Swords, Gowri",
+            "course_num": "CS 10",
+            "course_name": "CS10: The Beauty and Joy of Computing"
+        },
+        {
+            "id": "ke96385qzr54pd",
+            "prof": "Clare V. TALWALKER",
+            "course_num": "GPP 105",
+            "course_name": "Global Poverty and Practice (Fall 2020)"
+        },
+        {
+            "id": "ke9bkpn8c0g6hd",
+            "prof": "Isaac Bleaman",
+            "course_num": "LINGUIS 150",
+            "course_name": "Sociolinguistics"
+        },
+        {
+            "id": "ke9dt7u8anf6eh",
+            "prof": "Sean Gailmard",
+            "course_num": "POLS 232B",
+            "course_name": "Formal Models II"
+        },
+        {
+            "id": "ke9fohwvf4g3qf",
+            "prof": "Richard Bamler",
+            "course_num": "1A",
+            "course_name": "Math 1A Calculus"
+        },
+        {
+            "id": "ke9jdby17rt6yv",
+            "prof": "John Wawrzynek",
+            "course_num": "CS 250",
+            "course_name": "VLSI Systems Design"
+        },
+        {
+            "id": "kea0algfwu16mw",
+            "prof": "Bjoern Hartmann",
+            "course_num": "CS 294-137",
+            "course_name": "Virtual Reality and Immersive Computing"
+        },
+        {
+            "id": "kea45yzeo1i32g",
+            "prof": "Yi Ma",
+            "course_num": "EECS 290-002",
+            "course_name": "High-Dimensional Data Analysis with Low-Dimensional Models"
+        },
+        {
+            "id": "kea5cnijsay1mh",
+            "prof": "Andrew Charman",
+            "course_num": "PHYSICS 110B",
+            "course_name": "Electromagnetism and Optics (part II)"
+        },
+        {
+            "id": "kea5ot0mo2p5yq",
+            "prof": "Barry Eichengreen",
+            "course_num": "EC 191",
+            "course_name": "Economics 191"
+        },
+        {
+            "id": "kea6pry3zih6mf",
+            "prof": "Byeonghee Yu, Uros Seljak, Biwei Dai",
+            "course_num": "PHYSICS 188/288",
+            "course_name": "Bayesian Data Analysis and Machine Learning for Physical Sciences"
+        },
+        {
+            "id": "ke93oeot7h021f",
+            "prof": "Pete Marsden",
+            "course_num": "CHEM 3B",
+            "course_name": "Chem 3B"
+        },
+        {
+            "id": "kea89bbvfro7gv",
+            "prof": "Yassine EL MAAZOUZ, pitman@stat.berkeley.edu",
+            "course_num": "STAT 201A",
+            "course_name": "Introduction to Probability at an Advanced Level"
+        },
+        {
+            "id": "kea8r8bcskb7eq",
+            "prof": "Shirshendu Ganguly",
+            "course_num": "STAT 205A / MATH 218A",
+            "course_name": "Probability Theory"
+        },
+        {
+            "id": "keaakpdv8ba5nk",
+            "prof": "Karenjot Bhangoo Randhawa",
+            "course_num": "GLOBAL 100P - LEC 001",
+            "course_name": "Approaches to Peace and Conflict (Fall 2020)"
+        },
+        {
+            "id": "keab5yf9akz5xw",
+            "prof": "Karenjot Bhangoo Randhawa",
+            "course_num": "GLOBAL 153P - LEC 001",
+            "course_name": "Special Topics: Global Peace and Conflict. (Fall 2020)"
+        },
+        {
+            "id": "keabpkvam3932t",
+            "prof": "Joseph Hellerstein",
+            "course_num": "CS 294-170",
+            "course_name": "Programming the Cloud Seminar"
+        },
+        {
+            "id": "keabzn76ok01jq",
+            "prof": "Nick Ulle",
+            "course_num": "STAT 33A",
+            "course_name": "Introduction to Programming in R"
+        },
+        {
+            "id": "keac3q4vaaj5n1",
+            "prof": "Valerie Tan",
+            "course_num": "DESINV 198",
+            "course_name": "Introduction to Photoshop and Illustrator"
+        },
+        {
+            "id": "keac73rto0b3ad",
+            "prof": "Nick Ulle",
+            "course_num": "STAT 33B",
+            "course_name": "Introduction to Advanced Programming in R"
+        },
+        {
+            "id": "keadd7934cs5ht",
+            "prof": "Kris Pister",
+            "course_num": "EE 147+EE247A",
+            "course_name": "Introduction to MEMS"
+        },
+        {
+            "id": "keady3uaq7b3yv",
+            "prof": "Jeremy Magruder",
+            "course_num": "EEP 118",
+            "course_name": "Introductory Econometrics"
+        },
+        {
+            "id": "keaeirx1tk83mi",
+            "prof": "Andrew Charman",
+            "course_num": "PHYSICS 7A.1",
+            "course_name": "Physics for Scientists and Engineers"
+        },
+        {
+            "id": "keag1g6qwj714r",
+            "prof": "Yimeng(Kobe) Wang, Clara Wong-Fannjiang, Jacob Steinhardt, Jake Soloff, Michael I. Jordan, Mihaela Curmei, Banghua Zhu",
+            "course_num": "DATA 102",
+            "course_name": "DATA 102: Data, Inference, and Decisions"
+        },
+        {
+            "id": "keagnder7k63q9",
+            "prof": "Marjorie Went",
+            "course_num": "CHMENG 40 - LEC 001",
+            "course_name": "Introduction to Chemical Engineering Design (Fall 2020)"
+        },
+        {
+            "id": "keagyzlkki97i8",
+            "prof": "None",
+            "course_num": "PH 252",
+            "course_name": "PH 252"
+        },
+        {
+            "id": "keah5behr21bk",
+            "prof": "Supreet Kaur, Madeline",
+            "course_num": "ECON 174",
+            "course_name": "Global Poverty and Impact Evaluation"
+        },
+        {
+            "id": "keaitfzoi202h9",
+            "prof": "Samuel Pimentel",
+            "course_num": "STAT 151A - F 2020 ",
+            "course_name": "Linear Modelling: Theory and Applications (Fall 2020)"
+        },
+        {
+            "id": "keajpeunf83md",
+            "prof": "Michelle Chang",
+            "course_num": "CHEM 135",
+            "course_name": "Chemical Biology"
+        },
+        {
+            "id": "keak5tcqgpg3j1",
+            "prof": "Richard Bamler",
+            "course_num": "MATH 1A - LEC 001",
+            "course_name": "Calculus (Fall 2020)"
+        },
+        {
+            "id": "keaktiifxpa13n",
+            "prof": "Federico Pasqualotto",
+            "course_num": "MATH 104 LEC 008",
+            "course_name": "Introduction to analysis"
+        },
+        {
+            "id": "keakuorjrs1au",
+            "prof": "Kay Ashaolu",
+            "course_num": "INFO 253A",
+            "course_name": "Front-End Web Architecture (Fall 2020)"
+        },
+        {
+            "id": "keal1epaeny21",
+            "prof": "Yuan Tang",
+            "course_num": "ECON 1 - LEC 001",
+            "course_name": "Introduction to Economics (Fall 2020)"
+        },
+        {
+            "id": "kealct8fbs11ah",
+            "prof": "None",
+            "course_num": "COGSCI 131",
+            "course_name": "Computational Cognitive Science"
+        },
+        {
+            "id": "kealczx7zeh53t",
+            "prof": "Federico Pasqualotto",
+            "course_num": "MATH 104 LEC 007",
+            "course_name": "Introduction to analysis"
+        },
+        {
+            "id": "keam2vanwth45k",
+            "prof": "Hayden Taylor",
+            "course_num": "MEC ENG 100",
+            "course_name": "Electronics for the Internet of Things"
+        },
+        {
+            "id": "keamfxk136p4jm",
+            "prof": "Rachel Clune",
+            "course_num": "CHEM 121",
+            "course_name": "CHEM 121: Introduction to Computational Chemistry"
+        },
+        {
+            "id": "keap5buvayq6td",
+            "prof": "Mohammad R. K. Mofrad",
+            "course_num": "BIOE 102",
+            "course_name": "Biomechanics"
+        },
+        {
+            "id": "keaqjt9kjkrec",
+            "prof": "Angela Perantoni, David Sedlak, Yanghua Duan",
+            "course_num": "CE 115",
+            "course_name": "Water Chemistry"
+        },
+        {
+            "id": "keaqrq854x823w",
+            "prof": "Kosa Goucher-Lambert",
+            "course_num": "ME 292C / DESINV 190",
+            "course_name": "Human-Centered Design Methods"
+        },
+        {
+            "id": "keavqkhvn1n4ke",
+            "prof": "Vincent Su, Chien-I Chiang, Raphael Bousso, Chao Ju",
+            "course_num": "Physics 137A (Bousso)",
+            "course_name": "Quantum Mechanics"
+        },
+        {
+            "id": "keax9ezopcq4j1",
+            "prof": "Marta Gonzalez",
+            "course_num": "CE 263N / CYPLAN 257",
+            "course_name": "Scalable Spatial Analytics/Data Sci for Human Mobility"
+        },
+        {
+            "id": "keaxyt6h47d59p",
+            "prof": "Gireeja Ranade",
+            "course_num": "CS 24",
+            "course_name": "CS24/EE98 Transitioning to EECS/CS/DS and related majors"
+        },
+        {
+            "id": "keay8ys1tsc3tv",
+            "prof": "Marion Fourcade",
+            "course_num": "SOC 102",
+            "course_name": "sociological theory II"
+        },
+        {
+            "id": "keb2zymep693o4",
+            "prof": "Mike",
+            "course_num": "PHYSICS 5A",
+            "course_name": "PHYSICS 5A: Introductory Mechanics and Relativity"
+        },
+        {
+            "id": "keb6683jdk72j3",
+            "prof": "Shobhana Murali Stoyanov",
+            "course_num": "STAT 131A LEC 001",
+            "course_name": "Statistical Methods for Data Science"
+        },
+        {
+            "id": "kebk83c79v4z1",
+            "prof": "Vyassa Baratham",
+            "course_num": "PHYSICS 8A",
+            "course_name": "Physics 8A - Introductory Physics"
+        },
+        {
+            "id": "kebkxautpas5jf",
+            "prof": "Joshua Povich",
+            "course_num": "BIO 1B FA20",
+            "course_name": "Biology 1B Fa20"
+        },
+        {
+            "id": "kebnliafoe237a",
+            "prof": "Alyssa Sugarman, Josh Hug",
+            "course_num": "CS H195",
+            "course_name": "CS H195: Honors Social Implications of Computer Technology"
+        },
+        {
+            "id": "kdyv6ps4qkq2in",
+            "prof": "Lili Chen, Tyler Zhu, Megan Kawakami, Albert Zhan, Richard Hu, Sam Toyer, Catherine Huang, William Arnold, Shahzar, Abhinav Gopal, Nived Rajaraman, Dustin Luong, Tarang Srivastava, Jonathan, Frank Wang, Merryle Wang, Robert Wang, Andrew Shi, Qinhong Chen, Angela Liu, Satish Rao, Tiancheng Xie, Jiaheng Zhang, Sagnik Bhattacharya, Lucas Spangher",
+            "course_num": "CS 70",
+            "course_name": "Discrete Mathematics and Probability Theory"
+        },
+        {
+            "id": "kebprm8f81c268",
+            "prof": "Koushil Sreenath",
+            "course_num": "ME 193B / 292B",
+            "course_name": "Feedback Control of Legged Robots (Fall 2020)"
+        },
+        {
+            "id": "kebsyf5o1am27y",
+            "prof": "Andrew Fearing",
+            "course_num": "CURVE 102",
+            "course_name": "Curvebreakers"
+        },
+        {
+            "id": "kebtvwz0t3hy1",
+            "prof": "Perry de Valpine",
+            "course_num": "ESPM 173",
+            "course_name": "Introduction to Analysis of Ecological Data"
+        },
+        {
+            "id": "kebv08ru89j330",
+            "prof": "Brian Egdorf",
+            "course_num": "SLAVIC 45",
+            "course_name": "19th-Century Russian Literature"
+        },
+        {
+            "id": "kebvnsttreb4h9",
+            "prof": "Winthrop Williams",
+            "course_num": "PHYS 111A",
+            "course_name": "Advanced Physics Laboratory"
+        },
+        {
+            "id": "kebxjng8xif1nr",
+            "prof": "Javad Lavaei",
+            "course_num": "IEOR 160",
+            "course_name": "Nonlinear and Discrete Optimization"
+        },
+        {
+            "id": "kebz5b5zkv13wg",
+            "prof": "Joshua Apte",
+            "course_num": "PH 270A",
+            "course_name": "Exposure Assessment and Control"
+        },
+        {
+            "id": "ke660c43mcf7g1",
+            "prof": "Kevin Zheng, Hyungjin Kim, Carol Baumbauer",
+            "course_num": "EE 143",
+            "course_name": "Microfabrication Technology"
+        },
+        {
+            "id": "kec5f0hj4ii66t",
+            "prof": "Alan KARRAS",
+            "course_num": "GLOBAL 375",
+            "course_name": "Teaching in Global Studies"
+        },
+        {
+            "id": "kec6puifl9s1kb",
+            "prof": "Eric Jung",
+            "course_num": "STAT 198 SEC 004",
+            "course_name": "Actuarial Data Analytics Decal"
+        },
+        {
+            "id": "kecbra1oig1405",
+            "prof": "Dennis Feehan",
+            "course_num": "DEMOG 280 / SOCIOL C273N",
+            "course_name": "Social Networks: Demog 280 (grad)"
+        },
+        {
+            "id": "keccaf7casw6d8",
+            "prof": "Joseph Shapiro",
+            "course_num": "ECON C184 / ENVECON C132",
+            "course_name": "International Environmental Economics"
+        },
+        {
+            "id": "keccr1cdcf810a",
+            "prof": "Sarah Rohrschneider",
+            "course_num": "GLOBAL 45 - DIS 101",
+            "course_name": "DIS 101: Survey of World History (Fall 2020)"
+        },
+        {
+            "id": "kecd2hqx8vt3g8",
+            "prof": "Sarah Rohrschneider",
+            "course_num": "GLOBAL 45 - DIS 104",
+            "course_name": "DIS 104: Survey of World History (Fall 2020)"
+        },
+        {
+            "id": "kecigtmjdv52uy",
+            "prof": "Yonna",
+            "course_num": "ASTRONOMY 98",
+            "course_name": "Beginner's Guide to the Universe"
+        },
+        {
+            "id": "kecy27rep31244",
+            "prof": "Dmitry Vaintrob",
+            "course_num": "185-004",
+            "course_name": "Complex Analysis, Math 185"
+        },
+        {
+            "id": "kecyqwerix47j4",
+            "prof": "Dmitry Vaintrob",
+            "course_num": "MATH 104-004",
+            "course_name": "Introduction to Analysis, Math 104"
+        },
+        {
+            "id": "ked4px38cta4kh",
+            "prof": "Daniel Tataru",
+            "course_num": "MATH 222A",
+            "course_name": "Partial Differential Equations"
+        },
+        {
+            "id": "ked7b5k1pbf1xi",
+            "prof": "Michel DuPage",
+            "course_num": "MCELLBI 132",
+            "course_name": "Biology of Human Cancer (Fall 2020)"
+        },
+        {
+            "id": "ked7r5esl804k2",
+            "prof": "Patricia Kubala",
+            "course_num": "LS C30T/MCELLBI C62 - DIS 116",
+            "course_name": "Drugs and the Brain (Fall 2020) DIS 116"
+        },
+        {
+            "id": "ked8y4f8zq276j",
+            "prof": "Mark Mueller",
+            "course_num": "MECENG 136 / 236U",
+            "course_name": "Control of Unmanned Aerial Vehicles (Fall 2020)"
+        },
+        {
+            "id": "ked944d3mu64w6",
+            "prof": "David Presti",
+            "course_num": "DRUGS AND THE BRAIN: FALL 2020",
+            "course_name": "Drugs and the Brain: Fall 2020"
+        },
+        {
+            "id": "kedanbtqood1y8",
+            "prof": "David Ren, Steve Conolly",
+            "course_num": "EL ENG C145B, BIO ENG C165, BIO ENG C261, EL ENG C261",
+            "course_name": "Medical Imaging: Signals and Systems"
+        },
+        {
+            "id": "kedckdek9hl3r6",
+            "prof": "Sophia Sanborn, Bruno Olshausen",
+            "course_num": "VS 265",
+            "course_name": "Neural Computation"
+        },
+        {
+            "id": "keddb0kh1wo4um",
+            "prof": "Nikita Dhawan, Avishek Ghosh, Kannan Ramchandran, Kuan-Yun Lee",
+            "course_num": "EECS 229A",
+            "course_name": "Information Theory and Coding"
+        },
+        {
+            "id": "keddwgov83o6mw",
+            "prof": "Pietro Achatz Antonelli",
+            "course_num": "CE 153",
+            "course_name": "Transportation Facility Design"
+        },
+        {
+            "id": "kedevzh7xzx5wp",
+            "prof": "Anna Clinger",
+            "course_num": "EPS 131",
+            "course_name": "Geochemistry"
+        },
+        {
+            "id": "kedf1pib95k6vs",
+            "prof": "Mohini Bariya, Alexandra von Meier",
+            "course_num": "EE 137A",
+            "course_name": "Introduction to Electric Power Systems"
+        },
+        {
+            "id": "kedf36qal3485",
+            "prof": "Daniel Tataru",
+            "course_num": "MATH 279 - LEC 001",
+            "course_name": "Topics in PDE: Fluid Dynamics F2020"
+        },
+        {
+            "id": "kedfcufgpet3s3",
+            "prof": "Olivia Benowitz",
+            "course_num": "DIS 102 & 107 GLOBAL 45",
+            "course_name": "World History Sections 102 & 107"
+        },
+        {
+            "id": "kedh3zqiqcvnk",
+            "prof": "Brittany Russo",
+            "course_num": "CE 281",
+            "course_name": "Engineering Geology"
+        },
+        {
+            "id": "kedhjdmyj5k3jx",
+            "prof": "Oscar Whitney, Michael Eisen, Kevin Wickham, Roberto Zoncu, Kristin Scott, Martina Velichkovska, Laura Kovacs",
+            "course_num": "MCB 104",
+            "course_name": "Genetics, Cell Biology, Genomics"
+        },
+        {
+            "id": "kedj7706xox64e",
+            "prof": "Ian Charlesworth",
+            "course_num": "MATH 104 - LEC 001",
+            "course_name": "Introduction to Analysis"
+        },
+        {
+            "id": "kedkzaepmh32gz",
+            "prof": "charlie cifarelli",
+            "course_num": "MATH 53",
+            "course_name": "Math 53. - Lec 001"
+        },
+        {
+            "id": "kedn6ykna7369",
+            "prof": "William",
+            "course_num": "Global 45 - SECTION 103",
+            "course_name": "World History"
+        },
+        {
+            "id": "kednuwogwd54v9",
+            "prof": "William",
+            "course_num": "Global 45 - SECTION 108",
+            "course_name": "World History"
+        },
+        {
+            "id": "kedx9dc2d8z5io",
+            "prof": "Chien-I Chiang",
+            "course_num": "PHYSICS 5CL",
+            "course_name": "Physics 5CL FA2020 Sec.101"
+        },
+        {
+            "id": "keeg1lm2hcg6nd",
+            "prof": "Jon Wilkening",
+            "course_num": "MATH 228A",
+            "course_name": "Numerical Solutions of Differential Equations"
+        },
+        {
+            "id": "keej7oq3ao47ap",
+            "prof": "Alan Hammond",
+            "course_num": "MATH 202A",
+            "course_name": "Mathematics 202A"
+        },
+        {
+            "id": "keej7u2860e3lp",
+            "prof": "Stephen Bianchi",
+            "course_num": "ECON 139 - LEC 001",
+            "course_name": "Intermediate Financial Economics (Fall 2020)"
+        },
+        {
+            "id": "keeju6uh29l261",
+            "prof": "Stephen Bianchi",
+            "course_num": "ECON C142 - LEC 001",
+            "course_name": "Applied Econometrics and Public Policy (Fall 2020)"
+        },
+        {
+            "id": "keemuel15mz1kn",
+            "prof": "Nicholas Sitar",
+            "course_num": "CE 70",
+            "course_name": "Introductory Engineering Geology"
+        },
+        {
+            "id": "keercz4bqqb5t8",
+            "prof": "Marina Dias, Jakob Brounstein, Demian Pouzo",
+            "course_num": "ECON 141",
+            "course_name": "Econometric Analysis"
+        },
+        {
+            "id": "keetg7ltuw74j",
+            "prof": "Manuela",
+            "course_num": "ESPM/CIVENG 172",
+            "course_name": "Remote Sensing of the Environment"
+        },
+        {
+            "id": "keetp619pjh3si",
+            "prof": "Michael Anderson",
+            "course_num": "ARE 213",
+            "course_name": "Applied Econometrics"
+        },
+        {
+            "id": "keexffklro94co",
+            "prof": "Cindy Quang, Claire Bogosian",
+            "course_num": "BIOE 115",
+            "course_name": "Tissue Engineering Lab"
+        },
+        {
+            "id": "kef4gtoqdht1gx",
+            "prof": "Feng Wang",
+            "course_num": "PHYS 110A",
+            "course_name": "Electromagnetism and Optics"
+        },
+        {
+            "id": "kef4m6xymny90",
+            "prof": "Feng Wang",
+            "course_num": "PHYSICS 110A",
+            "course_name": "Electromagnetism and Optics"
+        },
+        {
+            "id": "kef52ymjdm73cy",
+            "prof": "Peter Michelli",
+            "course_num": "HISTORY 106B",
+            "course_name": "Ancient Rome: The Roman Empire"
+        },
+        {
+            "id": "kefcefql14r5lr",
+            "prof": "None",
+            "course_num": "CLQL 201",
+            "course_name": "Colloquial Beings Among Us"
+        },
+        {
+            "id": "kefs8qdkbo66s4",
+            "prof": "Hochbaum, Tor Nitayanont",
+            "course_num": "IEOR 266",
+            "course_name": "Network Flows & Graphs"
+        },
+        {
+            "id": "kefyjg82u0v3jl",
+            "prof": "Hochbaum Dorit",
+            "course_num": "IEOR 162",
+            "course_name": "Linear Programming"
+        },
+        {
+            "id": "keg0jwf569j2dk",
+            "prof": "Zilan Zhang, Bowen Zheng, Thomas Devlin, Kahraman Gufran Demir, Ailin Chen",
+            "course_num": "ME C85/CE C30",
+            "course_name": "ME C85/CE C30 - Lec 001: Introduction to Solid Mechanics (Fall 2020)"
+        },
+        {
+            "id": "kegen17r9x02zw",
+            "prof": "Alexander Givental",
+            "course_num": "MATH 189",
+            "course_name": "Mathematical Methods in Classical and Quantum Mechanics"
+        },
+        {
+            "id": "kegov424wrf29n",
+            "prof": "Scott Moura",
+            "course_num": "CEE-SYS 2020-21",
+            "course_name": "CEE-SYS 2020-21"
+        },
+        {
+            "id": "kehghpown57ay",
+            "prof": "None",
+            "course_num": "HISTORY 6",
+            "course_name": "Chinese Civilization"
+        },
+        {
+            "id": "kehhajjsv2l35d",
+            "prof": "Michael Christ",
+            "course_num": "MATH H104",
+            "course_name": "Mathematics H104"
+        },
+        {
+            "id": "kehj56sr5vj4v3",
+            "prof": "John Lott",
+            "course_num": "MATH 142",
+            "course_name": "Elementary Algebraic Topology"
+        },
+        {
+            "id": "kehm00lsue4j7",
+            "prof": "Austin Hedeman",
+            "course_num": "X 3.1B",
+            "course_name": "UCBX - Physics II Laboratory"
+        },
+        {
+            "id": "kehsdmgc1z74ej",
+            "prof": "Holger Mueller",
+            "course_num": "5C LEC 001",
+            "course_name": "Physics 5C"
+        },
+        {
+            "id": "ke1x4y9yyn3ca",
+            "prof": "Scott Moura",
+            "course_num": "CE 190 / DES INV 190",
+            "course_name": "Electric Mobility Engineering"
+        },
+        {
+            "id": "keilkllo5xgy4",
+            "prof": "Chris Myers",
+            "course_num": "DES INV 22",
+            "course_name": "Des Inv 22 Prototyping and Fabrication"
+        },
+        {
+            "id": "keiqxtu4wdbol",
+            "prof": "Joshua Hahn",
+            "course_num": "CBE 154",
+            "course_name": "Chemical Engineering Laboratory"
+        },
+        {
+            "id": "keivv6d5yd472h",
+            "prof": "Avirukt Mittal",
+            "course_num": "PHYSICS 112",
+            "course_name": "Stat Mech (Lec 1)"
+        },
+        {
+            "id": "keiwme60xn26xc",
+            "prof": "Lydia Kelley",
+            "course_num": "CE 179",
+            "course_name": "Geosystems Engineering Design"
+        },
+        {
+            "id": "keizim7yimb7gf",
+            "prof": "Christopher Hunn",
+            "course_num": "CS 370",
+            "course_name": "Adaptive Teaching Methods in CS"
+        },
+        {
+            "id": "kej1ld396wq121",
+            "prof": "Nikhil Srivastava",
+            "course_num": "MATH 224A",
+            "course_name": "Math 224A: Mathematical Methods for the Physical Sciences"
+        },
+        {
+            "id": "kej8uy6vxw85gu",
+            "prof": "Feng Wang",
+            "course_num": "PHYSICS 110A - LEC 001",
+            "course_name": "Electromagnetism and Optics (Fall 2020)"
+        },
+        {
+            "id": "kejhilfwr407nj",
+            "prof": "Zack Weinstein",
+            "course_num": "PHYSICS 7C",
+            "course_name": "Physics for Scientists and Engineers"
+        },
+        {
+            "id": "kejk2vga6mj350",
+            "prof": "Andrew Bray",
+            "course_num": "STAT 198/298",
+            "course_name": "STAT 198/298: Python for R Users"
+        },
+        {
+            "id": "kek4ylgpb4y78y",
+            "prof": "Daniel Bragg",
+            "course_num": "113",
+            "course_name": "Math 113 - LEC 003: Introduction to abstract algebra"
+        },
+        {
+            "id": "kekag4zy86a5eu",
+            "prof": "P Robert Beatty",
+            "course_num": "MCELLBI 150L",
+            "course_name": "MCB150L Fall 2020"
+        },
+        {
+            "id": "kekbytt9day4d7",
+            "prof": "Sung-Jin Oh",
+            "course_num": "MATH 126",
+            "course_name": "Introduction to Partial Differential Equations (Fall 2020)"
+        },
+        {
+            "id": "kekl1uuj6ov22t",
+            "prof": "Yin Qiu",
+            "course_num": "UGBA 104",
+            "course_name": "Introduction to Business Analytics"
+        },
+        {
+            "id": "kekvomd68dg3dw",
+            "prof": "Cindy Lu",
+            "course_num": "STAT 198 SEC 002",
+            "course_name": "Actuarial Exam 1/P Preparatory Decal"
+        },
+        {
+            "id": "keliivk6kwm51m",
+            "prof": "Asad Hussain",
+            "course_num": "CS 198",
+            "course_name": "CS 198: Applications of Cloud Computing"
+        },
+        {
+            "id": "keliogh28hen1",
+            "prof": "Asad Hussain",
+            "course_num": "EECS 198",
+            "course_name": "Applications of Cloud Computing"
+        },
+        {
+            "id": "kelluv6u1bfw6",
+            "prof": "Woojin Kim",
+            "course_num": "ECON 218",
+            "course_name": "Econ 218 Seminar in Psychology and Economics"
+        }
+    ],
+    "error": null,
+    "aid": "kelws6q4mjw5vt"
+}
