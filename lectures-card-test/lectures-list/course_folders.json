@@ -1,0 +1,6901 @@
+{
+    "result": [
+        {
+            "course_name": "MATH 110: MATH 110 Linear Algebra",
+            "course_id": "kcz7n0fk1ps4yv",
+            "course_folders": [
+                "week_1",
+                "week_2",
+                "week_3",
+                "week_4",
+                "week_5",
+                "week_6",
+                "week_7",
+                "week_8",
+                "week_9",
+                "week_10",
+                "week_11",
+                "midterm_1",
+                "logistics",
+                "midterm_2",
+                "final_exam",
+                "week_12",
+                "week_13",
+                "week_14"
+            ]
+        },
+        {
+            "course_id": "kdz103x5krx3jv",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "EE 105: Microelectronic Devices and Circuits",
+            "course_id": "ke1qafm27ca6tv",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "exam",
+                "logistics",
+                "other",
+                "lab1",
+                "lab2",
+                "lab3",
+                "lab4",
+                "lab5",
+                "midterm",
+                "final"
+            ]
+        },
+        {
+            "course_name": "SOC WEL 114: Practice in Social Work",
+            "course_id": "k9oht19rtfr5y",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "DATASCI W266: DATASCI W266: Natural Language Processing",
+            "course_id": "ke53xuwipd14xc",
+            "course_folders": [
+                "a1",
+                "a2",
+                "a3",
+                "a4",
+                "a5",
+                "a6",
+                "a7",
+                "a8",
+                "a9",
+                "a10",
+                "project",
+                "final",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "MATH 55 - LEC 001: Discrete Mathematics",
+            "course_id": "ka720nbvvip283",
+            "course_folders": [
+                "logistics",
+                "hw1",
+                "clubs",
+                "hw2"
+            ]
+        },
+        {
+            "course_id": "kaingcuacl23y2",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "ME 40: Thermodynamics",
+            "course_id": "ke3dwbmk1ma6rf",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "midterm1",
+                "midterm2",
+                "logistics",
+                "other",
+                "final"
+            ]
+        },
+        {
+            "course_name": "PH 224 2020: PH 224: Organizational Behavior and Management in Health Care",
+            "course_id": "kaucp51443h5sd",
+            "course_folders": [
+                "m_1",
+                "m_2",
+                "m_3",
+                "m_4",
+                "m_5",
+                "m_6",
+                "m_7",
+                "m_8",
+                "project"
+            ]
+        },
+        {
+            "course_name": "CHEM 3A - FALL 2020: Chem 3A (Fall 2020)",
+            "course_id": "kbd1uxr9q4o2nc",
+            "course_folders": [
+                "syllabus",
+                "grades",
+                "office_hours",
+                "technology",
+                "quiz",
+                "other",
+                "typo_corrections",
+                "module_1",
+                "module_2",
+                "module_3",
+                "module_4",
+                "module_5",
+                "module_6",
+                "module_7",
+                "module_8",
+                "module_9",
+                "module_10",
+                "module_11",
+                "module_12",
+                "module_13",
+                "midterm1",
+                "midterm2",
+                "midterm3",
+                "final_exam"
+            ]
+        },
+        {
+            "course_name": "MATH 113: MATH 113 - LEC 004/008",
+            "course_id": "keafyt803mdg",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "ECON 1: Economics 1 (mock site)",
+            "course_id": "kdauunovby9yx",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other",
+                "discussion"
+            ]
+        },
+        {
+            "course_name": "ESPM 175: ESPM 175 [F2020]",
+            "course_id": "kblbpmq9pmn2ln",
+            "course_folders": [
+                "logistics",
+                "project_ideas",
+                "project_plan",
+                "deep_dives",
+                "introduction",
+                "methods",
+                "extended_introduction",
+                "other_shared",
+                "student_announcements"
+            ]
+        },
+        {
+            "course_name": "MATH 128A: Numerical Analysis",
+            "course_id": "ke9i0owryzz4zo",
+            "course_folders": [
+                "logistics",
+                "other",
+                "homework1",
+                "homework2",
+                "homework3",
+                "homework4",
+                "homework5",
+                "homework6",
+                "homework7",
+                "homework8",
+                "homework9",
+                "homework10",
+                "homework11",
+                "homework12",
+                "programming_assignment_1",
+                "programming_assignment_2",
+                "programming_assignment_3",
+                "programming_assignment_4",
+                "midterm",
+                "final"
+            ]
+        },
+        {
+            "course_name": "MATH 250A: Abstract Algebra",
+            "course_id": "kboh8tm26ks2sm",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "STAT 155: Game Theory",
+            "course_id": "ke4mgu70n7z5q4",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "PS 181: Public Administration & Organization",
+            "course_id": "kbsll0osl9r4cx",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "PH 206: PH206 Critical Issues in Public Health Nutrition",
+            "course_id": "kbv6d9zppn51iv",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "MCB 160L F20: Neurobiology Laboratory (Fall 2020)",
+            "course_id": "kbvasui3yvh43s",
+            "course_folders": [
+                "presentation",
+                "exams",
+                "logistics",
+                "other",
+                "lab1",
+                "lab2",
+                "lab3",
+                "lab4",
+                "lab5",
+                "lab6",
+                "lab7",
+                "lab8",
+                "lab9",
+                "lab10"
+            ]
+        },
+        {
+            "course_name": "INFO 290/CP 298: Introduction to Data Science for Graduate Students",
+            "course_id": "kc556f4o88w4bw",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "hw11",
+                "hw12",
+                "exploration",
+                "logistics",
+                "other",
+                "lab11",
+                "lab12",
+                "lab13",
+                "lab14",
+                "lab15",
+                "lab16",
+                "lab17",
+                "lab18",
+                "lab19",
+                "lab110",
+                "lab111",
+                "lab112",
+                "lab113",
+                "lab114",
+                "lab115"
+            ]
+        },
+        {
+            "course_name": "ARCH 230: Advanced Architectural Design Theory and Criticism",
+            "course_id": "kc5ew0472b75gw",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "CIVENG 200A FALL 2020: Environmental Fluid Mechanics I (Fall 2020)",
+            "course_id": "kc9j1mn3pnakv",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "CS 160/260A: User Interface Design",
+            "course_id": "kc9wfmpkl4m1eq",
+            "course_folders": [
+                "project",
+                "other",
+                "lecture",
+                "critiquethis",
+                "readings",
+                "discussion",
+                "prog",
+                "design"
+            ]
+        },
+        {
+            "course_name": "CBE 298: How to Get a Chemical Engineering PhD",
+            "course_id": "kcb1wu1ndyn50v",
+            "course_folders": [
+                "lab_selection",
+                "finances",
+                "classes",
+                "moving_to_berkeley"
+            ]
+        },
+        {
+            "course_name": "ARCH 110AC: The Social and Cultural Basis of Design",
+            "course_id": "kccadn8xrxf3fa",
+            "course_folders": [
+                "week_1",
+                "week_2",
+                "week_3",
+                "week_4",
+                "week_5",
+                "week_6",
+                "week_7",
+                "week_8",
+                "week_9",
+                "week_10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_id": "kcchr4dtwk56x",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "MEC 102B: MEC ENG 102B - Mechatronics Design",
+            "course_id": "kcdz8i2ln5v5pc",
+            "course_folders": [
+                "class_logistics",
+                "lab_kit_logistics",
+                "assignment_1",
+                "assignment_2",
+                "assignment_3",
+                "assignment_4",
+                "assignment_5",
+                "assignment_6",
+                "assignment_7",
+                "assignment_8",
+                "mini-project",
+                "other"
+            ]
+        },
+        {
+            "course_name": "PS 1: Introduction to American Politics",
+            "course_id": "kce0bemx3mr2de",
+            "course_folders": [
+                "logistics_/_policies",
+                "college_life_advice",
+                "current_events",
+                "course_readings",
+                "collaborative_project",
+                "participation_credit",
+                "individual_projects",
+                "essay_exams",
+                "quizzes",
+                "lecture",
+                "m_section_101",
+                "w_section_102",
+                "off_topic_fun_stuff"
+            ]
+        },
+        {
+            "course_name": "PS 2: Introduction to Comparative Politics",
+            "course_id": "kce0j0rolc62lo",
+            "course_folders": [
+                "logistics_/_policies",
+                "current_events",
+                "course_readings",
+                "collaborative_project",
+                "participation_credit",
+                "individual_projects",
+                "essay_exams",
+                "quizzes",
+                "lecture",
+                "m_section_101",
+                "w_section_102",
+                "f_section_103",
+                "off_topic_fun_stuff",
+                "college_life_advice"
+            ]
+        },
+        {
+            "course_name": "DATA 198_008: Transfer Course for Data Science",
+            "course_id": "kcgfdvmf4am1fw",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other",
+                "course_syllabus"
+            ]
+        },
+        {
+            "course_name": "PBHLTH 210E - SEM 001: Practicum in MCH Data Analysis I (Fall 2020)",
+            "course_id": "kcmwa5g9hl12vh",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "ME 280A: Introduction to the Finite Element Method",
+            "course_id": "kcmwi3fnwa57di",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "PS 290A: Research and Writing",
+            "course_id": "kcoznf8enpq4h",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "ANTHROPOLOGY 3AC: Introduction to Social/Cultural Anthropology (American Cultures)",
+            "course_id": "kcpb1twje6i4ul",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_id": "kcprzmnr4ty2ek",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "CBE 142: Chemical Kinetics and Reaction Engineering",
+            "course_id": "kcqdaxvl5se7ld",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_id": "kcqhiq3lkkj3rq",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "PBHLTH 101 - LEC 001: A Sustainable World: Challenges and Opportunities (Fall 2020)",
+            "course_id": "kctjmwetrs52c1",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "final_project",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "ESPM 50AC: Introduction to Culture and Natural Resource Management",
+            "course_id": "kcvhh9ph3s2341",
+            "course_folders": [
+                "module_1",
+                "module_2",
+                "module_3",
+                "module_4",
+                "assignmeents_-_reading_reflections",
+                "assignmeents_-_fnr",
+                "assignmeents_-_final_project",
+                "midterm_exam",
+                "final_exam",
+                "course_logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "ESPM 102D: Climate and Energy Policy",
+            "course_id": "kcvikpfz46522q",
+            "course_folders": [
+                "module_1",
+                "module_2",
+                "module_3",
+                "module_4",
+                "module_5",
+                "midterm_exam",
+                "final_exam",
+                "final_project",
+                "climate_policy_simulator",
+                "climate_forum",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "150B: PH150B: Human Health and the Environment in a Changing World",
+            "course_id": "kcw62cof7bh4ps",
+            "course_folders": [
+                "exam",
+                "logistics",
+                "other",
+                "01-what_is_ehs?",
+                "02-lit_search",
+                "03-toxciology",
+                "04-epigenetics",
+                "05-exposure_assessment",
+                "06-solutions-dtsc",
+                "07-env_epidemiology_i",
+                "08-env_epidemiology_ii",
+                "09-lead",
+                "10-pesticides",
+                "11-air_quality",
+                "12-climate_policy",
+                "13-exam_1_review",
+                "14-exam_1",
+                "15-gis",
+                "16-edcs",
+                "17-water_quality",
+                "18-water_regulation",
+                "19-development_goals",
+                "20-env_justice",
+                "21-vector_disease",
+                "22-ehs_careers",
+                "23-occupational_health",
+                "24-antimicrobial_resistance",
+                "25-chemical_regulation",
+                "26-foodborne_disease",
+                "27-exam_2_review",
+                "28-exam_2"
+            ]
+        },
+        {
+            "course_id": "kcw7guk6a4y412",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "ANTHRO 3AC - LEC 001: Introduction to Social/Cultural Anthropology (American Cultures) (Fall 2020)",
+            "course_id": "kcw99ty7d1huz",
+            "course_folders": [
+                "logistics_questions_week1",
+                "module00_clarification_questions",
+                "module00_discussion_questions",
+                "module01_clarification_questions",
+                "module01_discussion_questions",
+                "module_01_logistics_questions",
+                "module_02_conceptualizing_race-discussion"
+            ]
+        },
+        {
+            "course_name": "PH 142: PH142 Fall 2020",
+            "course_id": "kcwb9c7hro71ue",
+            "course_folders": [
+                "hw1/lab1",
+                "hw2/lab2",
+                "hw3/lab3",
+                "hw4/lab4",
+                "hw5/lab5",
+                "hw6/lab6",
+                "hw7/lab7",
+                "hw8/lab8",
+                "hw8/lab9",
+                "hw10/lab10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "PBHLTH 213A - LEC 001: Family Planning, Population Change, and Health (Fall 2020)",
+            "course_id": "kcxx9wevpms4iy",
+            "course_folders": [
+                "course_content",
+                "assignments_&_journal_entries",
+                "final_project",
+                "course_logistics",
+                "other"
+            ]
+        },
+        {
+            "course_id": "kcy0tnit1iw3w",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "CS 198-097: Robot Autonomous Racing Decal",
+            "course_id": "kcy3a3u9fzsuk",
+            "course_folders": [
+                "hw",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_id": "kcz3c81l5bg6oz",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "PBHLTH 290 - SEM 007: Transforming Food Systems",
+            "course_id": "kcz72fix73m3kp",
+            "course_folders": [
+                "project",
+                "exam",
+                "logistics",
+                "other",
+                "week_1",
+                "week_2",
+                "week_3",
+                "week_4",
+                "week_5",
+                "week_6",
+                "week_7",
+                "week_8",
+                "week_9",
+                "week_10",
+                "week_11",
+                "week_12",
+                "week_13",
+                "week_14",
+                "latte_lounge"
+            ]
+        },
+        {
+            "course_id": "kcz7m0s8hxyab",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "CIVENG 220 - LEC 001: Structural Analysis Theory and Applications (Fall 2020)",
+            "course_id": "kczd3dn1srs78t",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "EE C128 / ME C134: Feedback Control Systems",
+            "course_id": "kczehymkqk65ew",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other",
+                "midterm",
+                "labs",
+                "lecture",
+                "discussion"
+            ]
+        },
+        {
+            "course_name": "EE 118 / EE 218: Introduction to Optical Engineering",
+            "course_id": "kd0ez6mgc3m2eu",
+            "course_folders": [
+                "logistics",
+                "misc",
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9"
+            ]
+        },
+        {
+            "course_id": "kd0m47q3e96yz",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "294-173: Learning for 3D Vision",
+            "course_id": "kd0r8fgtduc53l",
+            "course_folders": [
+                "paper_assignments",
+                "project",
+                "logistics",
+                "other",
+                "lecture"
+            ]
+        },
+        {
+            "course_name": "INTEGBI 148 - LEC 001: Comparative Animal Physiology (Fall 2020)",
+            "course_id": "kd1qibuetya299",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other",
+                "readings",
+                "discussions"
+            ]
+        },
+        {
+            "course_name": "DEMOG 110: Introduction to Population Analysis",
+            "course_id": "kd4s0j7so6h48a",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "MCB 200: MCB 200",
+            "course_id": "kd6v56j66f65pt",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "PHW 253-PH257-OUTBREAK INVESTIGATIONS: PHW253-PH257-Outbreak Investigations",
+            "course_id": "kd7nnf071ix38c",
+            "course_folders": [
+                "253_group_project",
+                "logistics",
+                "latte_lounge_",
+                "week1",
+                "week2",
+                "week3",
+                "week4",
+                "week5",
+                "week6",
+                "week7",
+                "week8",
+                "week9",
+                "week10",
+                "week11",
+                "week12",
+                "week13",
+                "week14",
+                "253_individual_assignment"
+            ]
+        },
+        {
+            "course_name": "STAT 20 - LEC 002: Introduction to Probability and Statistics (Stoyanov)",
+            "course_id": "kd7qbx38zs2732",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "final_project",
+                "exam",
+                "logistics",
+                "other",
+                "weekly_quizzes",
+                "post-lecture_quizzes",
+                "mini-project1",
+                "mini-project2",
+                "writing_assignment",
+                "typos_in_notes",
+                "chapter_1_overview",
+                "chapter_2:_course_overview",
+                "chapter_3:_expts_and_obs_studies",
+                "campus_announcement"
+            ]
+        },
+        {
+            "course_name": "ECON 119 FALL 2020: Psych and Econ (Fall 2020)",
+            "course_id": "kd7wh3wdfmi6wc",
+            "course_folders": [
+                "logistics",
+                "problem_set1",
+                "problem_set2",
+                "problem_set3",
+                "problem_set4",
+                "problem_set5",
+                "problem_set6",
+                "midterm1",
+                "midterm2",
+                "final_exam"
+            ]
+        },
+        {
+            "course_name": "R-BOOTCAMP-FALL- 2020: Berkeley 2020 Virtual R Bootcamp",
+            "course_id": "kd804lfrrhq2n9",
+            "course_folders": [
+                "main",
+                "track2"
+            ]
+        },
+        {
+            "course_name": "AY 160: Stellar Physics",
+            "course_id": "kd90sjworkp66s",
+            "course_folders": [
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "CE 211A: Physical Chemical Processes",
+            "course_id": "kd9i4ebiu8a17r",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "CE 111: Intro to Environmental Engineering",
+            "course_id": "kd9i6h3kze01xr",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "EECS 189/289A: Introduction to Machine Learning (CS189/289A)",
+            "course_id": "kd9ro893fis2ig",
+            "course_folders": [
+                "project",
+                "exam",
+                "logistics",
+                "other",
+                "hw0",
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "hw11",
+                "hw12",
+                "hw13",
+                "lecture",
+                "discussion"
+            ]
+        },
+        {
+            "course_name": "PBHLTH 292 - SEM 005: Seminars for  M.P.H. Students (Fall 2020)",
+            "course_id": "kdal01sr4b25zy",
+            "course_folders": [
+                "project",
+                "latte_lounge_"
+            ]
+        },
+        {
+            "course_name": "PBHLTH 210 - LEC 001: PBHLTH 210 Foundations of Maternal and Child Health Policy, Practice and Science (Fall 2020)",
+            "course_id": "kdaq6c7dv5z6zr",
+            "course_folders": [
+                "exam",
+                "logistics",
+                "other",
+                "paper1",
+                "paper2",
+                "paper3",
+                "presentation",
+                "latte_lounge",
+                "general_assignment_questions"
+            ]
+        },
+        {
+            "course_name": "HMS 200A: PBL Unit 1",
+            "course_id": "kdaxnbqov192b7",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "MATH 256A: Algebraic geometry",
+            "course_id": "kdddrprp4q46mz",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other",
+                "requested_lectures",
+                "discussion_sessions"
+            ]
+        },
+        {
+            "course_name": "ECON 101B: Economic Theory--Macro",
+            "course_id": "kddtnvr5pql6eu",
+            "course_folders": [
+                "general",
+                "logistics",
+                "ps1",
+                "ps2",
+                "ps3",
+                "ps4",
+                "reading_responses",
+                "midterm",
+                "final",
+                "outside_announcements"
+            ]
+        },
+        {
+            "course_name": "ECON 134: Macroeconomic Policy From The Great Depression",
+            "course_id": "kde46qlguru2hk",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "lectures",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_id": "kdefv1z5gv8s1",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_id": "kdeq7lpf9vs68v",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "THEATER R1B - LEC 009: Performance: Writing and Research (Fall 2020)",
+            "course_id": "kdev15ud8lk6t0",
+            "course_folders": [
+                "syllabus",
+                "general_questions",
+                "assignments",
+                "announcements",
+                "a_raisin_in_the_sun",
+                "clybourne_park",
+                "ruined",
+                "eclipsed"
+            ]
+        },
+        {
+            "course_name": "CHEM 3AL (FALL 2020): Organic Chemistry Laboratory (Fall 2020)",
+            "course_id": "kdezkl0zgwygi",
+            "course_folders": [
+                "lab_a",
+                "lab_b",
+                "lab_c",
+                "lab_d",
+                "lab_e",
+                "lab_f",
+                "lab_g",
+                "lab_h",
+                "lab_i",
+                "lab_j",
+                "lab_k",
+                "lab_l",
+                "project",
+                "exam",
+                "logistics",
+                "lecture_questions"
+            ]
+        },
+        {
+            "course_name": "PHW 224 2020: PHW224 2020",
+            "course_id": "kdf8jdjgvx56qd",
+            "course_folders": [
+                "project",
+                "exam",
+                "logistics",
+                "other",
+                "week1",
+                "week2",
+                "week3",
+                "week4",
+                "week5",
+                "week6",
+                "week7",
+                "week8"
+            ]
+        },
+        {
+            "course_name": "CS 294-180: Partition Functions: Algorithms & Complexity",
+            "course_id": "kdg8xt0oh7d5or",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "HMEDSCI 216 - SEM 002: Clinical Medicine (Fall 2020)",
+            "course_id": "kdgbq2nfakk4en",
+            "course_folders": [
+                "week_1",
+                "week_2",
+                "week_3",
+                "week_4",
+                "week_5",
+                "week_6",
+                "week_7",
+                "week_8",
+                "week_9",
+                "week_10",
+                "week_11",
+                "week_12",
+                "week_13",
+                "week_14",
+                "week_15",
+                "week_16",
+                "week_17",
+                "week_18"
+            ]
+        },
+        {
+            "course_name": "STAT 20: Introduction to Probability and Statistics",
+            "course_id": "kdgil11bkd66qz",
+            "course_folders": [
+                "logistics",
+                "midterm",
+                "project",
+                "other",
+                "final",
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "hw11",
+                "hw12"
+            ]
+        },
+        {
+            "course_name": "EECS 151 / 251A: Introduction to Digital Design and Integrated Circuits",
+            "course_id": "kdgqfut9t83k3",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other",
+                "fpga_lab1",
+                "fpga_lab2",
+                "fpga_lab3",
+                "fpga_lab4",
+                "fpga_lab5",
+                "fpga_lab6",
+                "asic_lab1",
+                "asic_lab2",
+                "asic_lab3",
+                "asic_lab4",
+                "asic_lab5",
+                "asic_lab6"
+            ]
+        },
+        {
+            "course_name": "DATA 88: Data 88: Economic Models",
+            "course_id": "kdhjudboby95c3",
+            "course_folders": [
+                "lab1",
+                "lab2",
+                "lab3",
+                "lab4",
+                "lab5",
+                "lab6",
+                "lab7",
+                "lab8",
+                "lab9",
+                "lab10",
+                "lab11",
+                "lab12",
+                "proj1",
+                "proj2",
+                "proj3",
+                "proj4",
+                "proj5",
+                "test1",
+                "test2",
+                "attendance",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "CE 93 - HW: Engineering Data Analysis",
+            "course_id": "kdhkqjlgufr1o0",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "CE 93 - LAB: Engineering Data Analysis",
+            "course_id": "kdhm68hv2s42b1",
+            "course_folders": [
+                "lab0",
+                "lab1",
+                "lab2",
+                "lab3",
+                "lab4",
+                "lab5",
+                "lab6",
+                "lab7",
+                "lab8",
+                "lab9",
+                "lab10",
+                "project",
+                "exam",
+                "logistics",
+                "other",
+                "lab_groups",
+                "office_hours"
+            ]
+        },
+        {
+            "course_name": "EECS 126: Probability and Random Processes",
+            "course_id": "kdhvjzdceb91ll",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "hw11",
+                "hw12",
+                "hw13",
+                "hw14",
+                "lectures",
+                "mt1",
+                "mt2",
+                "final",
+                "exam",
+                "logistics",
+                "other",
+                "labs",
+                "discussion"
+            ]
+        },
+        {
+            "course_name": "CHEM 12A - LEC 001: Organic Chemistry (Fall 2020)",
+            "course_id": "kdhwu6jviyf2k3",
+            "course_folders": [
+                "week_of_august_19",
+                "week_of_august_24",
+                "week_of_august_31",
+                "week_of_september_7",
+                "week_of_september_14",
+                "week_of_september_21",
+                "week_of_september_28",
+                "week_of_october_5",
+                "week_of_october_12",
+                "week_of_october_19",
+                "week_of_october_26",
+                "week_of_november_2",
+                "week_of_november_9",
+                "week_of_november_16",
+                "week_of_november_23",
+                "week_of_november_30",
+                "rrr_week_and_finals_week"
+            ]
+        },
+        {
+            "course_name": "EE 120: Signals & Systems",
+            "course_id": "kdhzgcpwg269u",
+            "course_folders": [
+                "exam",
+                "logistics",
+                "other",
+                "lab",
+                "hw",
+                "lecture",
+                "checkin",
+                "disc"
+            ]
+        },
+        {
+            "course_name": "PH256/C256/CMPBIO156: PH256/C256/CMPBIO156",
+            "course_id": "kdi06qk5hml2rv",
+            "course_folders": [
+                "logistics",
+                "other",
+                "week1",
+                "week2",
+                "week3",
+                "week4"
+            ]
+        },
+        {
+            "course_id": "kdi1h9mq1g77nt",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "CP 113A: Economic Analysis for Planning",
+            "course_id": "kdi9ei0k4fg1mq",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other",
+                "housing"
+            ]
+        },
+        {
+            "course_name": "ESPM 50AC - LEC 001: ESPM 50AC",
+            "course_id": "kdj9ezm0u201gi",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "XESPM 50AC - FPF 2020: Introduction to Culture and Natural Resource Management (Fall 2020)",
+            "course_id": "kdjqps9av9a5zu",
+            "course_folders": [
+                "project",
+                "exam",
+                "course_logistics",
+                "other",
+                "dis_101",
+                "dis_102",
+                "assignment_questions",
+                "topics_of_interest"
+            ]
+        },
+        {
+            "course_name": "STAT 210A: Theoretical Statistics",
+            "course_id": "kdkl6c3u1fw2rx",
+            "course_folders": [
+                "hw0",
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "hw11",
+                "hw12",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "ECON/EEP 102: Natural Resource Economics",
+            "course_id": "kdkleqonmat6wk",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_id": "kdkoh0gyi657gu",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "MATH H54: 26132",
+            "course_id": "kdkr8pqsxry1vk",
+            "course_folders": [
+                "discuss"
+            ]
+        },
+        {
+            "course_name": "CS 194-26 / 294-26: Intro to Computer Vision and Computational Photography",
+            "course_id": "kdktix3lfbx30j",
+            "course_folders": [
+                "project1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other",
+                "quiz"
+            ]
+        },
+        {
+            "course_name": "MATH 54 - LEC 002: Linear Algebra and Differential Equations (Fall 2020)",
+            "course_id": "kdkuvqljxy44vr",
+            "course_folders": [
+                "logistics",
+                "logistics/hw",
+                "logistics/quiz",
+                "lecture",
+                "discussion",
+                "module/1.1",
+                "module/1.2",
+                "module/1.3",
+                "module/1.4",
+                "module/1.5",
+                "module/1.6",
+                "module/1.7",
+                "module/1.8",
+                "module/1.9",
+                "module/2.1",
+                "module/2.2",
+                "module/2.3",
+                "module/3.1",
+                "module/3.2",
+                "module/3.3",
+                "other"
+            ]
+        },
+        {
+            "course_name": "MEC ENG 132: Dynamic Systems and Feedback",
+            "course_id": "kdkzy44g6y436j",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "CYPAN 256: Healthy Cities",
+            "course_id": "kdl3zwm9ju13rn",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_id": "kdl5cn50fh652e",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "PH 224: PH 224: Organizational Behavior and Management in Health Care",
+            "course_id": "kdm6d5vaqyi1ri",
+            "course_folders": [
+                "m0",
+                "m1",
+                "m2",
+                "m3",
+                "m4",
+                "m5",
+                "m6",
+                "m7",
+                "m8",
+                "team_project"
+            ]
+        },
+        {
+            "course_name": "CE 262: Analysis of Transportation Data",
+            "course_id": "kdnfmpmz3gk70e",
+            "course_folders": [
+                "networking",
+                "class_logistics",
+                "school_resources",
+                "python_resources",
+                "ps_1",
+                "ps_2",
+                "ps_3",
+                "ps_4",
+                "ps_5",
+                "project",
+                "exam",
+                "other"
+            ]
+        },
+        {
+            "course_name": "CS 188: Introduction to Artificial Intelligence",
+            "course_id": "kdo94dnotzp1e5",
+            "course_folders": [
+                "project",
+                "exam",
+                "logistics",
+                "other",
+                "ehw1",
+                "ehw2",
+                "ehw3",
+                "ehw4",
+                "ehw5",
+                "ehw6",
+                "ehw7",
+                "ehw8",
+                "whw1",
+                "whw2",
+                "whw3",
+                "whw4",
+                "proj1",
+                "proj2",
+                "proj3",
+                "proj4",
+                "proj5",
+                "recordings",
+                "conceptual"
+            ]
+        },
+        {
+            "course_name": "EE 140 / 240A: Linear Integrated Circuits",
+            "course_id": "kdp23q8pib49y",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "CHEM 120A: Physical Chemistry - Quantum Mechanics",
+            "course_id": "kdp60ldbtte2l7",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_id": "kdp6zc4cj2s7q",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "2020 250B: 2020 250B Epidemiologic Methods II",
+            "course_id": "kdpf1hntmo362a",
+            "course_folders": [
+                "week1",
+                "week2",
+                "week3",
+                "week4",
+                "week5",
+                "week6",
+                "week7",
+                "week8",
+                "week9",
+                "week10",
+                "week11",
+                "week12",
+                "week13",
+                "week14",
+                "week15",
+                "week16",
+                "midterm",
+                "logistics",
+                "final_exam",
+                "other"
+            ]
+        },
+        {
+            "course_name": "XENGLIS R1A - LEC 004: Reading and Composition (Fall 2020)",
+            "course_id": "kdpi3n8xorl1h7",
+            "course_folders": [
+                "syllabus",
+                "assignments",
+                "general",
+                "a_doll's_house"
+            ]
+        },
+        {
+            "course_name": "XENGLIS R1A - LEC 003: Reading and Composition (Fall 2020)",
+            "course_id": "kdpi67b8xbc2f1",
+            "course_folders": [
+                "general",
+                "assignments",
+                "syllabus",
+                "a_doll's_house"
+            ]
+        },
+        {
+            "course_name": "CS 194-50: CS194-50: Safety, Security, and Policy",
+            "course_id": "kdq45xx1i5k4yn",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "CS 161: Computer Security",
+            "course_id": "kdq47d3aqy55pf",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "IEOR 263A: Stochastic Processes I",
+            "course_id": "kdqa8na6i8n38j",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "34013: HIST100ST",
+            "course_id": "kdqaaolhxjy37r",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "EDUC 275G: Hierarchical and Longitudinal Modeling (Fall 2020)",
+            "course_id": "kdqerujtrkp46",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "project",
+                "logistics",
+                "other",
+                "datasets",
+                "stata",
+                "to_sophia",
+                "to_aya",
+                "to_feng",
+                "to_yidan",
+                "concepts",
+                "quizzes",
+                "feedback_suggestions",
+                "mini_projects"
+            ]
+        },
+        {
+            "course_name": "MATH 104 (LEC 003): Math 104 (Lec 003): Introduction to Analysis",
+            "course_id": "kdqmlqeresp5yx",
+            "course_folders": [
+                "logistics",
+                "lectures",
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "exam",
+                "other"
+            ]
+        },
+        {
+            "course_name": "CS 176: Algorithms for Computational Biology",
+            "course_id": "kcvz9o2gwq214q",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "LINGUIS 5: Language and Linguistics",
+            "course_id": "kdrvwqpxnen7mi",
+            "course_folders": [
+                "week1",
+                "week2",
+                "week3",
+                "week4",
+                "week5",
+                "week6",
+                "week7",
+                "week8",
+                "week9",
+                "week10",
+                "week11",
+                "week12",
+                "week13",
+                "week14",
+                "week15",
+                "week16"
+            ]
+        },
+        {
+            "course_name": "STAT 201B: Introduction to Statistics at an Advanced Level",
+            "course_id": "kdrwqwl7yc94ur",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other",
+                "section1",
+                "section2",
+                "section3",
+                "section4",
+                "section5",
+                "section6",
+                "section7",
+                "section8"
+            ]
+        },
+        {
+            "course_name": "STAT 154: Modern Statistical Prediction and Machine Learning",
+            "course_id": "kdrz0a6m7tx683",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "CBE 170A: Biochemical Engineering",
+            "course_id": "kds20ugrluc4ma",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "EE 227BT: Convex Optimization",
+            "course_id": "kdsa50deezh45p",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "2020-BUILD-PHW200G-HEALTH AND SOCIAL BEHAVIOR BREADTH: 2020-BUILD-PHW200G-Health and Social Behavior Breadth",
+            "course_id": "kdt788e81cz6af",
+            "course_folders": [
+                "project",
+                "exam",
+                "logistics",
+                "other",
+                "week1",
+                "week2",
+                "week3",
+                "week4",
+                "week5",
+                "week6",
+                "week7",
+                "latte_lounge"
+            ]
+        },
+        {
+            "course_id": "kdt80q68d7s1me",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_id": "kdt839zt7c02kw",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "6.875/CS 276: Cryptography",
+            "course_id": "kdtelgtgnv417p",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "ASTRON 7A: Introduction to Astrophysics",
+            "course_id": "kdtkbt7efoe6qe",
+            "course_folders": [
+                "other",
+                "problem_sets",
+                "exams",
+                "concept_checks",
+                "lectures",
+                "section",
+                "general"
+            ]
+        },
+        {
+            "course_name": "CS 186: Introduction to Database Systems",
+            "course_id": "kducz9b1i3h78i",
+            "course_folders": [
+                "project1",
+                "project2",
+                "project3",
+                "project4",
+                "project5",
+                "logistics",
+                "other",
+                "mt1",
+                "mt2",
+                "final",
+                "exam_prep",
+                "sql",
+                "project0",
+                "section",
+                "disks_files_buffers",
+                "b+_trees",
+                "buffer_management",
+                "relational_algebra",
+                "sorting_hashing",
+                "iterators_joins",
+                "query_optimization",
+                "parallel_query_processing",
+                "transactions_concurrency",
+                "distributed_transactions",
+                "recovery",
+                "db_design",
+                "project6"
+            ]
+        },
+        {
+            "course_name": "MATH 215A: Algebraic Topology",
+            "course_id": "kdui79sf71b5m7",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "CHMENG 183 - LEC 001: Climate Solutions Technologies (Fall 2020)",
+            "course_id": "kdujqaj0vn36tx",
+            "course_folders": [
+                "general_questions",
+                "pre-unit1_prewrite",
+                "unit1_ps1"
+            ]
+        },
+        {
+            "course_name": "ASTRO 120: Optical and IR Astronomy Lab",
+            "course_id": "kdujxvqhtky2hh",
+            "course_folders": [
+                "lab_1",
+                "lab_2",
+                "lab_3",
+                "lab_4",
+                "general",
+                "statistics",
+                "computing/coding",
+                "logistics",
+                "polls",
+                "other"
+            ]
+        },
+        {
+            "course_name": "COGSCI-PSYCH 127: Cognitive Neuroscience 127 (Fall 2020)",
+            "course_id": "kduk0qawyu13vs",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_id": "kdumgpebatb73d",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_id": "kduqa4b899wsa",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "EECS C106A/206A: EECS C106A / BIOE C106A / EE 206A",
+            "course_id": "kdureom7avo7lf",
+            "course_folders": [
+                "project",
+                "exam",
+                "logistics",
+                "other",
+                "hw0",
+                "lab0",
+                "lab1",
+                "lab2",
+                "lab3",
+                "lab4",
+                "lab5",
+                "lab6",
+                "lab7",
+                "lab8",
+                "hw",
+                "lecture",
+                "discussion",
+                "lab"
+            ]
+        },
+        {
+            "course_name": "CS 195: Social Implications of Computer Technology",
+            "course_id": "kdus0lztca15oq",
+            "course_folders": [
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "COGSCI C131 / PSYCH C123: Computational Models of Cognition",
+            "course_id": "kdute0s7i3056h",
+            "course_folders": [
+                "logistics",
+                "other",
+                "ps0",
+                "ps1",
+                "ps2",
+                "ps3",
+                "ps4",
+                "ps5",
+                "ps6",
+                "ps7",
+                "ps8",
+                "ps9",
+                "ps10",
+                "ps11",
+                "ps12",
+                "lecture0",
+                "lecture1",
+                "lecture2",
+                "lecture3",
+                "lecture4",
+                "lecture5",
+                "lecture6",
+                "lecture7",
+                "lecture8",
+                "lecture9",
+                "lecture10",
+                "lecture11",
+                "lecture12",
+                "lecture13",
+                "lecture14",
+                "lecture15",
+                "lecture16",
+                "lecture17",
+                "lecture18",
+                "lecture19",
+                "lecture20",
+                "lecture21",
+                "lecture22",
+                "lecture23",
+                "lecture24",
+                "lecture25",
+                "lecture26",
+                "lecture27",
+                "lecture28",
+                "lecture29",
+                "general",
+                "debugging"
+            ]
+        },
+        {
+            "course_name": "PH200J: Health Policy & Management Breadth",
+            "course_id": "kdutvqvdaaooo",
+            "course_folders": [
+                "module1",
+                "module2",
+                "module3",
+                "study_group_formation",
+                "midterm",
+                "op-ed",
+                "final_project",
+                "course_logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "E 7: Introduction to Computer Programming for Scientists and Engineers",
+            "course_id": "kduuzgveuocvj",
+            "course_folders": [
+                "lab1",
+                "lab2",
+                "lab3",
+                "lab4",
+                "lab5",
+                "lab6",
+                "lab7",
+                "lab8",
+                "lab9",
+                "lab10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_id": "kduxfmy739q6yg",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "CS 198-3: UCBUGG: 3D Modeling and Animation",
+            "course_id": "kdw5lcfcmk15sk",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "206 A/D: vision science",
+            "course_id": "kdwckjz6kkf37u",
+            "course_folders": [
+                "dr._gong",
+                "dr._truong",
+                "dr._fleiszig",
+                "dr._lin",
+                "dr._chen",
+                "general",
+                "exam"
+            ]
+        },
+        {
+            "course_name": "BIOE 103: Engineering Molecules 2",
+            "course_id": "kdwirzntjc1wg",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "STAT 88: Probability and Mathematical Statistics for Data Science",
+            "course_id": "kdxsrxzejp77mg",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "midterm",
+                "logistics",
+                "other",
+                "hw11",
+                "hw12",
+                "hw13",
+                "final",
+                "quiz1",
+                "quiz2",
+                "quiz3",
+                "quiz4"
+            ]
+        },
+        {
+            "course_name": "MCB 110L: General Chemistry and Molecular Biology Laboratory",
+            "course_id": "kdxw2y0ajnb2ds",
+            "course_folders": [
+                "general_questions",
+                "logistics",
+                "readings",
+                "movies",
+                "lab_simulations",
+                "worksheets",
+                "journal_clubs",
+                "quizzes",
+                "paper",
+                "exam",
+                "other"
+            ]
+        },
+        {
+            "course_id": "kdxzfr1mmy162j",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "STAT 133: STAT 133 Concepts in Computing with Data",
+            "course_id": "kdynk4obld755p",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "1A 002 LEC: Math 1A Calculus-lecture 002",
+            "course_id": "kdynl0jtawp2zc",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "STAT 133 LEC 1: Concepts in Computing with Data",
+            "course_id": "kdynnebzksw4b9",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "warmup1",
+                "warmup2",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "FALL 2020 UGBA 101A: Fall 2020 - UGBA 101A - Microeconomic Analysis for Business Decisions",
+            "course_id": "kdynxsfb6or5hb",
+            "course_folders": [
+                "hw1",
+                "exam1",
+                "exam2",
+                "final_exam",
+                "logistics",
+                "other",
+                "in-class-chat"
+            ]
+        },
+        {
+            "course_name": "CHINESE 1A: Elementary Chinese 1A (Fall 2020)",
+            "course_id": "kdyp6kjk8r0506",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "MATH 1A 002 LEC: MATH1A LEC 002 (SUN)",
+            "course_id": "kdypmqg2els3j2",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "MATH 375: Teaching workshop",
+            "course_id": "kdys833j57166h",
+            "course_folders": [
+                "logistics",
+                "notes",
+                "assignments",
+                "tech",
+                "active_learning",
+                "quiz-and-exam-grading",
+                "other"
+            ]
+        },
+        {
+            "course_name": "PHILOS 148: Probability and Induction",
+            "course_id": "kdyzs9ewr5v6wh",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "ARCH 130: Introduction to Design Theory and Criticism",
+            "course_id": "kdz1eiyv7o532c",
+            "course_folders": [
+                "major_assignment_",
+                "logistics",
+                "w1",
+                "w2",
+                "w3",
+                "w4",
+                "w5",
+                "w6",
+                "w7",
+                "w8",
+                "w9",
+                "w10",
+                "w11",
+                "w12",
+                "w13",
+                "w14",
+                "w15"
+            ]
+        },
+        {
+            "course_id": "kdz1fhwxxv77h6",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "PHILOS 143: Modal Logic",
+            "course_id": "kdz1hzf1zg819h",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "MATH 16A: Analytic Geometry and Calculus",
+            "course_id": "kdz3b3err754c1",
+            "course_folders": [
+                "module_1",
+                "module_2",
+                "module_3",
+                "module_4",
+                "module_5",
+                "module_6",
+                "homework",
+                "quizzes",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "CHMENG 150A - FALL 2020: Transport Processes (Fall 2020)",
+            "course_id": "kdz3iw2pa54in",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other",
+                "discussion_section"
+            ]
+        },
+        {
+            "course_name": "ENGLISH R1A - LEC 007: Reading and Composition (Fall 2020)",
+            "course_id": "kdz4itbon463xr",
+            "course_folders": [
+                "syllabus",
+                "assignments",
+                "general_questions_or_comments",
+                "a_doll's_house"
+            ]
+        },
+        {
+            "course_name": "CS 61A: Structure and Interpretation of Computer Programs",
+            "course_id": "kdz4wzqnb6052o",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "hw11",
+                "logistics",
+                "other",
+                "lab1",
+                "lab2",
+                "lab3",
+                "lab4",
+                "lab5",
+                "lab6",
+                "lab7",
+                "lab8",
+                "lab9",
+                "lab10",
+                "lab11",
+                "lab12",
+                "lab13",
+                "lab14",
+                "project1",
+                "project2",
+                "project3",
+                "project4",
+                "lecture",
+                "mt1",
+                "mt2",
+                "final"
+            ]
+        },
+        {
+            "course_id": "kdz50ztjhsq3jf",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "PBHLTH W212 & MDP - WBL 001: PHW212 & MDP- 2020 - Foundations of Global Health",
+            "course_id": "kdz5pbqonm44rm",
+            "course_folders": [
+                "project",
+                "exam",
+                "logistics",
+                "other",
+                "week_1",
+                "week_2",
+                "week_3",
+                "week_4",
+                "week_5",
+                "week_6",
+                "week_7",
+                "week_8",
+                "week_9",
+                "week_10",
+                "week_11",
+                "week_12",
+                "week_13",
+                "week_14",
+                "week_15",
+                "phw212_assignments_",
+                "devp232_assignments"
+            ]
+        },
+        {
+            "course_name": "INFO 206A: Introduction to Programming and Computation",
+            "course_id": "kdz5sei42773m2",
+            "course_folders": [
+                "other"
+            ]
+        },
+        {
+            "course_name": "INFO 206B: Introduction to Data Structures and Analytics",
+            "course_id": "kdz5yivl7g74vv",
+            "course_folders": [
+                "other"
+            ]
+        },
+        {
+            "course_name": "MCB 160: Cellular and Molecular Neurobiology (Fall 2020)",
+            "course_id": "kdz6p8xyf4e48t",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "ASTRONOMY C10: Introduction to General Astronomy",
+            "course_id": "kdz8ewyoiki65t",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_id": "kdz9yvk96jr7ch",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "ECON 100A: Economic Analysis--Micro (Fall 2020)",
+            "course_id": "kdzar53md252e",
+            "course_folders": [
+                "exam",
+                "logistics",
+                "other",
+                "problems",
+                "discussion_prompts",
+                "concepts"
+            ]
+        },
+        {
+            "course_id": "kdzjde4lics4h0",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_id": "kdznn2p7a5ils",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "XMATH 1A: Calculus",
+            "course_id": "kdzsgvyyyhm33a",
+            "course_folders": [
+                "homework",
+                "exam",
+                "logistics",
+                "other",
+                "quizzes"
+            ]
+        },
+        {
+            "course_name": "CS 294-164: Computational Color",
+            "course_id": "ke06087xbga6l0",
+            "course_folders": [
+                "project",
+                "logistics",
+                "other",
+                "reading",
+                "leading-discussion"
+            ]
+        },
+        {
+            "course_name": "CS 285: CS 285: Deep Reinforcement Learning",
+            "course_id": "ke07o86bqy62qi",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "project",
+                "exam",
+                "logistics",
+                "other",
+                "lecture-discussion"
+            ]
+        },
+        {
+            "course_id": "ke089itl2ao3q2",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "MATH 74: Transition to Upper Division Mathematics",
+            "course_id": "ke08u7nkbmn36f",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "hw11",
+                "hw12",
+                "hw13",
+                "hw14",
+                "hw15",
+                "other",
+                "logistics",
+                "exam"
+            ]
+        },
+        {
+            "course_name": "EPS 88: EPS 88: PyEarth, A Python Introduction of Earth Science",
+            "course_id": "ke0aj8891ti71l",
+            "course_folders": [
+                "hw1",
+                "logistics"
+            ]
+        },
+        {
+            "course_name": "GLOBAL 45 - LEC 001: Survey of World History (Fall 2020)",
+            "course_id": "ke0drkrwtse580",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other",
+                "instructor_communication1",
+                "instructor_communication2",
+                "instructor_communication3",
+                "instructor_communication4",
+                "private_responses-alk"
+            ]
+        },
+        {
+            "course_name": "PBHLTH 290 - SEM 010: Developmental Science of Adolescence",
+            "course_id": "ke0gczri2ft58p",
+            "course_folders": [
+                "case_1",
+                "case_2",
+                "case_3",
+                "project",
+                "reflection",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "PHYSICS 89: Introduction to Mathematical Physics",
+            "course_id": "ke0iommzuy82yj",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "hw11",
+                "hw12",
+                "exam",
+                "logistics",
+                "other",
+                "lectures",
+                "discussions",
+                "recordings"
+            ]
+        },
+        {
+            "course_name": "CS 170: CS 170: Efficient Algorithms and Intractable Problems",
+            "course_id": "ke0mwss5bxj4hs",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other",
+                "dsp",
+                "big-o",
+                "divide-and-conquer",
+                "fft",
+                "dfs",
+                "shortest_paths",
+                "greedy_algorithms",
+                "dynamic_programming",
+                "linear_programming",
+                "network_flow",
+                "duality",
+                "reductions",
+                "bipartite_matching",
+                "multiplicative_weight_updates",
+                "np",
+                "quantum_factoring",
+                "hashing,_sketching,_streaming",
+                "modular_arithmetic,_primality",
+                "discussion",
+                "lecture_questions"
+            ]
+        },
+        {
+            "course_id": "ke0npdimknv43u",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_id": "ke0o3i0z3qq1rg",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "INFO 254 / DATA 144: Data Mining & Analytics",
+            "course_id": "ke0qub7vkrl5tr",
+            "course_folders": [
+                "live_q&a",
+                "lab1",
+                "lab2",
+                "general_q&a",
+                "other",
+                "ml_applications_discussion",
+                "advertisements",
+                "off_topic_(not_monitored_by_staff)"
+            ]
+        },
+        {
+            "course_name": "STAT 157/260: Seminar on Topics in Probability and Statistics (Bayesian Statistics)",
+            "course_id": "ke0u6bs8dhm2mq",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other",
+                "class"
+            ]
+        },
+        {
+            "course_name": "CS 281A/STAT241A: Statistical Learning Theory",
+            "course_id": "ke0w4hw4lbu6mi",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "EE 221A: Linear System Theory",
+            "course_id": "ke18oun6rcp7kh",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "logistics",
+                "lecture",
+                "midterm",
+                "final_exam",
+                "other"
+            ]
+        },
+        {
+            "course_id": "ke1hfmx75mk4sv",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "CS 294-165: Sketching Algorithms",
+            "course_id": "ke1q4m3c4px73j",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "IND ENG 290: IEOR 290: Algorithms for Data Science",
+            "course_id": "ke1uvynav3q5fx",
+            "course_folders": [
+                "logistics",
+                "other",
+                "quiz1",
+                "quiz2",
+                "quiz3",
+                "quiz4",
+                "quiz5",
+                "quiz6",
+                "quiz7",
+                "quiz8",
+                "quiz9",
+                "quiz10",
+                "quiz11",
+                "quiz12",
+                "quiz13",
+                "quiz14",
+                "quiz15",
+                "quiz16",
+                "quiz17",
+                "quiz18",
+                "quiz19",
+                "quiz20",
+                "hw1",
+                "hw2",
+                "project"
+            ]
+        },
+        {
+            "course_id": "ke1v5sqf3n42po",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "ESPM 137: Landscape Ecology (Fall 2020)",
+            "course_id": "ke1w34c24jls8",
+            "course_folders": [
+                "logistics",
+                "other",
+                "lab1",
+                "lab2",
+                "lab3",
+                "lab4",
+                "lab5",
+                "lab6",
+                "lab7",
+                "lab8",
+                "lab9",
+                "lab10",
+                "lab11",
+                "lab12",
+                "lab13"
+            ]
+        },
+        {
+            "course_id": "kd0ifacummd56a",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_id": "ke1zalsa3q816q",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "MCB 133L SP20: Physiology and Cell Biology Laboratory (Spring 2020)",
+            "course_id": "ke21mc4qjwu3i8",
+            "course_folders": [
+                "section_i_material",
+                "general",
+                "data_clubs",
+                "journal_clubs",
+                "quizzes",
+                "logistics",
+                "section_ii",
+                "section_iii"
+            ]
+        },
+        {
+            "course_name": "STAT 153: Introduction to Time Series",
+            "course_id": "ke247r4hkkc6cr",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "ECON 100B - LEC 001: Economic Analysis--Macro (Fall 2020)",
+            "course_id": "ke27r8v91h06j3",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "CHEM 32: CHEM 32",
+            "course_id": "ke2al2cuk324jz",
+            "course_folders": [
+                "unit_a",
+                "unit_b",
+                "unit_c",
+                "unit_d",
+                "unit_e",
+                "unit_f",
+                "logistics"
+            ]
+        },
+        {
+            "course_name": "PSYCH 102 - LEC 001: Methods for Research in Psychological Sciences (Fall 2020)",
+            "course_id": "ke2bek6eb5s700",
+            "course_folders": [
+                "r_questions",
+                "lecture_content",
+                "discussion_content",
+                "assignments",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "CE 30-ME85: CE30-ME85 - LEC 002 Introduction to Solid Mechanics (Fall 2020)",
+            "course_id": "ke2kl8vgddz6x8",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "PHW 290: R FOR PUBLIC HEALTH: PHW290: R for Public Health",
+            "course_id": "ke2ynd8se6g47l",
+            "course_folders": [
+                "final_project",
+                "exam",
+                "logistics",
+                "other",
+                "week1",
+                "week2",
+                "week3",
+                "week4",
+                "week5",
+                "week6",
+                "week7",
+                "week8",
+                "week9",
+                "week10",
+                "week11",
+                "week12",
+                "week13",
+                "week14",
+                "week15"
+            ]
+        },
+        {
+            "course_id": "ke30bj9vm7s6ro",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "MCELLBI 133L - LEC 001: Physiology and Cell Biology Laboratory (Fall 2020)",
+            "course_id": "ke30g81qvyd5w9",
+            "course_folders": [
+                "general",
+                "logistics",
+                "section_1_material",
+                "section_2_material",
+                "section_3_material",
+                "data_club",
+                "journal_club",
+                "lectures",
+                "quizzes",
+                "seminars",
+                "lab_notebooks",
+                "section_101",
+                "section_102",
+                "section_201",
+                "section_202"
+            ]
+        },
+        {
+            "course_name": "MCELLBI 55 - LEC 001: Plagues and Pandemics (Fall 2020)",
+            "course_id": "ke326x68q8s3vx",
+            "course_folders": [
+                "module_1",
+                "module_2",
+                "module_3",
+                "module_4",
+                "module_5",
+                "module_6",
+                "module_7",
+                "module_8",
+                "module_9",
+                "module_10",
+                "module_11",
+                "module_12",
+                "module_13",
+                "module_14",
+                "module_15"
+            ]
+        },
+        {
+            "course_id": "ke34vj0hwih1kn",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "DATA 100: Principles and Techniques of Data Science",
+            "course_id": "ke37haavnl86ul",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "project",
+                "exam",
+                "logistics",
+                "other",
+                "lab1",
+                "lab2",
+                "lab3",
+                "lab4",
+                "lab5",
+                "lab6",
+                "lab7",
+                "lab8",
+                "lab9",
+                "lab10",
+                "lab11",
+                "lab12",
+                "project1",
+                "project2",
+                "lecture",
+                "grades"
+            ]
+        },
+        {
+            "course_name": "CE 252: Systems Analysis in Transportation",
+            "course_id": "ke39arld7ko5q2",
+            "course_folders": [
+                "logistics",
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "quiz1",
+                "quiz2",
+                "quiz3",
+                "quiz4",
+                "quiz5",
+                "quiz6",
+                "other",
+                "exam"
+            ]
+        },
+        {
+            "course_name": "242B: Advanced Integrated Circuits for Communication",
+            "course_id": "ke39tebctj86sp",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_id": "ke3aj8z75apb0",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "CE 122: Design of Steel Structures",
+            "course_id": "ke3dvsz5by81hd",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "midterm_1",
+                "midterm_2",
+                "final_exam",
+                "general"
+            ]
+        },
+        {
+            "course_name": "STAT 243: Introduction to Statistical Computing",
+            "course_id": "ke3e15prg5p6vj",
+            "course_folders": [
+                "class",
+                "section",
+                "assignments",
+                "logistics",
+                "ps1",
+                "ps2",
+                "ps3",
+                "ps4",
+                "ps5",
+                "ps6",
+                "ps7",
+                "ps8",
+                "ps9",
+                "ps10",
+                "project",
+                "other"
+            ]
+        },
+        {
+            "course_name": "GLOBAL 10B: Cultures and Capitalisms (Fall 2020)",
+            "course_id": "ke3e63y42feec",
+            "course_folders": [
+                "midterm",
+                "exam",
+                "c&cpaper",
+                "logistics",
+                "other",
+                "pzpostwk1",
+                "pzpostwk2",
+                "pzpostwk3",
+                "pzpostwk4",
+                "pzpostwk5",
+                "pzpostwk6",
+                "pzpostwk8",
+                "pzpostwk9",
+                "pzpostwk10",
+                "pzpostwk11",
+                "pzpostwk12",
+                "pzpostwk13"
+            ]
+        },
+        {
+            "course_name": "ECON 280A - LEC 001: International Economics (Fall 2020)",
+            "course_id": "ke3g1toc8ewuk",
+            "course_folders": [
+                "lecture_1",
+                "lecture_2",
+                "lecture_3",
+                "lecture_4",
+                "lecture_6",
+                "lecture_7",
+                "problem_set_1",
+                "problem_set_2",
+                "problem_set_3",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "MCELLBI 150 - LEC 001: Molecular Immunology (Fall 2020)",
+            "course_id": "ke3kldxh3sw3ak",
+            "course_folders": [
+                "general_questions",
+                "problem_set_#1_",
+                "problem_set_#2",
+                "problem_set_#3",
+                "problem_set_#4",
+                "problem_set_#5",
+                "problem_set_#6",
+                "problem_set_#7",
+                "problem_set_#8",
+                "problem_set_#9",
+                "midterm1",
+                "midterm2",
+                "midterm3",
+                "journal_club_#1",
+                "journal_club_#2"
+            ]
+        },
+        {
+            "course_name": "MATH 1B: MATH 1B",
+            "course_id": "kdz53y6yw0i1yq",
+            "course_folders": [
+                "logistics",
+                "other",
+                "project_1",
+                "project_2",
+                "project_3",
+                "project_4",
+                "project_5",
+                "project_6",
+                "project_7",
+                "project_8",
+                "project_9",
+                "project_10",
+                "project_11",
+                "project_12",
+                "project_13",
+                "project_14",
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "hw11",
+                "hw12",
+                "hw13",
+                "hw14"
+            ]
+        },
+        {
+            "course_name": "CIVENG 122 - LEC 001: Design of Steel Structures (Fall 2020)",
+            "course_id": "ke3lu0axhr26y1",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "midterm_1",
+                "midterm_2",
+                "final_exam",
+                "general_questions"
+            ]
+        },
+        {
+            "course_name": "LINGUIS 110: Phonetics",
+            "course_id": "ke3mg4waswd6r",
+            "course_folders": [
+                "practice_folder",
+                "general",
+                "questions_about_homework",
+                "questions_about_term_project"
+            ]
+        },
+        {
+            "course_name": "STAT 198: Introduction to Quantitative Finance DeCal",
+            "course_id": "ke3n72boekl2pq",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "LING 100: Introduction to Linguistic Science",
+            "course_id": "ke3r9yvp8h2yq",
+            "course_folders": [
+                "q&a",
+                "module1",
+                "module2",
+                "module3",
+                "module4",
+                "module5",
+                "module6",
+                "module7",
+                "module8",
+                "module9",
+                "module10",
+                "module11",
+                "module12",
+                "module13",
+                "module14",
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "group_projects",
+                "midterm",
+                "final",
+                "randomstuff"
+            ]
+        },
+        {
+            "course_name": "CS 162: Operating Systems and System Programming",
+            "course_id": "ke3sjspdmnt65r",
+            "course_folders": [
+                "hw0",
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "proj0",
+                "proj1",
+                "proj2",
+                "proj3",
+                "discussion",
+                "exam",
+                "logistics",
+                "lecture",
+                "other"
+            ]
+        },
+        {
+            "course_id": "ke3t7usxws21i8",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "CS 164: Programming Languages and Compilers",
+            "course_id": "ke3tewrxmn57lj",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "CHMENG 250 - LEC 001: Transport Processes (Fall 2020)",
+            "course_id": "ke409rnjuw3458",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "CS- 294-178: Reinforcement Learning and Empirical Processes",
+            "course_id": "ke4gfict3sy43r",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "MATH 104 (LEC 005): Introduction to Analysis",
+            "course_id": "ke4gn6fhtgmhv",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "midterm1",
+                "midterm2",
+                "final_exam",
+                "other"
+            ]
+        },
+        {
+            "course_name": "MATH 141: Elementary Differential Topology",
+            "course_id": "ke4gs3dshqe5be",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "midterm1",
+                "midterm2",
+                "final_exam",
+                "other"
+            ]
+        },
+        {
+            "course_id": "ke4hs8d0ase3tc",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "EECS 149/249A: Introduction to Embedded Systems",
+            "course_id": "ke4icfvmvbb7gr",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "lab1",
+                "lab2",
+                "lab3",
+                "lab4",
+                "lab5",
+                "lab6",
+                "project",
+                "logistics",
+                "other",
+                "midterm1",
+                "midterm2",
+                "hw5",
+                "hw6"
+            ]
+        },
+        {
+            "course_name": "MATH 16B: Calculus",
+            "course_id": "ke4isoqriqa5q7",
+            "course_folders": [
+                "math_questions",
+                "logistics",
+                "grading_issues",
+                "social",
+                "other"
+            ]
+        },
+        {
+            "course_name": "ECON 136 - LEC 001: Financial Economics (Fall 2020)",
+            "course_id": "ke4kpi5l55d8r",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "MATH 113 - LEC 006 AND 007: Introduction to Abstract Algebra",
+            "course_id": "ke4lmontitx3cm",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "22233: Fall 2020, Math 113 - LEC 002: Introduction to Abstract Algebra",
+            "course_id": "ke4n6jn86uqs1",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "practice_midterm1",
+                "practice_midterm2",
+                "practice_final",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "PS 3: Introduction to Empirical Analysis and Quantitative Methods",
+            "course_id": "ke4nmu8l7as7ct",
+            "course_folders": [
+                "hw1",
+                "logistics",
+                "videos_week1",
+                "videos_week2",
+                "videos_week3",
+                "videos_week4",
+                "jupyter_python",
+                "section_112",
+                "section_102_103",
+                "sections_108_and_109",
+                "section_106",
+                "section_107"
+            ]
+        },
+        {
+            "course_name": "ECON 140: Introductory Econometrics",
+            "course_id": "ke4o4w0f49w77e",
+            "course_folders": [
+                "homework",
+                "project",
+                "exam",
+                "logistics",
+                "other",
+                "econometrics"
+            ]
+        },
+        {
+            "course_name": "22599: Fall 2020, Math 185 - LEC 001: Introduction to Complex Analysis",
+            "course_id": "ke4o902vzyg3g",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "midterm1",
+                "midterm2",
+                "practice_final",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "LINGUIS 100 - LEC 001: Introduction to Linguistic Science (Fall 2020)",
+            "course_id": "ke4qd7kzkam65a",
+            "course_folders": [
+                "logistics",
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "exam",
+                "other",
+                "grouproject1",
+                "grouproject2",
+                "grouproject3",
+                "grouproject4",
+                "grouproject5",
+                "grouproject6",
+                "module1",
+                "module2",
+                "module3",
+                "module4",
+                "module5",
+                "module6",
+                "module7",
+                "module8",
+                "module9",
+                "module10",
+                "module11",
+                "module12",
+                "module13",
+                "module14"
+            ]
+        },
+        {
+            "course_id": "ke4qj4xkd98i5",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "MCB 32L F20: Introduction to Human Physiology Laboratory (Fall 2020)",
+            "course_id": "ke4rafebopu655",
+            "course_folders": [
+                "presentation",
+                "exam",
+                "logistics",
+                "other",
+                "lab1",
+                "lab2",
+                "lab3",
+                "lab4",
+                "lab5",
+                "lab6",
+                "lab7",
+                "lab8",
+                "lab9"
+            ]
+        },
+        {
+            "course_name": "EEP 144: International Economics",
+            "course_id": "ke4ru4jfgy82yc",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "PBHLTH 196: PBHLTH 196 Artificial intelligence for medicine and health policy",
+            "course_id": "ke4s2oyrb3z6wa",
+            "course_folders": [
+                "discussion_problems",
+                "hw0",
+                "hw1",
+                "hw2",
+                "midterm",
+                "project",
+                "tech_troubles",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "PHW 260-2020-INFECTIOUS DISEASES: PHW260-2020-Infectious Diseases",
+            "course_id": "ke4spqiqqem4sq",
+            "course_folders": [
+                "project",
+                "exam",
+                "logistics",
+                "other",
+                "week1",
+                "week2",
+                "week3",
+                "week4",
+                "week5",
+                "week6",
+                "week7",
+                "week8"
+            ]
+        },
+        {
+            "course_name": "162L: Public Health Microbiology",
+            "course_id": "ke4t1f58dl6wq",
+            "course_folders": [
+                "lab_and_lecture_1_",
+                "lab_and_lecture_2",
+                "lab_and_lecture_3",
+                "lab_and_lecture_4",
+                "lab_and_lecture_5",
+                "lab_and_lecture_6",
+                "lab_and_lecture_7",
+                "lab_and_lecture_8",
+                "lab_and_lecture_9",
+                "lab_and_lecture_10",
+                "cases_in_infectious_disease",
+                "midterm_1",
+                "logistics",
+                "other",
+                "midterm_2",
+                "final_exam_"
+            ]
+        },
+        {
+            "course_name": "EEP 152: Development Econo",
+            "course_id": "ke4t7s8nyj92pq",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "CHEM 3BL: CHEM 3BL",
+            "course_id": "ke4u1sninf03h9",
+            "course_folders": [
+                "lab_a",
+                "lab_b",
+                "lab_c",
+                "lab_d",
+                "lab_e",
+                "lab_f",
+                "lab_g",
+                "lab_h",
+                "lab_i",
+                "lab_j",
+                "lab_k",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "PHYS 7B: Physics 7B Fall 2020",
+            "course_id": "ke4u6bu81i48b",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "EEP C101 / ECON C125: Develoment Economics",
+            "course_id": "ke4uebz693x7ko",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "34033: Chem275A",
+            "course_id": "ke4vjz1hgfe2y0",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "XESPM 15: XESPM 15 - Introduction to Environmental Science",
+            "course_id": "ke4x7tu82r62y1",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "STAT 134: Concepts of Probability",
+            "course_id": "ke52edydthi5ba",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other",
+                "section1",
+                "section2",
+                "section3",
+                "section4",
+                "section5",
+                "section6",
+                "section7",
+                "section8",
+                "section9",
+                "section10"
+            ]
+        },
+        {
+            "course_name": "PUBPOL 275: Spatial Data and Analysis (Fall 2020)",
+            "course_id": "ke5desqcfgi1il",
+            "course_folders": [
+                "lab_0/1",
+                "lab_2",
+                "lab_3",
+                "lab_4",
+                "lab_5",
+                "lab_6",
+                "lab_7",
+                "sections",
+                "midterm_exam",
+                "final_project",
+                "other"
+            ]
+        },
+        {
+            "course_name": "CHEM 1A - LEC 001: General Chemistry (Fall 2020)",
+            "course_id": "ke5we6q2kh2ai",
+            "course_folders": [
+                "discussion1",
+                "discussion2",
+                "discussion3",
+                "discussion4",
+                "discussion5",
+                "discussion6",
+                "discussion7",
+                "discussion8",
+                "discussion9",
+                "discussion10",
+                "exam1",
+                "exam2",
+                "exam3",
+                "exam4",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "MEC 231A AND EEC220B: 2020-MEC231A and EEC220B",
+            "course_id": "ke5wn7v7yuq3v9",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "lectures",
+                "midterm",
+                "final",
+                "team_project"
+            ]
+        },
+        {
+            "course_name": "EECS 16B: Designing Information Devices and Systems II",
+            "course_id": "ke609ylh5ap5uv",
+            "course_folders": [
+                "hw0",
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other",
+                "lab",
+                "hw11",
+                "hw12",
+                "hw13",
+                "discussion",
+                "csm",
+                "quest",
+                "midterm1",
+                "midterm2",
+                "final"
+            ]
+        },
+        {
+            "course_name": "MCB 136: MCB 136: Physiology",
+            "course_id": "ke63eti4ac33a7",
+            "course_folders": [
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "ESPM 150-003: ESPM 150 - Sustainable Industry",
+            "course_id": "ke65wj77ogx1at",
+            "course_folders": [
+                "general_questions",
+                "hw1",
+                "hw2",
+                "hw3",
+                "term_project",
+                "presentation",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "GLOBAL 132 - LEC 001: Conflict Resolution: Theory and Practice (Fall 2020)",
+            "course_id": "ke661oem5qd68d",
+            "course_folders": [
+                "class_q&a",
+                "introductions",
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics"
+            ]
+        },
+        {
+            "course_name": "EECS 225B: Digital Image Processing",
+            "course_id": "ke66d38r4n67ld",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "MCB 32 FALL 2020: Introduction to Human Physiology (Fall 2020)",
+            "course_id": "ke6akcf4aid6v2",
+            "course_folders": [
+                "paper",
+                "exam",
+                "logistics",
+                "other",
+                "homework",
+                "physiology"
+            ]
+        },
+        {
+            "course_name": "MATH 242: Symplectic Geometry",
+            "course_id": "ke6duxnsp7grp",
+            "course_folders": [
+                "logistics",
+                "other",
+                "exercises"
+            ]
+        },
+        {
+            "course_id": "ke6nofted1d370",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "STAT 150: Stochastic Processes",
+            "course_id": "ke6op1qjy17pb",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "exam",
+                "logistics",
+                "other",
+                "test1",
+                "test2",
+                "test3",
+                "test4",
+                "test5",
+                "test6",
+                "lectures_week1",
+                "lectures_week2",
+                "lectures_week3",
+                "lectures_week4",
+                "lectures_week5",
+                "lectures_week6",
+                "lectures_week7",
+                "lectures_week8",
+                "lectures_week9",
+                "lectures_week10",
+                "lectures_week11",
+                "lectures_week12",
+                "lectures_week13",
+                "lectures_week14",
+                "lectures_week15",
+                "lectures_week16",
+                "notebooks"
+            ]
+        },
+        {
+            "course_id": "ke7c2fcwr1r2hc",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "ME 185/287: Introduction to Continuum Mechanics",
+            "course_id": "ke7ga69io254dq",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "PUB POL 101: Introduction to Public Policy Analysis",
+            "course_id": "ke7nceegfzh15d",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "EECS 127/227AT: Optimization Models in Engineering",
+            "course_id": "ke7o7uwalvo19",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other",
+                "discussion1",
+                "discussion2",
+                "discussion3",
+                "discussion4",
+                "discussion5",
+                "discussion6",
+                "discussion7",
+                "discussion8",
+                "discussion9",
+                "discussion10",
+                "hw0",
+                "hw11"
+            ]
+        },
+        {
+            "course_name": "ED 1: Introduction to Environmental Design (Fall 2020)",
+            "course_id": "ke7oepququi117",
+            "course_folders": [
+                "lecture_recordings",
+                "reflection1",
+                "reflection2",
+                "reflection3",
+                "reflection4",
+                "reflection5",
+                "reflection6",
+                "design1",
+                "design2",
+                "design3",
+                "design4",
+                "design5",
+                "design6",
+                "design7",
+                "after_thoughts",
+                "other"
+            ]
+        },
+        {
+            "course_name": "CS 294-082: Experimental Design for Machine Learning on Multimedia Data",
+            "course_id": "ke7rlskgxtg192",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "PHYSICS 375: Professional Preparation: Supervised Teaching of Physics",
+            "course_id": "ke7sqczqnub19",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_id": "ke7sy1ql1461c3",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "CHMENG 140: Introduction to Chemical Process Analysis (Fall 2020)",
+            "course_id": "ke7xuhoruur4gu",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_id": "ke81oa6elvp2g2",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "MATH 185 - LEC 002: Math 185 - LEC002 Complex Analysis",
+            "course_id": "ke845vklu6nlh",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "MATH 123: Ordinary Differential Equations",
+            "course_id": "ke84hz8rsm6t8",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "ECON 101A: Economic Theory--Micro (Fall 2020)",
+            "course_id": "ke8blj3mm0o4zz",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "other",
+                "quiz1",
+                "quiz2",
+                "quiz3",
+                "final",
+                "logistics"
+            ]
+        },
+        {
+            "course_name": "PHW 200G-2020-HEALTH AND SOCIAL BEHAVIOR BREADTH: PHW200G-2020-Health and Social Behavior Breadth",
+            "course_id": "ke8q6y56mc534p",
+            "course_folders": [
+                "project",
+                "exam",
+                "logistics",
+                "other",
+                "week_1",
+                "week_2",
+                "week_3",
+                "week_4",
+                "week_5",
+                "week_6",
+                "week_7",
+                "latte_lounge"
+            ]
+        },
+        {
+            "course_name": "PHYSICSX 3B-041: PHYSICS-X3B-041: Physics II",
+            "course_id": "ke8txzcr7r67lw",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "exam",
+                "hw11",
+                "hw12",
+                "hw13",
+                "hw14"
+            ]
+        },
+        {
+            "course_name": "222: 222",
+            "course_id": "ke8z6eopria3p2",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "CHEM 221A: Advanced Quantum Mechanics",
+            "course_id": "ke91j9r72rg3wx",
+            "course_folders": [
+                "hw1",
+                "logistics"
+            ]
+        },
+        {
+            "course_name": "GLOBAL 121: Globalization In India (Fall 2020)",
+            "course_id": "ke92wd4rafb793",
+            "course_folders": [
+                "logistics",
+                "researchstep2",
+                "other",
+                "researchproject",
+                "midterm1",
+                "midterm2",
+                "pzpostweek1",
+                "pzpostweek2",
+                "pzpostweek3",
+                "pzpostweek4",
+                "pzpostweek5",
+                "pzpostweek6",
+                "pzpostweek7",
+                "pzpostweek10",
+                "pzpostweek11",
+                "pzpostweek12",
+                "pspostweek13"
+            ]
+        },
+        {
+            "course_id": "ke93a0xfvem4a",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "PHYSICS 137B: Quantum Mechanics",
+            "course_id": "ke93ct48j5o2na",
+            "course_folders": [
+                "hw1"
+            ]
+        },
+        {
+            "course_id": "ke93in8x7io56t",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "EEP 143: Economics of Innovation and Intellectual Property Rights",
+            "course_id": "ke93ybgkefd1h0",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "midterm",
+                "logistics",
+                "final",
+                "general_information_for_students"
+            ]
+        },
+        {
+            "course_id": "ke94crp1bn9ce",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "GPP 105: Global Poverty and Practice (Fall 2020)",
+            "course_id": "ke96385qzr54pd",
+            "course_folders": [
+                "logistics",
+                "katzmemo",
+                "needstalkhistory",
+                "105wiki",
+                "week2",
+                "week3",
+                "week4",
+                "week5",
+                "week6",
+                "week8",
+                "week9",
+                "week11",
+                "week12",
+                "week13",
+                "week15",
+                "other",
+                "classabsence"
+            ]
+        },
+        {
+            "course_name": "LINGUIS 150: Sociolinguistics",
+            "course_id": "ke9bkpn8c0g6hd",
+            "course_folders": [
+                "logistics",
+                "readings",
+                "lecture",
+                "short-essay1",
+                "short-essay2",
+                "short-essay3",
+                "short-essay4",
+                "short-essay5",
+                "other"
+            ]
+        },
+        {
+            "course_name": "POLS 232B: Formal Models II",
+            "course_id": "ke9dt7u8anf6eh",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "general_questions"
+            ]
+        },
+        {
+            "course_name": "1A: Math 1A Calculus",
+            "course_id": "ke9fohwvf4g3qf",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "CS 250: VLSI Systems Design",
+            "course_id": "ke9jdby17rt6yv",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other",
+                "lab1"
+            ]
+        },
+        {
+            "course_name": "CS 294-137: Virtual Reality and Immersive Computing",
+            "course_id": "kea0algfwu16mw",
+            "course_folders": [
+                "hw0",
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "project",
+                "exam",
+                "logistics",
+                "other",
+                "oh",
+                "live_class_chat"
+            ]
+        },
+        {
+            "course_name": "EECS 290-002: High-Dimensional Data Analysis with Low-Dimensional Models",
+            "course_id": "kea45yzeo1i32g",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "PHYSICS 110B: Electromagnetism and Optics (part II)",
+            "course_id": "kea5cnijsay1mh",
+            "course_folders": [
+                "homework",
+                "project",
+                "exams",
+                "logistics",
+                "other",
+                "general",
+                "reading"
+            ]
+        },
+        {
+            "course_name": "EC 191: Economics 191",
+            "course_id": "kea5ot0mo2p5yq",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "PHYSICS 188/288: Bayesian Data Analysis and Machine Learning for Physical Sciences",
+            "course_id": "kea6pry3zih6mf",
+            "course_folders": [
+                "logistics",
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8-part1",
+                "hw8-part2",
+                "project_1",
+                "project_2",
+                "project_3"
+            ]
+        },
+        {
+            "course_name": "CHEM 3B: Chem 3B",
+            "course_id": "ke93oeot7h021f",
+            "course_folders": [
+                "week_1_(lecture_1)",
+                "week_2_(lecture_2_and_3)",
+                "week_3_(lecture_4_and_5)",
+                "logistics",
+                "other",
+                "gradescope"
+            ]
+        },
+        {
+            "course_id": "kea89bbvfro7gv",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "STAT 205A / MATH 218A: Probability Theory",
+            "course_id": "kea8r8bcskb7eq",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "GLOBAL 100P - LEC 001: Approaches to Peace and Conflict (Fall 2020)",
+            "course_id": "keaakpdv8ba5nk",
+            "course_folders": [
+                "introductions...",
+                "week_1/2_-cosmopolitanism",
+                "week_3_rio",
+                "week_4",
+                "week_5",
+                "week_6",
+                "week_7",
+                "week_8",
+                "week_9",
+                "week_10",
+                "week_11",
+                "week_12",
+                "week_13",
+                "week_14",
+                "week_15"
+            ]
+        },
+        {
+            "course_name": "GLOBAL 153P - LEC 001: Special Topics: Global Peace and Conflict. (Fall 2020)",
+            "course_id": "keab5yf9akz5xw",
+            "course_folders": [
+                "introductions...",
+                "week3_-these_birds_walk",
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "CS 294-170: Programming the Cloud Seminar",
+            "course_id": "keabpkvam3932t",
+            "course_folders": [
+                "classprep",
+                "project",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "STAT 33A: Introduction to Programming in R",
+            "course_id": "keabzn76ok01jq",
+            "course_folders": [
+                "workbook",
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "quiz",
+                "exam",
+                "other"
+            ]
+        },
+        {
+            "course_name": "DESINV 198: Introduction to Photoshop and Illustrator",
+            "course_id": "keac3q4vaaj5n1",
+            "course_folders": [
+                "tutorials",
+                "hw1",
+                "midterm",
+                "final",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "STAT 33B: Introduction to Advanced Programming in R",
+            "course_id": "keac73rto0b3ad",
+            "course_folders": [
+                "workbook",
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "quiz",
+                "exam",
+                "other"
+            ]
+        },
+        {
+            "course_name": "EE 147+EE247A: Introduction to MEMS",
+            "course_id": "keadd7934cs5ht",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "EEP 118: Introductory Econometrics",
+            "course_id": "keady3uaq7b3yv",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "PHYSICS 7A.1: Physics for Scientists and Engineers",
+            "course_id": "keaeirx1tk83mi",
+            "course_folders": [
+                "homework",
+                "discussions",
+                "exams",
+                "lectures",
+                "other",
+                "office_hours",
+                "reviews",
+                "reading",
+                "quizzes",
+                "general"
+            ]
+        },
+        {
+            "course_id": "keag1g6qwj714r",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "CHMENG 40 - LEC 001: Introduction to Chemical Engineering Design (Fall 2020)",
+            "course_id": "keagnder7k63q9",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "PH 252: PH 252",
+            "course_id": "keagyzlkki97i8",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "ECON 174: Global Poverty and Impact Evaluation",
+            "course_id": "keah5behr21bk",
+            "course_folders": [
+                "general_course_info",
+                "general_questions",
+                "introductions"
+            ]
+        },
+        {
+            "course_name": "STAT 151A - F 2020 : Linear Modelling: Theory and Applications (Fall 2020)",
+            "course_id": "keaitfzoi202h9",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "project",
+                "logistics",
+                "other",
+                "lecture_content",
+                "labs"
+            ]
+        },
+        {
+            "course_name": "CHEM 135: Chemical Biology",
+            "course_id": "keajpeunf83md",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "MATH 1A - LEC 001: Calculus (Fall 2020)",
+            "course_id": "keak5tcqgpg3j1",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "MATH 104 LEC 008: Introduction to analysis",
+            "course_id": "keaktiifxpa13n",
+            "course_folders": [
+                "lectures",
+                "logistics",
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "other"
+            ]
+        },
+        {
+            "course_name": "INFO 253A: Front-End Web Architecture (Fall 2020)",
+            "course_id": "keakuorjrs1au",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "ECON 1 - LEC 001: Introduction to Economics (Fall 2020)",
+            "course_id": "keal1epaeny21",
+            "course_folders": [
+                "logistics"
+            ]
+        },
+        {
+            "course_name": "COGSCI 131: Computational Cognitive Science",
+            "course_id": "kealct8fbs11ah",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "MATH 104 LEC 007: Introduction to analysis",
+            "course_id": "kealczx7zeh53t",
+            "course_folders": [
+                "lectures",
+                "logistics",
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "other"
+            ]
+        },
+        {
+            "course_id": "keam2vanwth45k",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "CHEM 121: CHEM 121: Introduction to Computational Chemistry",
+            "course_id": "keamfxk136p4jm",
+            "course_folders": [
+                "logistics",
+                "hw0",
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project"
+            ]
+        },
+        {
+            "course_name": "BIOE 102: Biomechanics",
+            "course_id": "keap5buvayq6td",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other",
+                "lab1",
+                "lab2",
+                "lab3",
+                "lab4",
+                "lab5",
+                "lab6",
+                "lab7",
+                "lab8",
+                "lab9"
+            ]
+        },
+        {
+            "course_name": "CE 115: Water Chemistry",
+            "course_id": "keaqjt9kjkrec",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "assignment1_salty_waters",
+                "assignment2_exact_solution",
+                "exam1",
+                "exam2",
+                "exam3",
+                "exam4",
+                "other",
+                "logistics"
+            ]
+        },
+        {
+            "course_name": "ME 292C / DESINV 190: Human-Centered Design Methods",
+            "course_id": "keaqrq854x823w",
+            "course_folders": [
+                "i-2",
+                "i-3",
+                "i-4",
+                "i-5",
+                "d-0",
+                "t-1",
+                "t-2",
+                "d-1a",
+                "d-1b",
+                "i-6",
+                "project",
+                "mural",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "Physics 137A (Bousso): Quantum Mechanics",
+            "course_id": "keavqkhvn1n4ke",
+            "course_folders": [
+                "logistics",
+                "ch1",
+                "ch2",
+                "ch3",
+                "ch4",
+                "ch5",
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "midterm_1",
+                "midterm_2",
+                "other"
+            ]
+        },
+        {
+            "course_name": "CE 263N / CYPLAN 257: Scalable Spatial Analytics/Data Sci for Human Mobility",
+            "course_id": "keax9ezopcq4j1",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "project",
+                "presentation",
+                "class_activities",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "CS 24: CS24/EE98 Transitioning to EECS/CS/DS and related majors",
+            "course_id": "keaxyt6h47d59p",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "SOC 102: sociological theory II",
+            "course_id": "keay8ys1tsc3tv",
+            "course_folders": [
+                "lectures_2&3_-_simmel",
+                "lectures_4&5_mead",
+                "lectures_6&7_du_bois",
+                "lectures_8&9_goffman_(1)",
+                "lectures_10&11_goffman_(2)",
+                "lecture_12_colonialism",
+                "lecture_13_phenomenology",
+                "lectures_14&15_arendt",
+                "lectures_16&17_bourdieu",
+                "lectures_20&21_foucault",
+                "lectures_22&23_liberation_(gender_and_sex)",
+                "lecture_24_liberation_(fanon)",
+                "lecture_25_fraser_and_brown",
+                "lectures_26&27_the_future"
+            ]
+        },
+        {
+            "course_id": "keb2zymep693o4",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "STAT 131A LEC 001: Statistical Methods for Data Science",
+            "course_id": "keb6683jdk72j3",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other",
+                "campus_announcements",
+                "labs"
+            ]
+        },
+        {
+            "course_id": "kebk83c79v4z1",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "BIO 1B FA20: Biology 1B Fa20",
+            "course_id": "kebkxautpas5jf",
+            "course_folders": [
+                "evolution_lecture",
+                "logistics"
+            ]
+        },
+        {
+            "course_name": "CS H195: CS H195: Honors Social Implications of Computer Technology",
+            "course_id": "kebnliafoe237a",
+            "course_folders": [
+                "project",
+                "logistics",
+                "other",
+                "essay_1",
+                "essay_2",
+                "assignments"
+            ]
+        },
+        {
+            "course_name": "CS 70: Discrete Mathematics and Probability Theory",
+            "course_id": "kdyv6ps4qkq2in",
+            "course_folders": [
+                "hw0",
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "exam",
+                "logistics",
+                "other",
+                "dis",
+                "lec"
+            ]
+        },
+        {
+            "course_name": "ME 193B / 292B: Feedback Control of Legged Robots (Fall 2020)",
+            "course_id": "kebprm8f81c268",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "CURVE 102: Curvebreakers",
+            "course_id": "kebsyf5o1am27y",
+            "course_folders": [
+                "exam"
+            ]
+        },
+        {
+            "course_id": "kebtvwz0t3hy1",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_id": "kebv08ru89j330",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "PHYS 111A: Advanced Physics Laboratory",
+            "course_id": "kebvnsttreb4h9",
+            "course_folders": [
+                "project",
+                "logistics",
+                "other",
+                "lab_1",
+                "lab_2",
+                "lab_3",
+                "lab_4",
+                "lectures",
+                "reading"
+            ]
+        },
+        {
+            "course_name": "IEOR 160: Nonlinear and Discrete Optimization",
+            "course_id": "kebxjng8xif1nr",
+            "course_folders": [
+                "hw_1",
+                "general",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "PH 270A: Exposure Assessment and Control",
+            "course_id": "kebz5b5zkv13wg",
+            "course_folders": [
+                "other"
+            ]
+        },
+        {
+            "course_name": "EE 143: Microfabrication Technology",
+            "course_id": "ke660c43mcf7g1",
+            "course_folders": [
+                "lab",
+                "logistics",
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "project",
+                "other"
+            ]
+        },
+        {
+            "course_name": "GLOBAL 375: Teaching in Global Studies",
+            "course_id": "kec5f0hj4ii66t",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "STAT 198 SEC 004: Actuarial Data Analytics Decal",
+            "course_id": "kec6puifl9s1kb",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "DEMOG 280 / SOCIOL C273N: Social Networks: Demog 280 (grad)",
+            "course_id": "kecbra1oig1405",
+            "course_folders": [
+                "readings",
+                "logistics",
+                "other",
+                "week1",
+                "week2",
+                "week3",
+                "week4",
+                "week5",
+                "week6",
+                "week7",
+                "week8",
+                "week9",
+                "week10",
+                "week11",
+                "week12",
+                "week13",
+                "week14"
+            ]
+        },
+        {
+            "course_name": "ECON C184 / ENVECON C132: International Environmental Economics",
+            "course_id": "keccaf7casw6d8",
+            "course_folders": [
+                "general"
+            ]
+        },
+        {
+            "course_name": "GLOBAL 45 - DIS 101: DIS 101: Survey of World History (Fall 2020)",
+            "course_id": "keccr1cdcf810a",
+            "course_folders": [
+                "general_q&a/misc",
+                "sept_1-3_(creation_stories)",
+                "sept_3-8_(socrates,_plato...)",
+                "sept_10-15_(confucius...)",
+                "sept_17-22_(tech,_disease,_religion...)",
+                "sept_24-29_(labor_systems,_resource_extraction)",
+                "oct_1-6_(equiano,_mary_prince)",
+                "oct_8-13_(french_revolution..)",
+                "oct_15-20_(nationalism,_industrialization)",
+                "oct_22-27_(the_river_between)",
+                "oct_29-nov_1_(europe_in_asia)",
+                "nov_5_(nationalism)",
+                "nov_10-12_(marx,_women...)",
+                "nov_17-19_(cold_war)",
+                "dec_1-3_(decolonization...)",
+                "study_groups"
+            ]
+        },
+        {
+            "course_name": "GLOBAL 45 - DIS 104: DIS 104: Survey of World History (Fall 2020)",
+            "course_id": "kecd2hqx8vt3g8",
+            "course_folders": [
+                "general_section_q&a,_misc.",
+                "september_1-3_(creation_stories)",
+                "september_3-8_(socrates,_plato...)",
+                "september_10-15_(confucius,_the_quran...)",
+                "september_17-22_(wtwa_-_tech,_disease,_religion)",
+                "sept_24-29_(labor_systems,_resource_extraction)",
+                "oct_1-6_(equiano,_mary_prince)",
+                "oct_8-13_(french_and_american_revolutions)",
+                "oct_15-20_(nationalism,_industrialization)",
+                "oct_22-27_(the_river_between)",
+                "oct_29-nov_1_(europe_in_asia)",
+                "nov_5_(nationalism)",
+                "nov_10-12_(marx,_women)",
+                "nov_17-19_(cold_war)",
+                "dec_1-3_(decolonization)",
+                "study_groups"
+            ]
+        },
+        {
+            "course_name": "ASTRONOMY 98: Beginner's Guide to the Universe",
+            "course_id": "kecigtmjdv52uy",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "185-004: Complex Analysis, Math 185",
+            "course_id": "kecy27rep31244",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "104-004: Introduction to Analysis, Math 104",
+            "course_id": "kecyqwerix47j4",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "MATH 222A: Partial Differential Equations",
+            "course_id": "ked4px38cta4kh",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_id": "ked7b5k1pbf1xi",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "LS C30T/MCELLBI C62 - DIS 116: Drugs and the Brain (Fall 2020) DIS 116",
+            "course_id": "ked7r5esl804k2",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "MECENG 136 / 236U: Control of Unmanned Aerial Vehicles (Fall 2020)",
+            "course_id": "ked8y4f8zq276j",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "DRUGS AND THE BRAIN: FALL 2020: Drugs and the Brain: Fall 2020",
+            "course_id": "ked944d3mu64w6",
+            "course_folders": [
+                "other",
+                "course_logistics",
+                "hw_#1",
+                "hw_#2",
+                "hw_#3",
+                "hw_#4",
+                "hw_#5",
+                "final_paper",
+                "course_content",
+                "debate_#1",
+                "debate_#2"
+            ]
+        },
+        {
+            "course_id": "kedanbtqood1y8",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "VS 265: Neural Computation",
+            "course_id": "kedckdek9hl3r6",
+            "course_folders": [
+                "project",
+                "logistics",
+                "other",
+                "challenge_problems",
+                "goals_of_ai_and_theoretical_neuroscience",
+                "brain_organization",
+                "neural_mechanisms_and_models",
+                "signal_detection_and_information_processing",
+                "physics_of_computation",
+                "neural_coding",
+                "programming_help"
+            ]
+        },
+        {
+            "course_name": "EECS 229A: Information Theory and Coding",
+            "course_id": "keddb0kh1wo4um",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "CE 153: Transportation Facility Design",
+            "course_id": "keddwgov83o6mw",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other",
+                "forum_1"
+            ]
+        },
+        {
+            "course_name": "EPS 131: Geochemistry",
+            "course_id": "kedevzh7xzx5wp",
+            "course_folders": [
+                "ps1",
+                "ps2",
+                "ps3",
+                "ps4",
+                "ps5",
+                "ps6",
+                "ps7",
+                "ps8",
+                "ps9",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "EE 137A: Introduction to Electric Power Systems",
+            "course_id": "kedf1pib95k6vs",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "MATH 279 - LEC 001: Topics in PDE: Fluid Dynamics F2020",
+            "course_id": "kedf36qal3485",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_id": "kedfcufgpet3s3",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_id": "kedh3zqiqcvnk",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "MCB 104: Genetics, Cell Biology, Genomics",
+            "course_id": "kedhjdmyj5k3jx",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "MATH 104 - LEC 001: Introduction to Analysis",
+            "course_id": "kedj7706xox64e",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_id": "kedkzaepmh32gz",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_id": "kedn6ykna7369",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_id": "kednuwogwd54v9",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "PHYSICS 5CL: Physics 5CL FA2020 Sec.101",
+            "course_id": "kedx9dc2d8z5io",
+            "course_folders": [
+                "capstone_project",
+                "logistics",
+                "other",
+                "lab0",
+                "lab1",
+                "lab2",
+                "lab3",
+                "lab4",
+                "lab5",
+                "lab6",
+                "lab7",
+                "lab8"
+            ]
+        },
+        {
+            "course_id": "keeg1lm2hcg6nd",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "MATH 202A: Mathematics 202A",
+            "course_id": "keej7oq3ao47ap",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "ECON 139 - LEC 001: Intermediate Financial Economics (Fall 2020)",
+            "course_id": "keej7u2860e3lp",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "ECON C142 - LEC 001: Applied Econometrics and Public Policy (Fall 2020)",
+            "course_id": "keeju6uh29l261",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "CE 70: Introductory Engineering Geology",
+            "course_id": "keemuel15mz1kn",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "ECON 141: Econometric Analysis",
+            "course_id": "keercz4bqqb5t8",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "ESPM/CIVENG 172: Remote Sensing of the Environment",
+            "course_id": "keetg7ltuw74j",
+            "course_folders": [
+                "ps1",
+                "ps2",
+                "ps3",
+                "ps4",
+                "ps5",
+                "ps6",
+                "ps7",
+                "ps8",
+                "ps9",
+                "ps10",
+                "project",
+                "exam",
+                "logistics",
+                "discussions",
+                "other"
+            ]
+        },
+        {
+            "course_name": "ARE 213: Applied Econometrics",
+            "course_id": "keetp619pjh3si",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_id": "keexffklro94co",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "PHYS 110A: Electromagnetism and Optics",
+            "course_id": "kef4gtoqdht1gx",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "PHYSICS 110A: Electromagnetism and Optics",
+            "course_id": "kef4m6xymny90",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_id": "kef52ymjdm73cy",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "CLQL 201: Colloquial Beings Among Us",
+            "course_id": "kefcefql14r5lr",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "IEOR 266: Network Flows & Graphs",
+            "course_id": "kefs8qdkbo66s4",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_id": "kefyjg82u0v3jl",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "ME C85/CE C30: ME C85/CE C30 - Lec 001: Introduction to Solid Mechanics (Fall 2020)",
+            "course_id": "keg0jwf569j2dk",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "MATH 189: Mathematical Methods in Classical and Quantum Mechanics",
+            "course_id": "kegen17r9x02zw",
+            "course_folders": [
+                "other",
+                "chapter_1",
+                "chapter_2"
+            ]
+        },
+        {
+            "course_name": "CEE-SYS 2020-21: CEE-SYS 2020-21",
+            "course_id": "kegov424wrf29n",
+            "course_folders": [
+                "degree_requirements",
+                "social_events",
+                "job_opportunities",
+                "other"
+            ]
+        },
+        {
+            "course_name": "HISTORY 6: Chinese Civilization",
+            "course_id": "kehghpown57ay",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_id": "kehhajjsv2l35d",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "MATH 142: Elementary Algebraic Topology",
+            "course_id": "kehj56sr5vj4v3",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "X 3.1B: UCBX - Physics II Laboratory",
+            "course_id": "kehm00lsue4j7",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_id": "kehsdmgc1z74ej",
+            "course_name": "No matching class found in cache"
+        },
+        {
+            "course_name": "CE 190 / DES INV 190: Electric Mobility Engineering",
+            "course_id": "ke1x4y9yyn3ca",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "project",
+                "logistics",
+                "other",
+                "jobs"
+            ]
+        },
+        {
+            "course_name": "DES INV 22: Des Inv 22 Prototyping and Fabrication",
+            "course_id": "keilkllo5xgy4",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "CBE 154: Chemical Engineering Laboratory",
+            "course_id": "keiqxtu4wdbol",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "PHYSICS 112: Stat Mech (Lec 1)",
+            "course_id": "keivv6d5yd472h",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "CE 179: Geosystems Engineering Design",
+            "course_id": "keiwme60xn26xc",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "CS 370: Adaptive Teaching Methods in CS",
+            "course_id": "keizim7yimb7gf",
+            "course_folders": [
+                "logistics",
+                "project",
+                "exam",
+                "other",
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10"
+            ]
+        },
+        {
+            "course_name": "MATH 224A: Math 224A: Mathematical Methods for the Physical Sciences",
+            "course_id": "kej1ld396wq121",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "PHYSICS 110A - LEC 001: Electromagnetism and Optics (Fall 2020)",
+            "course_id": "kej8uy6vxw85gu",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "PHYSICS 7C: Physics for Scientists and Engineers",
+            "course_id": "kejhilfwr407nj",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "STAT 198/298: STAT 198/298: Python for R Users",
+            "course_id": "kejk2vga6mj350",
+            "course_folders": [
+                "logistics",
+                "other",
+                "labs",
+                "homework",
+                "python",
+                "r"
+            ]
+        },
+        {
+            "course_name": "113: Math 113 - LEC 003: Introduction to abstract algebra",
+            "course_id": "kek4ylgpb4y78y",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "MCELLBI 150L: MCB150L Fall 2020",
+            "course_id": "kekag4zy86a5eu",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "MATH 126: Introduction to Partial Differential Equations (Fall 2020)",
+            "course_id": "kekbytt9day4d7",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "hw11",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "UGBA 104: Introduction to Business Analytics",
+            "course_id": "kekl1uuj6ov22t",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "STAT 198 SEC 002: Actuarial Exam 1/P Preparatory Decal",
+            "course_id": "kekvomd68dg3dw",
+            "course_folders": [
+                "hw1",
+                "hw2",
+                "hw3",
+                "hw4",
+                "hw5",
+                "hw6",
+                "hw7",
+                "hw8",
+                "hw9",
+                "hw10",
+                "project",
+                "exam",
+                "logistics",
+                "other"
+            ]
+        },
+        {
+            "course_name": "CS 198: CS 198: Applications of Cloud Computing",
+            "course_id": "keliivk6kwm51m",
+            "course_folders": [
+                "project",
+                "exam",
+                "logistics",
+                "other",
+                "lab1",
+                "lab2",
+                "lab3",
+                "lab4",
+                "lab5",
+                "lab6",
+                "lab7",
+                "lab8",
+                "lab9",
+                "lab10"
+            ]
+        },
+        {
+            "course_name": "EECS 198: Applications of Cloud Computing",
+            "course_id": "keliogh28hen1",
+            "course_folders": [
+                "project",
+                "exam",
+                "logistics",
+                "other",
+                "lab1",
+                "lab2",
+                "lab3",
+                "lab4",
+                "lab5",
+                "lab6",
+                "lab7",
+                "lab8",
+                "lab9",
+                "lab10"
+            ]
+        },
+        {
+            "course_name": "ECON 218: Econ 218 Seminar in Psychology and Economics",
+            "course_id": "kelluv6u1bfw6",
+            "course_folders": [
+                "other"
+            ]
+        }
+    ]
+}

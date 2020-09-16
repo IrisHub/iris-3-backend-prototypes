@@ -7,7 +7,7 @@ def piazza_get(class_id):
 def create_class(class_id):
 	with open('course_folders.json', 'r') as f:
 		data = json.load(f)['result']
-		course = [e for e in data if e['course_id']==class_id and 'course_folders' in e.keys()][0]
+		course = [c for c in data if e['course_id']==class_id and 'course_folders' in e.keys()][0]
 		assignments = [e for e in course['course_folders'] 
 			if 'midterm' not in e 
 			and 'logistics' not in e 
@@ -17,22 +17,46 @@ def create_class(class_id):
 		]
 		ret = {}
 		ret['class_name']=course['course_name']
-		ret['assignments']={
-			e:{
-				problem: {
+		ret['assignments'] = {}
+		for i, e in enumerate(assignments):
+			ret['assignments'][str(i)] = {
+				'name':e,
+			}
+			for j, f in enumerate([f"Question {i}" for i in range(1, 11)]):
+				ret['assignments'][str(i)][str(j)] = {
+					'name': f,
 					'num':0,
-					'votes':[0,0,0,0],
-				} for problem in [f"Question {i}" for i in range(1, 11)]
-			} for e in assignments
-		}
+					'votes':[0, 0,0,0]
+				}
 		return ret
 
 
-def vote(vote, ctable, utable):
+def user_vote(vote, ctable, utable, user_id):
 	class_id = vote['class_id']
 	assignment_id = vote['assignment_id']
 	problem_id = vote['problem_id']
 	value = int(vote['value'])
+	curr_votes = ctable.get_item(Key={"uid":class_id})['Item']['data']['assignments'][assignment_id][component_id]
+	if value != -1:
+		curr_votes[value]+=1
+	else:
+		current_user_vote = int(utable.get_item(Key={"user_id":user_id})['Item']['votes'][f"{class_id}_{assignment_id}_{problem_id}"])
+		curr_votes[current_user_vote]-=1
+	
+	print(curr_votes)
+	ctable.update_item(
+		Key = {
+			"uid":class_id,
+		},
+		UpdateExpression="SET data.assignments.#a.#c=:v",
+		ExpressionAttributeNames={
+			"#a":assignment_id,
+			"#c":component_id
+		},
+		ExpressionAttributeValues={
+			":v":curr_votes
+		}
+	)
 	utable.update_item(
 		Key = {
 			"user_id":user_id
@@ -40,7 +64,11 @@ def vote(vote, ctable, utable):
 		UpdateExpression="SET votes.#i=:v",
 		ExpressionAttributeNames={
 			"#i":f"{class_id}_{assignment_id}_{problem_id}"
+		},
+		ExpressionAttributeValues={
+			":v":value
 		}
+	)
 
 
 
@@ -52,18 +80,21 @@ def event_handler(event, context):
 		30,
 		60,
 		120,
-		180
+		180,
 	]
 
 	dynamodb = boto3.resource('dynamodb')
 	utable = dynamodb.Table('homework_experiments')
 	ctable = dynamodb.Table('crowdsourcing')
 
-	if 'vote' in event:
-		vote(event['vote'], ctable, utable, user_id)
-	else:
-		vote = None
-
+	if 'class_id' in event and 'assignment_id' in event and 'problem_id' in event and 'value' in event:
+		if event['class_id'] and event['assignment_id'] and event['problem_id'] and event['value']:
+			user_vote({'vote':{
+				'class_id':event['class_id'],
+				'assignment_id':event['assignment_id'],
+				'problem_id':event['problem_id'],
+				'value':event['value']
+			}}, ctable, utable, user_id)
 	user = utable.get_item(Key={"user_id":user_id})
 	assert "Item" in user
 
@@ -87,40 +118,50 @@ def event_handler(event, context):
 			course = ctable.get_item(Key={"uid":class_id})
 		
 		assignments = course["Item"]['data']['assignments']
-		for i, a in enumerate(assignments.keys()):
-			assignment = assignments[a]
+		for assignment_id in sorted(assignments.keys()):
+			assignment = assignments[assignment_id]
 			assignment_ret = {}
+			# assignment_ret['order'] = str(assignment['order'])
 			total_assignment_time = 0
 			total_votes = 0
 			assignment_ret['assignment_components'] = []
-			for i, p in enumerate(assignment.keys()):
+			for problem_id in sorted(assignment.keys()):
 				component_ret = {}
-				component_ret['component_id'] = str(i)
-				component_ret['component_name'] = p
-				problem = assignment[p]
+				component_ret['component_id'] = problem_id
+				problem = assignment[problem_id]
+				component_ret['component_name'] = problem['name']
+				# component_ret['order'] = str(problem['order'])
 				problem_num = int(problem['num'])
 				problem_votes = [int(v) for v in problem['votes']]
+				problem_pct = [int(100*e/problem_num) for e in problem_votes]
 				problem_time = sum([poll_values[i]*int(e) for i,e in enumerate(problem_votes)])
 				component_ret['component_votes'] = problem_votes
-				component_ret['component_avg_time'] = str(int(problem_time/max(problem_num, 1))) + "mins"
+				component_ret['component_avg_time'] = "0" if problem_num == 0 else (str(int(problem_time/problem_num)) + "mins")
+				component_ret['component_vote_pcts'] = problem_pct
 				assignment_ret['assignment_components'].append(component_ret)
 				total_assignment_time += problem_time
 				total_votes += problem_num
+				if f"{class_id}_{str(i)}_{str(j)}" in user['Item']['votes']:
+					assignment_ret['user_vote'] = user['Item']['votes'][f"{class_id}_{str(i)}_{str(j)}"]
+				else:
+					assignment_ret['user_vote'] = -1
+
 			assignment_ret['assignment_components'] = sorted(assignment_ret['assignment_components'], key=lambda x:x['component_id'])
 
-			assignment_avg_time = str(int(total_assignment_time / max(total_votes, 1))) + " mins"
-			assignment_ret['assignment_name'] = str(a)
-			assignment_ret['assignment_id'] = str(i)
+			assignment_avg_time = "0" if total_votes == 0 else (str(int(total_assignment_time / total_votes)) + " mins")
+			assignment_ret['assignment_name'] = assignment['name']
+			assignment_ret['assignment_id'] = assignment_id
 			assignment_ret['assignment_avg_time'] = assignment_avg_time
 			class_ret['assignments'].append(assignment_ret)
 
 
 		ret['classes'].append(class_ret)
+	
 	ret['polls'].append(
 		[
 			{
 				"text":"30min",
-				"emoji":"😄"
+				"icon":"😄"
 			},
 			{
 				"text":"1hr",
@@ -136,20 +177,17 @@ def event_handler(event, context):
 			}
 		]
 	)
-	print(ret)
+	# print(ret)
 	return ret
 
-def __main__():
-	event = {
-		"user_id":"+1(949)836-2723"
-	}
-	context = {}
-	print(json.dumps(event_handler(event, context), indent=4))
+# def __main__():
+# 	event = {
+# 		"user_id":"+1(949)836-2723",
+# 		"vote": {
 
-__main__()
+# 		}
+# 	}
+# 	context = {}
+# 	print(json.dumps(event_handler(event, context), indent=4))
 
-
-
-
-
-
+# __main__()
