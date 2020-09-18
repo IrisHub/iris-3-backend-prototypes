@@ -1,0 +1,122 @@
+import os
+import json
+import boto3
+
+def table_init(table_name):
+	# Grab the DynamoDB table based on table_name
+	dynamodb = boto3.resource('dynamodb')
+	table = dynamodb.Table(table_name)
+
+def crowdsourced_data_init(dtable, card_name, data_path, metadata={}):
+	# Create a new entry in the crowdsourcing table
+	temp = dtable.get_item(
+		Key={
+			"card_name":card_name,
+			"data_path":data_path,
+		}
+	)
+	if "Item" in temp:
+		return
+
+	dtable.put_item(
+		Item = {
+			"card_name":card_name,
+			"data_path":data_path,
+			"metadata":metadata,
+			"crowdsourced_data":{}
+		}
+	)
+
+def crowdsourced_data_update_metadata(dtable, card_name, data_path, metadata):
+	dtable.update_item(
+		Key = {
+			"card_name":card_name,
+			"data_path":data_path,
+		},
+		UpdateExpression = "SET metadata=:m",
+		ExpressionAttributeValues = {
+			":m":metadata,
+		}
+	)
+
+def crowdsourced_data_update(dtable, card_name, data_path, user_id="", update=None, meta=False):
+	# Update the crowdsourcing table entry at the user id with the edit value
+	# If update is none, remove the user's vote
+	# If metadata is True, replace the metadata with the value in the update field
+	# At least one of `user_id` or `metadata` must be truthy
+	# If meta is True, update must be non-null
+	assert meta or user_id
+	if meta:
+		assert update
+		crowdsourced_data_update_metadata(dtable, card_name, data_path, update)
+		
+	else:
+		if not update:
+			crowdsourced_data_remove(dtable, card_name, data_path, user_id)
+		else:
+			dtable.update_item(
+				Key = {
+					"card_name":card_name,
+					"data_path":data_path,
+				},
+				UpdateExpression = "SET crowdsourced_data.#u=:d",
+				ExpressionAttributeNames = {
+					'#u':user_id,
+				}
+				ExpressionAttributeValues = {
+					':d':update,
+				}
+			)
+
+
+def crowdsourced_data_remove(dtable, card_name, data_path, user_id):
+	# Remove the user's input from that particular crowdsourcing table
+	dtable.update_item(
+		Key = {
+			"card_name":card_name,
+			"data_path":data_path,
+		},
+		UpdateExpression = "REMOVE crowdsourced_data.#u",
+		ExpressionAttributeNames = {
+			'#u':user_id
+		}
+	)
+
+def user_follow(utable, user_id, card_name, partial_query):
+	# Save a partial query to a user's profile
+	utable.update_item(
+		Key = {
+			"user_id":user_id,
+		},
+		UpdateExpression = "SET crowdsourcing.#c= list_append(if_not_exists(crowdsourcing.#c,:empty_list), :i)",
+		ExpressionAttributeNames = {
+			"#c":card_name,
+		}
+		ExpressionAttributeValues = {
+			":empty_list":[],
+			":i":[partial_query]
+		}
+	)
+
+def partial_query(table, card_name, p_data_path):
+	# Given a rank key, hash key, and partial query, return the items retrieved by a query on hash_key with filter rank_key
+	items = table.query(
+		KeyConditionExpression = "card_name = :c AND contains(data_path, :p)",
+		ExpressionAttributeValues = {
+			":c":card_name,
+			":p":p_data_path
+		}
+	)
+	return items["Items"]
+
+def user_get_card(utable, dtable, user_id, card_name):
+	# Get the raw database data for a specific card for a specific user
+	user = utable.get_item(Key={'user_id':user_id})
+	p_data_paths = user['Item']['crowdsourcing']['card_name']
+
+	items = []
+	for p in p_data_paths:
+		items.append(partial_query(dtable, card_name, p))
+
+	return items
+
