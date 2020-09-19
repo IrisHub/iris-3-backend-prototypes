@@ -1,11 +1,43 @@
 import os
 import json
 import boto3
+from itertools import groupby
+
+def group_by(lst, keyfunc):
+	# Groups a list of dicts by the given keyfunc, and returns a corresponding array
+	lst = sorted(lst, key=keyfunc)
+	r = []
+	for key, group in groupby(lst, keyfunc):
+		r.append(list(group))
+
+	return r
+
+def parse_user(user_id):
+	return "".join(filter(str.isdigit, str(user_id)))[-10:]
 
 def table_init(table_name):
 	# Grab the DynamoDB table based on table_name
 	dynamodb = boto3.resource('dynamodb')
-	table = dynamodb.Table(table_name)
+	return dynamodb.Table(table_name)
+
+def crowdsourced_data_verify(dtable, card_name, p_data_path):
+	x = partial_query(dtable, card_name, p_data_path)
+	return bool(x)
+
+def user_init(utable, user_id):
+	user_id = parse_user(user_id)
+	utable.put_item(
+		Item = {
+			'user_id':user_id,
+			'crowdsourcing':{}
+		}
+	)
+
+def fetch_user_card_following(utable, user_id, card_name):
+	user_id = parse_user(user_id)
+	following_list = utable.get_item(Key={"user_id":user_id})
+	return following_list['Item']['crowdsourcing'][card_name]
+
 
 def crowdsourced_data_init(dtable, card_name, data_path, metadata={}):
 	# Create a new entry in the crowdsourcing table
@@ -62,7 +94,7 @@ def crowdsourced_data_update(dtable, card_name, data_path, user_id="", update=No
 				UpdateExpression = "SET crowdsourced_data.#u=:d",
 				ExpressionAttributeNames = {
 					'#u':user_id,
-				}
+				},
 				ExpressionAttributeValues = {
 					':d':update,
 				}
@@ -91,7 +123,7 @@ def user_follow(utable, user_id, card_name, partial_query):
 		UpdateExpression = "SET crowdsourcing.#c= list_append(if_not_exists(crowdsourcing.#c,:empty_list), :i)",
 		ExpressionAttributeNames = {
 			"#c":card_name,
-		}
+		},
 		ExpressionAttributeValues = {
 			":empty_list":[],
 			":i":[partial_query]
@@ -101,7 +133,7 @@ def user_follow(utable, user_id, card_name, partial_query):
 def partial_query(table, card_name, p_data_path):
 	# Given a rank key, hash key, and partial query, return the items retrieved by a query on hash_key with filter rank_key
 	items = table.query(
-		KeyConditionExpression = "card_name = :c AND contains(data_path, :p)",
+		KeyConditionExpression = "card_name = :c AND begins_with(data_path, :p)",
 		ExpressionAttributeValues = {
 			":c":card_name,
 			":p":p_data_path
@@ -112,11 +144,11 @@ def partial_query(table, card_name, p_data_path):
 def user_get_card(utable, dtable, user_id, card_name):
 	# Get the raw database data for a specific card for a specific user
 	user = utable.get_item(Key={'user_id':user_id})
-	p_data_paths = user['Item']['crowdsourcing']['card_name']
+	p_data_paths = user['Item']['crowdsourcing'][card_name]
 
 	items = []
 	for p in p_data_paths:
-		items.append(partial_query(dtable, card_name, p))
+		items.extend(partial_query(dtable, card_name, p))
 
 	return items
 
