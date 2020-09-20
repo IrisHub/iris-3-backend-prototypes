@@ -65,32 +65,60 @@ def lecture_info(event, context):
 		class_lectures = [x for x in all_data if class_id in x['data_path']]
 		class_ret['class_name'] = class_lectures[0]['metadata']['course_name']
 		class_ret['lectures'] = []
-		# lectures = group_by(class_broadcasts, lambda x: int(x['metadata']['lecture_number']))
+		lecture_polls = group_by(class_polls, lambda x: int(x['metadata']['lecture_number']))
 
-		
-		for lecture in class_lectures:
+		for lecture in lecture_polls:
+			l0 = lecture[0]
 			lecture_ret = {}
-			lecture_ret['lecture_id'] = str(int(lecture['metadata']['lecture_number']))
-			lecture_ret['lecture_name'] = lecture['metadata']['lecture_name']
-
-			current_user = lecture['crowdsourced_data'][user_id]
-			lecture_ret['current_user_broadcast_icon']= current_user['broadcast_icon']
-			lecture_ret['current_user_broadcast_name']= current_user['broadcast_name']
-			lecture_ret['current_user_broadcast_tags']= current_user['item']
+			lecture_ret['lecture_id'] = str(int(l0['metadata']['lecture_number']))
+			lecture_ret['lecture_name'] = l0['metadata']['lecture_name']
 
 			other_users = []
+			poll_difficulty_default = [0,0,0]
+			poll_recommend_default=[0,0]
+			if not lecture['crowdsourced_data']
+				lecture_max_votes = [0, 0]
+				lecture_vote_pcts = [0, 0]
+			else:
+				for user in lecture['crowdsourced_data']
+					if 'difficulty' in lecture['data_path']:
+						poll_difficulty_default[int(lecture['crowdsourced_data'][user]['item'])] += 1
+					elif 'recommend' in lecture['data_path']:
+						poll_recommend_default[int(lecture['crowdsourced_data'][user]['item'])] += 1
+
 			for user_id in lecture['crowdsourced_data']:
-				d = {
-					'id':user_id,
-					'broadcast_name':lecture['crowdsourced_data'][user_id]['broadcast_name'],
-					'broadcast_icon':lecture['crowdsourced_data'][user_id]['broadcast_icon'],
-					'broadcast_tags':lecture['crowdsourced_data'][user_id]['item'],
-				}
-				other_users.append(d)
+				poll_default[int(problem['crowdsourced_data'][user]['item'])] += 1
 			lecture_ret['other_users'] = other_users
 			
 			class_ret['lectures'].append(lecture_ret)
 
 		ret["classes"].append(class_ret)
+
+	poll = [
+		{
+			"text":"Easy",
+			"icon":"😄"
+		},
+		{
+			"text":"Medium",
+			"icon":"😕"
+		},
+		{
+			"text":"Hard",
+			"icon":	"😵"
+		}
+	]
+	ret['polls'].append(poll)
+	poll = [
+		{
+			"text":"Yes",
+			"icon":"😄"
+		},
+		{
+			"text":"No",
+			"icon":	"😵"
+		}
+	]
+	ret['polls'].append(poll)
 
 	return(ret)
