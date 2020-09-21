@@ -31,7 +31,6 @@ def auth(event, context):
 	dtable = table_init('crowdsource_data')
 
 	user_init(utable, user_id)
-
 	for class_id in class_ids:
 		user_follow(utable, user_id, 'lectures_card', class_id)
 		exists = crowdsourced_data_verify(dtable, 'lectures_card', class_id)
@@ -73,22 +72,34 @@ def lecture_info(event, context):
 			lecture_ret['lecture_id'] = str(int(l0['metadata']['lecture_number']))
 			lecture_ret['lecture_name'] = l0['metadata']['lecture_name']
 
-			other_users = []
-			poll_difficulty_default = [0,0,0]
-			poll_recommend_default=[0,0]
-			if not lecture['crowdsourced_data']
-				lecture_max_votes = [0, 0]
-				lecture_vote_pcts = [0, 0]
-			else:
-				for user in lecture['crowdsourced_data']
-					if 'difficulty' in lecture['data_path']:
-						poll_difficulty_default[int(lecture['crowdsourced_data'][user]['item'])] += 1
-					elif 'recommend' in lecture['data_path']:
-						poll_recommend_default[int(lecture['crowdsourced_data'][user]['item'])] += 1
+			poll_difficulty = [0,0,0]
+			poll_recommend=[0,0]
+			lecture_max_votes = []
+			lecture_vote_pcts = []
+			user_difficulty_vote, user_recommend_vote = -1, -1
+			for poll in lecture:
+				if not poll['crowdsourced_data']
+					lecture_max_votes.append(0)
+					lecture_vote_pcts.append(0)
+				else:
+					for user in lecture['crowdsourced_data']
+						if 'difficulty' in lecture['data_path']:
+							poll_difficulty[int(lecture['crowdsourced_data'][user]['item'])] += 1
+							if user == user_id:
+								user_difficulty_vote = int(lecture['crowdsourced_data'][user]['item'])
+						elif 'recommend' in lecture['data_path']:
+							poll_recommend[int(lecture['crowdsourced_data'][user]['item'])] += 1
+							if user == user_id:
+								user_recommend_vote = int(lecture['crowdsourced_data'][user]['item'])
+			lecture_max_votes.append(poll_difficulty.index(max(poll_difficulty)))
+			lecture_max_votes.append(poll_recommend.index(max(poll_recommend)))
+			lecture_vote_pcts.append(int(poll_difficulty/sum(poll_difficulty) * 100))
+			lecture_vote_pcts.append(int(poll_recommend/sum(poll_recommend) * 100))
 
-			for user_id in lecture['crowdsourced_data']:
-				poll_default[int(problem['crowdsourced_data'][user]['item'])] += 1
-			lecture_ret['other_users'] = other_users
+			lecture_ret['lecture_polls'] = [poll_difficulty, poll_recommend]
+			lecture_ret['lecture_max_votes'] = lecture_max_votes
+			lecture_ret['lecture_vote_pcts'] = lecture_vote_pcts
+			lecture_ret['user_vote'] = [user_difficulty_vote, user_recommend_vote]
 			
 			class_ret['lectures'].append(lecture_ret)
 
