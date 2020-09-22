@@ -7,11 +7,13 @@ def create_class(class_id):
 		data = json.load(f)['result']
 		course = [e for e in data if e['course_id']==class_id and 'course_folders' in e.keys()][0]
 		assignments = [e for e in course['course_folders'] 
-			if 'midterm' not in e 
-			and 'logistics' not in e 
-			and 'other' not in e
-			and 'exam' not in e
-			and "office" not in e
+			if 'midterm' not in e.lower()
+			and 'logistics' not in e.lower()
+			and 'other' not in e.lower()
+			and 'exam' not in e.lower()
+			and 'final' not in e.lower()
+			and 'project' not in e.lower()
+			and "office" not in e.lower()
 		]
 		for i, e in enumerate(assignments):
 			for j, f in enumerate([f"Question {i}" for i in range(1, 11)]):
@@ -42,10 +44,12 @@ def auth(event, context):
 	user_init(utable, user_id)
 
 	for class_id in class_ids:
-		user_follow(utable, user_id, 'homework_card', class_id)
 		exists = crowdsourced_data_verify(dtable, 'homework_card', class_id)
 		if not exists:
 			create_class(class_id)
+
+	class_ids = "|".join(class_ids)
+	user_follow(utable, user_id, 'homework_card', class_ids)
 
 
 def classes_info(event, context):
@@ -141,26 +145,26 @@ def classes_info(event, context):
 	return(ret)
 
 
-def __main__():
-	classes = classes_list(None, None)['classes']
-	class_ids = [e['class_id'] for e in classes[:2]]
-	class_names = [e['class_name'] for e in classes[:2]]
-	d = {'user_id':'1(949)836-2723',
-		'class_ids':class_ids,
-		'class_names':class_names
-	}
-	auth(d, None)
-	d = {'user_id':'1(949)836-2723',}
-	classes_info(d, None)
-	d = {'user_id':'1(949)836-2723','class_id' :class_ids[0], 'assignment_id':0,'problem_id':0,'broadcast_tags':None}
-	classes_info(d, None)
-	d = {'user_id':'1(949)836-2723','class_id' :class_ids[0], 'assignment_id':0,'problem_id':0,'broadcast_tags':1}
-	classes_info(d, None)
-	d = {'user_id':'1(949)836-2723','class_id' :class_ids[0], 'assignment_id':0,'problem_id':0,'broadcast_tags':None}
-	classes_info(d, None)
-	d = {'user_id':'1(949)836-2723','class_id' :class_ids[0], 'assignment_id':0,'problem_id':0,'broadcast_tags':3}
-	classes_info(d, None)
-	d = {'user_id':'1(949)836-2723','class_id' :class_ids[0], 'assignment_id':0,'problem_id':0,'broadcast_tags':2}
-	classes_info(d, None)
+# def __main__():
+# 	classes = classes_list(None, None)['classes']
+# 	class_ids = [e['class_id'] for e in classes[:2]]
+# 	class_names = [e['class_name'] for e in classes[:2]]
+# 	d = {'user_id':'1(949)836-2723',
+# 		'class_ids':class_ids,
+# 		'class_names':class_names
+# 	}
+# 	auth(d, None)
+# 	d = {'user_id':'1(949)836-2723',}
+# 	classes_info(d, None)
+# 	d = {'user_id':'1(949)836-2723','class_id' :class_ids[0], 'assignment_id':0,'problem_id':0,'broadcast_tags':None}
+# 	classes_info(d, None)
+# 	d = {'user_id':'1(949)836-2723','class_id' :class_ids[0], 'assignment_id':0,'problem_id':0,'broadcast_tags':1}
+# 	classes_info(d, None)
+# 	d = {'user_id':'1(949)836-2723','class_id' :class_ids[0], 'assignment_id':0,'problem_id':0,'broadcast_tags':None}
+# 	classes_info(d, None)
+# 	d = {'user_id':'1(949)836-2723','class_id' :class_ids[0], 'assignment_id':0,'problem_id':0,'broadcast_tags':3}
+# 	classes_info(d, None)
+# 	d = {'user_id':'1(949)836-2723','class_id' :class_ids[0], 'assignment_id':0,'problem_id':0,'broadcast_tags':2}
+# 	classes_info(d, None)
 
-__main__()
+# __main__()

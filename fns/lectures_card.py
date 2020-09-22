@@ -32,10 +32,12 @@ def auth(event, context):
 
 	user_init(utable, user_id)
 	for class_id in class_ids:
-		user_follow(utable, user_id, 'lectures_card', class_id)
 		exists = crowdsourced_data_verify(dtable, 'lectures_card', class_id)
 		if not exists:
 			create_class(class_id)
+
+	class_ids = "|".join(class_ids)
+	user_follow(utable, user_id, 'lectures_card', class_ids)
 
 def lecture_info(event, context):
 	user_id = event['user_id']

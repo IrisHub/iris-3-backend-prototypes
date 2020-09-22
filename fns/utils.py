@@ -26,17 +26,19 @@ def crowdsourced_data_verify(dtable, card_name, p_data_path):
 
 def user_init(utable, user_id):
 	user_id = parse_user(user_id)
-	utable.put_item(
-		Item = {
-			'user_id':user_id,
-			'crowdsourcing':{}
-		}
-	)
+	user = utable.get_item(Key={"user_id":user_id})
+	if not "Item" in user:
+		utable.put_item(
+			Item = {
+				'user_id':user_id,
+				'crowdsourcing':{}
+			}
+		)
 
 def fetch_user_card_following(utable, user_id, card_name):
 	user_id = parse_user(user_id)
 	following_list = utable.get_item(Key={"user_id":user_id})
-	return following_list['Item']['crowdsourcing'][card_name]
+	return following_list['Item']['crowdsourcing'][card_name].split("|")
 
 
 def crowdsourced_data_init(dtable, card_name, data_path, metadata={}):
@@ -114,19 +116,18 @@ def crowdsourced_data_remove(dtable, card_name, data_path, user_id):
 		}
 	)
 
-def user_follow(utable, user_id, card_name, partial_query):
-	# Save a partial query to a user's profile
+def user_follow(utable, user_id, card_name, partial_queries):
+	# Save a partial query to a user's profile; the queries are a | delimited string
 	utable.update_item(
 		Key = {
 			"user_id":user_id,
 		},
-		UpdateExpression = "SET crowdsourcing.#c= list_append(if_not_exists(crowdsourcing.#c,:empty_list), :i)",
+		UpdateExpression = "SET crowdsourcing.#c=:i",
 		ExpressionAttributeNames = {
 			"#c":card_name,
 		},
 		ExpressionAttributeValues = {
-			":empty_list":[],
-			":i":[partial_query]
+			":i":partial_queries
 		}
 	)
 
@@ -144,7 +145,7 @@ def partial_query(table, card_name, p_data_path):
 def user_get_card(utable, dtable, user_id, card_name):
 	# Get the raw database data for a specific card for a specific user
 	user = utable.get_item(Key={'user_id':user_id})
-	p_data_paths = user['Item']['crowdsourcing'][card_name]
+	p_data_paths = user['Item']['crowdsourcing'][card_name].split("|")
 
 	items = []
 	for p in p_data_paths:

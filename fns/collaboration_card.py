@@ -41,7 +41,6 @@ def auth(event, context):
 	user_init(utable, user_id)
 
 	for class_id in class_ids:
-		user_follow(utable, user_id, 'collaboration_card', class_id)
 		exists = crowdsourced_data_verify(dtable, 'collaboration_card', class_id)
 		if not exists:
 			create_class(class_id)
@@ -57,6 +56,8 @@ def auth(event, context):
 			]
 		for i, assignment in enumerate(assignments):
 			update({'class_id':class_id, 'assignment_id':i, 'broadcast_tags':None}, user_id, dtable)
+	class_ids = "|".join(class_ids)
+	user_follow(utable, user_id, 'collaboration_card', class_id)
 
 def get_emoji():
 	emojis = ['🐵', '🦍', '🐶', '🐺', '🦊', '🐱', '🦁', '🐯', '🐴', '🦄', '🐮', '🐷', '🐐', '🐫', '🦙', '🦒', '🐘', '🦏', '🦛', '🐭', '🐹', '🐰', '🦇', '🐻', '🐨', '🐼', '🦃', '🐔', '🐦', '🐧', '🦉', '🦜', '🐸', '🐲', '🦖', '🐳', '🐬', '🐟', '🐙', '🦋', '🐛', '🐜', '🐝', '🦀']
@@ -138,27 +139,27 @@ def collaboration_info(event, context):
 
 	return(ret)
 
-def __main__():
-	classes = classes_list(None, None)['classes']
-	class_ids = [e['class_id'] for e in classes[:2]]
-	class_names = [e['class_name'] for e in classes[:2]]
-	d = {
-		'user_id':'1(949)836-2723',
-		'class_ids':class_ids,
-		'class_names':class_names
-	}
-	auth(d, None)
-	d = {'user_id':'1(949)836-2723',}
-	collaboration_info(d, None)
-	d = {'user_id':'1(949)836-2723','class_id' :class_ids[0], 'assignment_id':0,'broadcast_tags':None}
-	collaboration_info(d, None)
-	d = {'user_id':'1(949)836-2723','class_id' :class_ids[0], 'assignment_id':0,'broadcast_tags':"1A"}
-	collaboration_info(d, None)
-	d = {'user_id':'1(949)836-2723','class_id' :class_ids[0], 'assignment_id':0,'broadcast_tags':None}
-	collaboration_info(d, None)
-	d = {'user_id':'1(949)836-2723','class_id' :class_ids[0], 'assignment_id':0,'broadcast_tags':"2B"}
-	collaboration_info(d, None)
-	d = {'user_id':'1(949)836-2723','class_id' :class_ids[0], 'assignment_id':0,'broadcast_tags':"SLKDFJKLSDJFSDF I'M GOING TO SCREAM"}
-	collaboration_info(d, None)
+# def __main__():
+# 	classes = classes_list(None, None)['classes']
+# 	class_ids = [e['class_id'] for e in classes[:2]]
+# 	class_names = [e['class_name'] for e in classes[:2]]
+# 	d = {
+# 		'user_id':'1(949)836-2723',
+# 		'class_ids':class_ids,
+# 		'class_names':class_names
+# 	}
+# 	auth(d, None)
+# 	d = {'user_id':'1(949)836-2723',}
+# 	collaboration_info(d, None)
+# 	d = {'user_id':'1(949)836-2723','class_id' :class_ids[0], 'assignment_id':0,'broadcast_tags':None}
+# 	collaboration_info(d, None)
+# 	d = {'user_id':'1(949)836-2723','class_id' :class_ids[0], 'assignment_id':0,'broadcast_tags':"1A"}
+# 	collaboration_info(d, None)
+# 	d = {'user_id':'1(949)836-2723','class_id' :class_ids[0], 'assignment_id':0,'broadcast_tags':None}
+# 	collaboration_info(d, None)
+# 	d = {'user_id':'1(949)836-2723','class_id' :class_ids[0], 'assignment_id':0,'broadcast_tags':"2B"}
+# 	collaboration_info(d, None)
+# 	d = {'user_id':'1(949)836-2723','class_id' :class_ids[0], 'assignment_id':0,'broadcast_tags':"SLKDFJKLSDJFSDF I'M GOING TO SCREAM"}
+# 	collaboration_info(d, None)
 
-__main__()
+# __main__()
