@@ -105,18 +105,18 @@ def classes_info(event, context):
 					problem_pct = [int(100*e/problem_num) for e in problem_votes]
 					problem_time = sum([poll_eval[i]*int(e) for i,e in enumerate(problem_votes)])
 				component_ret['component_votes'] = problem_votes
-				component_ret['component_avg_time'] = "0" if problem_num == 0 else (str(int(problem_time/problem_num)) + "mins")
+				component_avg_time = 0 if problem_num == 0 else int(problem_time/problem_num)
+				component_ret['component_avg_time'] = "0" if not component_avg_time else f"{component_avg_time} + mins"
 				component_ret['component_vote_pcts'] = problem_pct
 				if user_id in problem['crowdsourced_data']:
 					component_ret['user_vote'] = int(problem['crowdsourced_data'][user_id]['item'])
 				else:
 					component_ret['user_vote'] = -1
 				assignment_ret['assignment_components'].append(component_ret)
-				total_assignment_time += problem_time
-				total_votes += problem_num
+				total_assignment_time += component_avg_time
 			
 			assignment_ret['assignment_components'] = sorted(assignment_ret['assignment_components'], key=lambda x:x['component_id'])
-			assignment_avg_time = "0" if total_votes == 0 else (str(int(total_assignment_time / total_votes)) + " mins")
+			assignment_avg_time = "0" if total_assignment_time == 0 else str(total_assignment_time) + " mins"
 			assignment_ret['assignment_avg_time'] = assignment_avg_time
 			
 			class_ret['assignments'].append(assignment_ret)

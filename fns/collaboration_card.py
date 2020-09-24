@@ -57,7 +57,7 @@ def auth(event, context):
 		for i, assignment in enumerate(assignments):
 			update({'class_id':class_id, 'assignment_id':i, 'broadcast_tags':None}, user_id, dtable)
 	class_ids = "|".join(class_ids)
-	user_follow(utable, user_id, 'collaboration_card', class_id)
+	user_follow(utable, user_id, 'collaboration_card', class_ids)
 
 def get_emoji():
 	emojis = ['🐵', '🦍', '🐶', '🐺', '🦊', '🐱', '🦁', '🐯', '🐴', '🦄', '🐮', '🐷', '🐐', '🐫', '🦙', '🦒', '🐘', '🦏', '🦛', '🐭', '🐹', '🐰', '🦇', '🐻', '🐨', '🐼', '🦃', '🐔', '🐦', '🐧', '🦉', '🦜', '🐸', '🐲', '🦖', '🐳', '🐬', '🐟', '🐙', '🦋', '🐛', '🐜', '🐝', '🦀']
@@ -123,14 +123,15 @@ def collaboration_info(event, context):
 			assignment_ret['current_user_broadcast_tags']= current_user['item']
 
 			other_users = []
-			for user_id in assignment['crowdsourced_data']:
-				d = {
-					'id':user_id,
-					'broadcast_name':assignment['crowdsourced_data'][user_id]['broadcast_name'],
-					'broadcast_icon':assignment['crowdsourced_data'][user_id]['broadcast_icon'],
-					'broadcast_tags':assignment['crowdsourced_data'][user_id]['item'],
-				}
-				other_users.append(d)
+			for uid in assignment['crowdsourced_data']:
+				if not user_id == uid:
+					d = {
+						'id':uid,
+						'broadcast_name':assignment['crowdsourced_data'][uid]['broadcast_name'],
+						'broadcast_icon':assignment['crowdsourced_data'][uid]['broadcast_icon'],
+						'broadcast_tags':assignment['crowdsourced_data'][uid]['item'],
+					}
+					other_users.append(d)
 			assignment_ret['other_users'] = other_users
 			
 			class_ret['assignments'].append(assignment_ret)

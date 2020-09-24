@@ -31,7 +31,8 @@ def user_init(utable, user_id):
 		utable.put_item(
 			Item = {
 				'user_id':user_id,
-				'crowdsourcing':{}
+				'crowdsourcing':{},
+				'social':{},
 			}
 		)
 
@@ -130,6 +131,34 @@ def user_follow(utable, user_id, card_name, partial_queries):
 			":i":partial_queries
 		}
 	)
+
+def user_social_add(utable, user_id, card_name, value):
+	utable.update_item(
+		Key = {
+			'user_id':user_id,
+		},
+		UpdateExpression = "SET social.#c = :v",
+		ExpressionAttributeNames = {
+			"#c":card_name,
+		},
+		ExpressionAttributeValues = {
+			":v":value
+		}
+	)
+
+def user_social_modify(utable, user_id, card_name, data_path, data):
+	update_expr = f"SET social.{card_name}.{".".join(data_path)} = :d"
+	utable.update_item(
+		Key = {
+			'user_id':user_id,
+		},
+		UpdateExpression = update_expr,
+		ExpressionAttributeValues = {
+			":d":data
+		}
+	)
+
+
 
 def partial_query(table, card_name, p_data_path):
 	# Given a rank key, hash key, and partial query, return the items retrieved by a query on hash_key with filter rank_key

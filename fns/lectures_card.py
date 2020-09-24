@@ -59,7 +59,33 @@ def lecture_info(event, context):
 
 	all_data = user_get_card(utable, dtable, user_id, 'lectures_card')
 	class_ids = fetch_user_card_following(utable, user_id, 'lectures_card')
-	ret = {"classes":[]}
+	ret = {"classes":[], "polls":[]}
+	poll = [
+		{
+			"text":"Easy",
+			"icon":"😄"
+		},
+		{
+			"text":"Medium",
+			"icon":"😕"
+		},
+		{
+			"text":"Hard",
+			"icon":	"😵"
+		}
+	]
+	ret['polls'].append(poll)
+	poll = [
+		{
+			"text":"Yes",
+			"icon":"😄"
+		},
+		{
+			"text":"No",
+			"icon":	"😵"
+		}
+	]
+	ret['polls'].append(poll)
 	for class_id in class_ids:
 		class_ret = {}
 		class_ret['class_id']=class_id
@@ -93,8 +119,8 @@ def lecture_info(event, context):
 							poll_recommend[int(lecture['crowdsourced_data'][user]['item'])] += 1
 							if user == user_id:
 								user_recommend_vote = int(lecture['crowdsourced_data'][user]['item'])
-			lecture_max_votes.append(poll_difficulty.index(max(poll_difficulty)))
-			lecture_max_votes.append(poll_recommend.index(max(poll_recommend)))
+			lecture_max_votes.append(ret['polls'][0][poll_difficulty.index(max(poll_difficulty))]['text'])
+			lecture_max_votes.append(ret['polls'][1][poll_recommend.index(max(poll_recommend))]['text'])
 			lecture_vote_pcts.append(int(poll_difficulty/sum(poll_difficulty) * 100))
 			lecture_vote_pcts.append(int(poll_recommend/sum(poll_recommend) * 100))
 
@@ -107,31 +133,6 @@ def lecture_info(event, context):
 
 		ret["classes"].append(class_ret)
 
-	poll = [
-		{
-			"text":"Easy",
-			"icon":"😄"
-		},
-		{
-			"text":"Medium",
-			"icon":"😕"
-		},
-		{
-			"text":"Hard",
-			"icon":	"😵"
-		}
-	]
-	ret['polls'].append(poll)
-	poll = [
-		{
-			"text":"Yes",
-			"icon":"😄"
-		},
-		{
-			"text":"No",
-			"icon":	"😵"
-		}
-	]
-	ret['polls'].append(poll)
+	ret['poll_titles'] = ["How was the lecture?", "Should you watch the lecture?"]
 
 	return(ret)
