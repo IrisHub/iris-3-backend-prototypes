@@ -147,12 +147,17 @@ def user_social_add(utable, user_id, card_name, value):
 	)
 
 def user_social_modify(utable, user_id, card_name, data_path, data):
-	update_expr = f"SET social.{card_name}.{".".join(data_path)} = :d"
+	path = '.'.join(data_path)
+	d = { f"#i{j}": d for j, d in enumerate(data_path)}
+	path = '.'.join(sorted(d.keys()))
+	update_expr = f'SET social.{card_name}.{path} = :d'
+	print(update_expr)
 	utable.update_item(
 		Key = {
 			'user_id':user_id,
 		},
 		UpdateExpression = update_expr,
+		ExpressionAttributeNames = d,
 		ExpressionAttributeValues = {
 			":d":data
 		}

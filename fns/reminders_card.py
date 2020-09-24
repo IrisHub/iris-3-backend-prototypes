@@ -27,7 +27,7 @@ def auth(event, context):
 			"frequency": 0,
 			"name": f[1],
 			"messaged": False,
-			"last_contacted":int(time.time())
+			"last_contacted":0
 		} for f in list(zip(friend_ids, friend_names))
 	}
 	user_social_add(utable, user_id, 'reminders_card', data)
@@ -55,9 +55,9 @@ def get_info(event, context):
 		every_two_weeks
 	]
 
-	if event['friend_id']:
-		if event['frequency']:
-			new_frequency = ret['options'].index(new_frequency)
+	if 'friend_id' in event and event['friend_id']:
+		if 'frequency' in event and event['frequency']:
+			new_frequency = ret['options'].index(event['frequency'])
 			change_frequency(utable, user_id, event['friend_id'], new_frequency)
 		else:
 			message_friend(utable, user_id, event['friend_id'])
@@ -69,7 +69,7 @@ def get_info(event, context):
 	for friend_id in friends:
 		d = {}
 		time_since_last = int(time.time()) - int(friends[friend_id]['last_contacted'])
-		duration = durations[int([friends][friend_id]['frequency'])]
+		duration = durations[int(friends[friend_id]['frequency'])]
 		if time_since_last > 0.75* duration:
 			d['messaged'] = reset_friend(utable, user_id, friend_id)
 			oski_state = max(1, oski_state)
@@ -79,10 +79,10 @@ def get_info(event, context):
 			d['messaged'] = friends[friend_id]['messaged']
 		d['id'] = friend_id
 		d['name'] = friends[friend_id]['name']
-		d['frequency'] = ret['options'][int([friends][friend_id]['frequency'])]
+		d['frequency'] = ret['options'][int(friends[friend_id]['frequency'])]
 		ret['friend_states'].append(d)
 
-	ret['friend_states'] = sorted(ret['friend_states'], lambda x: x['messaged'])
+	ret['friend_states'] = sorted(ret['friend_states'], key=lambda x: x['messaged'])
 
 	oski_healths = [
 		'VIBING',
@@ -90,10 +90,21 @@ def get_info(event, context):
 		'DEAD'
 	]
 	ret['oski_state'] = {
-		'health': oski_healths[oski_state]
+		'health': oski_healths[oski_state],
 		'img': f"https://oski-pics.s3-us-west-1.amazonaws.com/oski{oski_state}.png"
 	}
 
 	return ret
 
-	return ret
+# def __main__():
+# 	event = {
+# 		'user_id': '123412341234',
+# 		'friend_ids':['2345', '3456'],
+# 		'friend_names':['tester1', 'tester2']
+# 	}
+# 	auth(event, None)
+# 	print(json.dumps(get_info({'user_id':'123412341234'}, None)))
+# 	print(json.dumps(get_info({'user_id':'123412341234','friend_id':'2345'}, None)))
+# 	print(json.dumps(get_info({'user_id':'123412341234','friend_id':'2345', 'frequency':'Weekly'}, None)))
+
+# __main__()
