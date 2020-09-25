@@ -27,7 +27,13 @@ def crowdsourced_data_verify(dtable, card_name, p_data_path):
 def user_init(utable, user_id):
 	user_id = parse_user(user_id)
 	user = utable.get_item(Key={"user_id":user_id})
-	if not "Item" in user:
+	if "Item" in user:
+		utable.delete_item(
+			Key = {
+				"user_id":user_id
+			}
+		)
+	else:
 		utable.put_item(
 			Item = {
 				'user_id':user_id,
@@ -178,7 +184,7 @@ def partial_query(table, card_name, p_data_path):
 
 def user_get_card(utable, dtable, user_id, card_name):
 	# Get the raw database data for a specific card for a specific user
-	user = utable.get_item(Key={'user_id':user_id})
+	user = utable.get_item(Key={'user_id':user_id}, ConsistentRead = True)
 	p_data_paths = user['Item']['crowdsourcing'][card_name].split("|")
 
 	items = []

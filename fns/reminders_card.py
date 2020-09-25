@@ -91,10 +91,11 @@ def get_info(event, context):
 	]
 	ret['oski_state'] = {
 		'health': oski_healths[oski_state],
+		'score': oski_state,
 		'img': f"https://oski-pics.s3-us-west-1.amazonaws.com/oski{oski_state}.png"
 	}
 
-	return ret
+	return json.loads(json.dumps(ret).replace("\/", "/"))
 
 # def __main__():
 # 	event = {

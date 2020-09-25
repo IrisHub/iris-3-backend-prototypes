@@ -106,7 +106,7 @@ def classes_info(event, context):
 					problem_time = sum([poll_eval[i]*int(e) for i,e in enumerate(problem_votes)])
 				component_ret['component_votes'] = problem_votes
 				component_avg_time = 0 if problem_num == 0 else int(problem_time/problem_num)
-				component_ret['component_avg_time'] = "0" if not component_avg_time else f"{component_avg_time} + mins"
+				component_ret['component_avg_time'] = "0" if not component_avg_time else f"{component_avg_time} mins"
 				component_ret['component_vote_pcts'] = problem_pct
 				if user_id in problem['crowdsourced_data']:
 					component_ret['user_vote'] = int(problem['crowdsourced_data'][user_id]['item'])

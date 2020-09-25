@@ -73,7 +73,7 @@ def update(event, user_id, dtable):
 		animal = f"Anonymous {animal}"
 		num = 0
 		for uid in current_profile['crowdsourced_data']:
-			if animal == uid['broadcast_name']:
+			if animal == current_profile['crowdsourced_data'][uid]['broadcast_name']:
 				num += 1
 		if num != 0:
 			animal = f"{animal} {num}"
@@ -138,7 +138,7 @@ def collaboration_info(event, context):
 
 		ret["classes"].append(class_ret)
 
-	return(ret)
+	return(json.loads(json.dumps(ret)))
 
 # def __main__():
 # 	classes = classes_list(None, None)['classes']

@@ -6,7 +6,7 @@ def create_class(class_id):
 	with open('course_folders.json', 'r') as f:
 		data = json.load(f)['result']
 		course = [e for e in data if e['course_id']==class_id and 'course_folders' in e.keys()][0]
-		for i, e in enumerate([f"Lecture {i}" forr i in range(1, 35)]):
+		for i, e in enumerate([f"Lecture {i}" for i in range(1, 35)]):
 			metadata = {
 				"course_name":course['course_name'],
 				"lecture_name":e,
@@ -55,7 +55,7 @@ def lecture_info(event, context):
 			poll_id = "difficulty"
 		else:
 			poll_id = "recommend"
-		crowdsourced_data_update(dtable, 'homework_card', f"{event['class_id']}_{poll_id}_{event['lecture_id']}", user_id, update=update)
+		crowdsourced_data_update(dtable, 'lectures_card', f"{event['class_id']}_{poll_id}_{event['lecture_id']}", user_id, update=update)
 
 	all_data = user_get_card(utable, dtable, user_id, 'lectures_card')
 	class_ids = fetch_user_card_following(utable, user_id, 'lectures_card')
@@ -77,11 +77,11 @@ def lecture_info(event, context):
 	ret['polls'].append(poll)
 	poll = [
 		{
-			"text":"Yes",
+			"text":"Watch",
 			"icon":"😄"
 		},
 		{
-			"text":"No",
+			"text":"Don't Watch",
 			"icon":	"😵"
 		}
 	]
@@ -92,7 +92,7 @@ def lecture_info(event, context):
 		class_lectures = [x for x in all_data if class_id in x['data_path']]
 		class_ret['class_name'] = class_lectures[0]['metadata']['course_name']
 		class_ret['lectures'] = []
-		lecture_polls = group_by(class_polls, lambda x: int(x['metadata']['lecture_number']))
+		lecture_polls = group_by(class_lectures, lambda x: int(x['metadata']['lecture_number']))
 
 		for lecture in lecture_polls:
 			l0 = lecture[0]
@@ -106,23 +106,30 @@ def lecture_info(event, context):
 			lecture_vote_pcts = []
 			user_difficulty_vote, user_recommend_vote = -1, -1
 			for poll in lecture:
-				if not poll['crowdsourced_data']
-					lecture_max_votes.append(0)
-					lecture_vote_pcts.append(0)
-				else:
-					for user in lecture['crowdsourced_data']
-						if 'difficulty' in lecture['data_path']:
-							poll_difficulty[int(lecture['crowdsourced_data'][user]['item'])] += 1
-							if user == user_id:
-								user_difficulty_vote = int(lecture['crowdsourced_data'][user]['item'])
-						elif 'recommend' in lecture['data_path']:
-							poll_recommend[int(lecture['crowdsourced_data'][user]['item'])] += 1
-							if user == user_id:
-								user_recommend_vote = int(lecture['crowdsourced_data'][user]['item'])
-			lecture_max_votes.append(ret['polls'][0][poll_difficulty.index(max(poll_difficulty))]['text'])
-			lecture_max_votes.append(ret['polls'][1][poll_recommend.index(max(poll_recommend))]['text'])
-			lecture_vote_pcts.append(int(poll_difficulty/sum(poll_difficulty) * 100))
-			lecture_vote_pcts.append(int(poll_recommend/sum(poll_recommend) * 100))
+				# if not poll['crowdsourced_data']:
+				# 	lecture_max_votes.append(0)
+				# 	lecture_vote_pcts.append(0)
+				# 	continue
+				# else:
+				for user in poll['crowdsourced_data']:
+					if 'difficulty' in poll['data_path']:
+						poll_difficulty[int(poll['crowdsourced_data'][user]['item'])] += 1
+						if user == user_id:
+							user_difficulty_vote = int(poll['crowdsourced_data'][user]['item'])
+					elif 'recommend' in poll['data_path']:
+						poll_recommend[int(poll['crowdsourced_data'][user]['item'])] += 1
+						if user == user_id:
+							user_recommend_vote = int(poll['crowdsourced_data'][user]['item'])
+			if sum(poll_difficulty) == 0:
+				lecture_max_votes.append("0")
+			else:
+				lecture_max_votes.append(ret['polls'][0][poll_difficulty.index(max(poll_difficulty))]['text'])
+			if sum(poll_recommend) == 0:
+				lecture_max_votes.append("0")
+			else:
+				lecture_max_votes.append(ret['polls'][1][poll_recommend.index(max(poll_recommend))]['text'])
+			lecture_vote_pcts.append([int(e/max(1, sum(poll_difficulty)) * 100) for e in poll_difficulty])
+			lecture_vote_pcts.append([int(e/max(1, sum(poll_recommend)) * 100) for e in poll_recommend])
 
 			lecture_ret['lecture_polls'] = [poll_difficulty, poll_recommend]
 			lecture_ret['lecture_max_votes'] = lecture_max_votes
@@ -135,4 +142,5 @@ def lecture_info(event, context):
 
 	ret['poll_titles'] = ["How was the lecture?", "Should you watch the lecture?"]
 
+	print(ret)
 	return(ret)
