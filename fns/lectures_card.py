@@ -16,12 +16,14 @@ def create_class(class_id):
 			crowdsourced_data_init(dtable, 'lectures_card', f"{class_id}_recommend_{i}", metadata = metadata)
 
 def classes_list(event, context):
+	set_debug(event)
 	with open('course_folders.json', 'r') as f:
 		data = json.load(f)
 		classes = [{'class_id':e['course_id'], 'class_name':e['course_name']} for e in data['result'] if 'course_folders' in e]
 		return json.loads(json.dumps({"classes":classes}))
 
 def auth(event, context):
+	set_debug(event)
 	user_id = event['user_id']
 	user_id = parse_user(user_id)
 	class_ids = event['class_ids']
@@ -40,6 +42,7 @@ def auth(event, context):
 	user_follow(utable, user_id, 'lectures_card', class_ids)
 
 def lecture_info(event, context):
+	set_debug(event)
 	user_id = event['user_id']
 	user_id = parse_user(user_id)
 
@@ -50,12 +53,13 @@ def lecture_info(event, context):
 		if int(event['value']) < 0:
 			update = None
 		else:
-			update = {"item":event['value']}
-		if event['poll_id']	== 0:
+			update = {"item":int(event['value'])}
+		
+		if int(event['poll_id'])== 0:
 			poll_id = "difficulty"
 		else:
 			poll_id = "recommend"
-		crowdsourced_data_update(dtable, 'lectures_card', f"{event['class_id']}_{poll_id}_{event['lecture_id']}", user_id, update=update)
+		crowdsourced_data_update(dtable, 'lectures_card', f"{event['class_id']}_{poll_id}_{event['lecture_id']}", user_id=user_id, update=update)
 
 	all_data = user_get_card(utable, dtable, user_id, 'lectures_card')
 	class_ids = fetch_user_card_following(utable, user_id, 'lectures_card')

@@ -2,7 +2,7 @@ import boto3
 import json
 from utils import *
 import random
-
+print("Hello, World!")
 def create_class(class_id):
 	dtable = table_init('crowdsource_data')
 	with open('course_folders.json', 'r') as f:
@@ -24,12 +24,14 @@ def create_class(class_id):
 			crowdsourced_data_init(dtable, 'collaboration_card', f"{class_id}_{i}", metadata = metadata)
 
 def classes_list(event, context):
+	set_debug(event)
 	with open('course_folders.json', 'r') as f:
 		data = json.load(f)
 		classes = [{'class_id':e['course_id'], 'class_name':e['course_name']} for e in data['result'] if 'course_folders' in e]
 		return json.loads(json.dumps({"classes":classes}))
 
 def auth(event, context):
+	set_debug(event)
 	user_id = event['user_id']
 	user_id = parse_user(user_id)
 	class_ids = event['class_ids']
@@ -91,6 +93,7 @@ def update(event, user_id, dtable):
 	crowdsourced_data_update(dtable, 'collaboration_card', f"{event['class_id']}_{event['assignment_id']}", user_id, update=update)
 
 def collaboration_info(event, context):
+	set_debug(event)
 	user_id = event['user_id']
 	user_id = parse_user(user_id)
 
@@ -125,13 +128,14 @@ def collaboration_info(event, context):
 			other_users = []
 			for uid in assignment['crowdsourced_data']:
 				if not user_id == uid:
-					d = {
-						'id':uid,
-						'broadcast_name':assignment['crowdsourced_data'][uid]['broadcast_name'],
-						'broadcast_icon':assignment['crowdsourced_data'][uid]['broadcast_icon'],
-						'broadcast_tags':assignment['crowdsourced_data'][uid]['item'],
-					}
-					other_users.append(d)
+					if assignment['crowdsourced_data'][uid]['item']:
+						d = {
+							'id':uid,
+							'broadcast_name':assignment['crowdsourced_data'][uid]['broadcast_name'],
+							'broadcast_icon':assignment['crowdsourced_data'][uid]['broadcast_icon'],
+							'broadcast_tags':assignment['crowdsourced_data'][uid]['item'],
+						}
+						other_users.append(d)
 			assignment_ret['other_users'] = other_users
 			
 			class_ret['assignments'].append(assignment_ret)

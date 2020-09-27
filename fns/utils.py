@@ -3,6 +3,10 @@ import json
 import boto3
 from itertools import groupby
 
+def set_debug(event):
+	boto3.set_stream_logger()
+	print(event)
+
 def group_by(lst, keyfunc):
 	# Groups a list of dicts by the given keyfunc, and returns a corresponding array
 	lst = sorted(lst, key=keyfunc)
@@ -27,13 +31,7 @@ def crowdsourced_data_verify(dtable, card_name, p_data_path):
 def user_init(utable, user_id):
 	user_id = parse_user(user_id)
 	user = utable.get_item(Key={"user_id":user_id})
-	if "Item" in user:
-		utable.delete_item(
-			Key = {
-				"user_id":user_id
-			}
-		)
-	else:
+	if not "Item" in user:
 		utable.put_item(
 			Item = {
 				'user_id':user_id,
@@ -110,16 +108,27 @@ def crowdsourced_data_update(dtable, card_name, data_path, user_id="", update=No
 			)
 
 
-def crowdsourced_data_remove(dtable, card_name, data_path, user_id):
+def crowdsourced_data_remove(utable, dtable, card_name, user_id):
 	# Remove the user's input from that particular crowdsourcing table
-	dtable.update_item(
+	info = user_get_card(utable, dtable, user_id, card_name)
+	for item in info:
+		data_path = item['data_path']
+		print(f"Removing from {card_name}, {data_path}")
+		dtable.update_item(
+			Key = {
+				"card_name":card_name,
+				"data_path":data_path,
+			},
+			UpdateExpression = "REMOVE crowdsourced_data.#u",
+			ExpressionAttributeNames = {
+				'#u':user_id
+			}
+		)
+
+def user_remove(utable, user_id):
+	utable.delete_item(
 		Key = {
-			"card_name":card_name,
-			"data_path":data_path,
-		},
-		UpdateExpression = "REMOVE crowdsourced_data.#u",
-		ExpressionAttributeNames = {
-			'#u':user_id
+			'user_id':user_id
 		}
 	)
 

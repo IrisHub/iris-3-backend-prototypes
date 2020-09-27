@@ -27,12 +27,14 @@ def create_class(class_id):
 				crowdsourced_data_init(dtable, 'homework_card', f"{class_id}_{i}_{j}", metadata = metadata)
 
 def classes_list(event, context):
+	set_debug(event)
 	with open('course_folders.json', 'r') as f:
 		data = json.load(f)
 		classes = [{'class_id':e['course_id'], 'class_name':e['course_name']} for e in data['result'] if 'course_folders' in e]
 		return json.loads(json.dumps({"classes":classes}))
 
 def auth(event, context):
+	set_debug(event)
 	user_id = event['user_id']
 	user_id = parse_user(user_id)
 	class_ids = event['class_ids']
@@ -53,6 +55,7 @@ def auth(event, context):
 
 
 def classes_info(event, context):
+	set_debug(event)
 	user_id = event['user_id']
 	user_id = parse_user(user_id)
 

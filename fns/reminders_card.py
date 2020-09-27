@@ -14,6 +14,7 @@ def change_frequency(utable, user_id, friend_id, new_frequency):
 	user_social_modify(utable, user_id, 'reminders_card', [friend_id, 'frequency'], new_frequency)
 
 def auth(event, context):
+	set_debug(event)
 	user_id = event['user_id']
 	user_id = parse_user(user_id)
 	friend_ids = event['friend_ids']
@@ -33,6 +34,7 @@ def auth(event, context):
 	user_social_add(utable, user_id, 'reminders_card', data)
 
 def get_info(event, context):
+	set_debug(event)
 	user_id = event['user_id']
 	user_id = parse_user(user_id)
 	utable = table_init('users')
