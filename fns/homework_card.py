@@ -109,7 +109,7 @@ def classes_info(event, context):
 					problem_time = sum([poll_eval[i]*int(e) for i,e in enumerate(problem_votes)])
 				component_ret['component_votes'] = problem_votes
 				component_avg_time = 0 if problem_num == 0 else int(problem_time/problem_num)
-				component_ret['component_avg_time'] = "0" if not component_avg_time else f"{component_avg_time} mins"
+				component_ret['component_avg_time'] = "0" if not component_avg_time else pprint_time(component_avg_time*60)
 				component_ret['component_vote_pcts'] = problem_pct
 				if user_id in problem['crowdsourced_data']:
 					component_ret['user_vote'] = int(problem['crowdsourced_data'][user_id]['item'])
@@ -119,7 +119,7 @@ def classes_info(event, context):
 				total_assignment_time += component_avg_time
 			
 			assignment_ret['assignment_components'] = sorted(assignment_ret['assignment_components'], key=lambda x:x['component_id'])
-			assignment_avg_time = "0" if total_assignment_time == 0 else str(total_assignment_time) + " mins"
+			assignment_avg_time = "0" if total_assignment_time == 0 else pprint_time(total_assignment_time * 60)
 			assignment_ret['assignment_avg_time'] = assignment_avg_time
 			
 			class_ret['assignments'].append(assignment_ret)

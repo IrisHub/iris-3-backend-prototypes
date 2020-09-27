@@ -3,6 +3,38 @@ import json
 import boto3
 from itertools import groupby
 
+def pprint_time(secs):
+	ret_str = ""
+	if secs >= 86400:
+		days = secs//86400
+		secs = secs % 86400
+		ret_str += f"{days} "
+		if days > 1:
+			ret_str += "days "
+		else:
+			ret_str += "day "
+	if secs >= 3600:
+		hours = secs // 3600
+		secs = secs % 3600
+		ret_str += f"{hours} "
+		if hours > 1:
+			ret_str += "hrs "
+		else:
+			ret_str += "hr "
+	if secs >= 60:
+		mins = secs // 60
+		secs = secs % 60
+		ret_str += f"{mins} "
+		if mins > 1:
+			ret_str += "mins "
+		else:
+			ret_str += "min "
+	if secs > 0:
+		ret_str += f"{secs} secs"
+	if ret_str[-1:] == " ":
+		ret_str = ret_str[:-1]
+	return ret_str
+
 def set_debug(event):
 	boto3.set_stream_logger()
 	print(event)
@@ -131,6 +163,7 @@ def user_remove(utable, user_id):
 			'user_id':user_id
 		}
 	)
+	print(f"Removed User ID: {user_id}")
 
 def user_follow(utable, user_id, card_name, partial_queries):
 	# Save a partial query to a user's profile; the queries are a | delimited string
