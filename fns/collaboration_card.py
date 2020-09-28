@@ -62,8 +62,8 @@ def auth(event, context):
 	user_follow(utable, user_id, 'collaboration_card', class_ids)
 
 def get_emoji():
-	emojis = ['🐵', '🦍', '🐶', '🐺', '🦊', '🐱', '🦁', '🐯', '🐴', '🦄', '🐮', '🐷', '🐐', '🐫', '🦙', '🦒', '🐘', '🦏', '🦛', '🐭', '🐹', '🐰', '🦇', '🐻', '🐨', '🐼', '🦃', '🐔', '🐦', '🐧', '🦉', '🦜', '🐸', '🐲', '🦖', '🐳', '🐬', '🐟', '🐙', '🦋', '🐛', '🐜', '🐝', '🦀']
-	animal_names = ['Monkey', 'Gorilla', 'Dog', 'Wolf', 'Fox', 'Cat', 'Lion', 'Tiger', 'Horse', 'Unicorn', 'Cow', 'Pig', 'Goat', 'Camel', 'Llama', 'Giraffe', 'Elephant', 'Rhinoceros', 'Hippopotamus', 'Mouse', 'Hamster', 'Rabbit', 'Bat', 'Bear', 'Koala', 'Panda', 'Turkey', 'Chicken', 'Bird', 'Penguin', 'Owl', 'Parrot', 'Frog', 'Dragon', 'T-Rex', 'Whale', 'Dolphin', 'Fish', 'Octopus', 'Butterfly', 'Bug', 'Ant', 'Honeybee', 'Crab']
+	emojis = ['☕️', '🏬', '🔔', '🐍', '💻', '🌿', '📚', '🏛️', '🤢', '⚛️', '🦠', '🤖', '🗞️', '🥗', '🥐', '🎲', '☕', '🍻', '🚌', '⛰️', '🏢', '🏢', '🏢', '🍪', '🍲', '🌯', '🏢']
+	animal_names = ['Strada', 'MLK', 'Campanile', 'Haas', 'Soda', 'Glade', 'Moffitt', 'Doe', 'Croads', 'Le Conte', 'VLSB', 'Cory', 'North Gate', 'Mezzo', 'Milano', 'Victory Point', 'Brewed Awakening', 'Trock', '51B', 'Big C', 'Unit 3', 'Blackwell', 'Foothill', 'CREAM', 'Imm Thai', 'Chipotle', 'Evans']
 	total = len(emojis)
 	idx = random.randrange(0, total)
 	return (emojis[idx], animal_names[idx])
