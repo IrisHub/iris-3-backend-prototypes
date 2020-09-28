@@ -11,6 +11,12 @@ case $key in
 	shift
 	shift
 	;;
+    -h|--handler)
+    HANDLER="$2"
+    HANDLER="${HANDLER:- }"
+    shift
+    shift
+    ;;
     -d|--deployment)
     DEPLOY="$2"
     shift
@@ -30,19 +36,19 @@ esac
 done
 set -- "${POSITIONAL[@]}" # restore positional parameters
 
-pip install -r --target ./package requirements.txt
+pip install --target ./package -r requirements.txt
 cd package
-zip -r9 ${OLDPWD}/function.zip
+zip -r9 ${OLDPWD}/function.zip .
 cd ${OLDPWD}
 zip -g function.zip "${POSITIONAL[@]}"
 if [ "${DEPLOY}" = launch ]
 then
     case "${PERM}" in
-        "default") aws lambda create-function --function-name "${NAME}" --runtime python3.8 --zip-file fileb://function.zip --handler main.event_handler --role arn:aws:iam::180390500254:role/lambda_default
+        "default") aws lambda create-function --function-name "${NAME}" --runtime python3.8 --zip-file fileb://function.zip --handler "${HANDLER}" --role arn:aws:iam::180390500254:role/lambda_default
         ;;
-        "dynamodb_full") aws lambda create-function --function-name "${NAME}" --runtime python3.8 --zip-file fileb://function.zip --handler main.event_handler --role arn:aws:iam::180390500254:role/lambda_dynamodb_full
+        "dynamodb_full") aws lambda create-function --function-name "${NAME}" --runtime python3.8 --zip-file fileb://function.zip --handler "${HANDLER}" --role arn:aws:iam::180390500254:role/lambda_dynamodb_full
         ;;
-        "s3_dynamodb_full") aws lambda create-function --function-name "${NAME}" --runtime python3.8 --zip-file fileb://function.zip --handler main.event_handler --role arn:aws:iam::180390500254:role/lambda_s3_dynamodb_full
+        "s3_dynamodb_full") aws lambda create-function --function-name "${NAME}" --runtime python3.8 --zip-file fileb://function.zip --handler "${HANDLER}" --role arn:aws:iam::180390500254:role/lambda_s3_dynamodb_full
         ;;
     esac
 fi
